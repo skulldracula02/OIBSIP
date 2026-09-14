@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Personal Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#home" class="brand">Tshwarelo Makgae</a>
+      <button class="nav-toggle" aria-label="Open navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="site-nav">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="home" class="hero-section">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Hello, I'm</p>
+          <h1>Tshwarelo Makgae</h1>
+          <p class="hero-subtitle">Front-End Developer building elegant digital experiences with HTML, CSS, and a focus on responsive design.</p>
+          <a href="#projects" class="btn btn-primary">View Projects</a>
+        </div>
+        <div class="hero-card">
+          <div class="avatar-placeholder" aria-hidden="true">
+            <span>AM</span>
+          </div>
+          <div class="hero-details">
+            <p>Web Designer & Developer</p>
+            <p>Based in your city</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section about-section">
+      <div class="container section-header">
+        <p class="section-tag">About Me</p>
+        <h2>Creative problem-solver with a user-first mindset.</h2>
+      </div>
+      <div class="container about-content">
+        <p>I create clean, modern websites that help people connect with ideas and opportunities. My background blends visual design, front-end development, and content clarity to make digital experiences feel approachable and polished.</p>
+        <p>When I'm not coding, I enjoy reading design articles, experimenting with CSS animations, and exploring new tools that make interfaces more accessible.</p>
+      </div>
+    </section>
+
+    <section id="skills" class="section skills-section">
+      <div class="container section-header">
+        <p class="section-tag">Skills</p>
+        <h2>Tools and technologies I use regularly.</h2>
+      </div>
+      <div class="container skills-grid">
+        <div class="skill-card">HTML5</div>
+        <div class="skill-card">CSS3</div>
+        <div class="skill-card">JavaScript</div>
+        <div class="skill-card">Responsive Design</div>
+        <div class="skill-card">Git & GitHub</div>
+        <div class="skill-card">Figma</div>
+      </div>
+    </section>
+
+    <section id="projects" class="section projects-section">
+      <div class="container section-header">
+        <p class="section-tag">Projects</p>
+        <h2>Recent work and development practice.</h2>
+      </div>
+      <div class="container projects-grid">
+        <article class="project-card">
+          <h3>Portfolio Website</h3>
+          <p>A responsive portfolio template showcasing skills, projects, and contact details with smooth navigation and clean visuals.</p>
+          <a href="#" class="project-link">GitHub placeholder</a>
+        </article>
+        <article class="project-card">
+          <h3>Dashboard Interface</h3>
+          <p>Design exploration for a data dashboard, focused on readability, spacing, and mobile-first responsiveness.</p>
+          <a href="#" class="project-link">GitHub placeholder</a>
+        </article>
+      </div>
+    </section>
+
+    <section id="contact" class="section contact-section">
+      <div class="container section-header">
+        <p class="section-tag">Contact</p>
+        <h2>Let’s connect and build something great.</h2>
+      </div>
+      <div class="container contact-grid">
+        <div>
+          <p class="contact-label">Name</p>
+          <p>Tshwarelo Makgae</p>
+        </div>
+        <div>
+          <p class="contact-label">Email</p>
+          <p><a href="mailto:clementtshwarelo1@gmail.com">tshwarelo.makgae@gmail.com</a></p>
+        </div>
+        <div class="social-links">
+          <a href="#" aria-label="LinkedIn">LinkedIn</a>
+          <a href="#" aria-label="GitHub">GitHub</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© 2026 Tshwarelo Makgae. Designed with clarity and responsiveness in mind.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

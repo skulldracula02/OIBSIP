@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Generated data / transient run artifacts
+data/creditcard_synthetic.csv
+nbexec.log
+nbout.ipynb
+ping*.txt
+
+# Keep the real dataset out of git (it is ~150MB) — download it from Kaggle
+data/creditcard.csv

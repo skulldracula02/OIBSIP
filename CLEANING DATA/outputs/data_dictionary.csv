@@ -1,0 +1,18 @@
+column,dtype,non_null,null_pct,n_unique,example
+Passenger Id,string,891,0.0,891,P00669
+Name,string,891,0.0,891,"Cook, Mr. Jacob"
+Sex,category,891,0.0,2,Male
+Age,float64,891,0.0,94,43.0
+Pclass,int64,891,0.0,3,3
+Survived,int64,891,0.0,2,0
+SibSp,int64,891,0.0,7,0
+Parch,int64,891,0.0,7,0
+Ticket,string,891,0.0,681,A/5 3536
+Fare,float64,891,0.0,246,8.05
+Cabin,string,188,78.9,139,C82
+HasCabin,int64,891,0.0,2,0
+Deck,category,891,0.0,9,Unknown
+Embarked,category,891,0.0,3,S
+Email,string,834,6.4,755,cook@mail.com
+Join Date,datetime64[ns],891,0.0,623,1912-07-25 00:00:00
+Annual Spend,float64,891,0.0,831,287.78

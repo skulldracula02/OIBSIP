@@ -1,0 +1,11 @@
+{
+  "hello": "greeting",
+  "time": "time",
+  "date": "date",
+  "search": "search",
+  "weather": "weather",
+  "email": "email",
+  "reminder": "reminder",
+  "who are you": "identity",
+  "exit": "exit"
+}

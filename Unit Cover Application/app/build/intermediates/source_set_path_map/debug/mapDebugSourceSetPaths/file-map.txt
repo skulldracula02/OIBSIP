@@ -1,0 +1,34 @@
+com.example.unitconverter.app-lifecycle-runtime-2.6.2-0 C:\Users\asus\.gradle\caches\9.0.0\transforms\0522e0ab42e395cd6693d4412438107b\transformed\lifecycle-runtime-2.6.2\res
+com.example.unitconverter.app-transition-1.5.0-1 C:\Users\asus\.gradle\caches\9.0.0\transforms\12cac177a2b3dec346749a9a753bb356\transformed\transition-1.5.0\res
+com.example.unitconverter.app-jetified-core-ktx-1.13.0-2 C:\Users\asus\.gradle\caches\9.0.0\transforms\17ce487822fd0f16f7ad7c8306f9f9b4\transformed\jetified-core-ktx-1.13.0\res
+com.example.unitconverter.app-jetified-viewpager2-1.0.0-3 C:\Users\asus\.gradle\caches\9.0.0\transforms\21a253f86b95769af898c5f706ec8d63\transformed\jetified-viewpager2-1.0.0\res
+com.example.unitconverter.app-jetified-annotation-experimental-1.4.0-4 C:\Users\asus\.gradle\caches\9.0.0\transforms\372f13a55863b0667198e88ca035121b\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.unitconverter.app-core-runtime-2.2.0-5 C:\Users\asus\.gradle\caches\9.0.0\transforms\431f657c55ff32a88977649bac351612\transformed\core-runtime-2.2.0\res
+com.example.unitconverter.app-jetified-startup-runtime-1.1.1-6 C:\Users\asus\.gradle\caches\9.0.0\transforms\4404a9f0db92825579b0fd6ab6b739aa\transformed\jetified-startup-runtime-1.1.1\res
+com.example.unitconverter.app-appcompat-1.6.1-7 C:\Users\asus\.gradle\caches\9.0.0\transforms\44ab3bb81eadda441f47ab2db4ef634d\transformed\appcompat-1.6.1\res
+com.example.unitconverter.app-jetified-savedstate-1.2.1-8 C:\Users\asus\.gradle\caches\9.0.0\transforms\4ddc4a7ddb44ae71dd5e87ded67fd86a\transformed\jetified-savedstate-1.2.1\res
+com.example.unitconverter.app-recyclerview-1.1.0-9 C:\Users\asus\.gradle\caches\9.0.0\transforms\534302b3903b0846e814dbcf4c64ba7a\transformed\recyclerview-1.1.0\res
+com.example.unitconverter.app-drawerlayout-1.1.1-10 C:\Users\asus\.gradle\caches\9.0.0\transforms\5eccf634a4618641b89a6a33a1c2c0fd\transformed\drawerlayout-1.1.1\res
+com.example.unitconverter.app-jetified-lifecycle-process-2.6.2-11 C:\Users\asus\.gradle\caches\9.0.0\transforms\5f493a3546baaaff392b19be4a47dd0c\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.unitconverter.app-cardview-1.0.0-12 C:\Users\asus\.gradle\caches\9.0.0\transforms\6808b8cd00033d8212af897a56ed28d6\transformed\cardview-1.0.0\res
+com.example.unitconverter.app-jetified-emoji2-views-helper-1.2.0-13 C:\Users\asus\.gradle\caches\9.0.0\transforms\77f44febc02a762485dcf8dc6f175786\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.unitconverter.app-lifecycle-viewmodel-2.6.2-14 C:\Users\asus\.gradle\caches\9.0.0\transforms\8c66d9ef0d14c17c42c11b03847a5941\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.unitconverter.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-15 C:\Users\asus\.gradle\caches\9.0.0\transforms\956adefdcdf50e3774bdad361fa924b3\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.unitconverter.app-jetified-profileinstaller-1.3.0-16 C:\Users\asus\.gradle\caches\9.0.0\transforms\9a41509ff23f47adb18aaf0144556724\transformed\jetified-profileinstaller-1.3.0\res
+com.example.unitconverter.app-fragment-1.3.6-17 C:\Users\asus\.gradle\caches\9.0.0\transforms\9ea0105233fbbc46a8ca44f6cb6b11ff\transformed\fragment-1.3.6\res
+com.example.unitconverter.app-lifecycle-livedata-2.6.2-18 C:\Users\asus\.gradle\caches\9.0.0\transforms\a96eebb481ae65b571631a661f79c292\transformed\lifecycle-livedata-2.6.2\res
+com.example.unitconverter.app-jetified-appcompat-resources-1.6.1-19 C:\Users\asus\.gradle\caches\9.0.0\transforms\b4dfee2c1066389f5fb5afaa02df5bac\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.unitconverter.app-core-1.13.0-20 C:\Users\asus\.gradle\caches\9.0.0\transforms\b690ac3690076a4f0f069d7eba3d9504\transformed\core-1.13.0\res
+com.example.unitconverter.app-jetified-activity-1.8.0-21 C:\Users\asus\.gradle\caches\9.0.0\transforms\be4e3a69704003629612da2f8bbe00f1\transformed\jetified-activity-1.8.0\res
+com.example.unitconverter.app-coordinatorlayout-1.1.0-22 C:\Users\asus\.gradle\caches\9.0.0\transforms\c53a09f3f7e1c3a36c2a424c1ee1f46d\transformed\coordinatorlayout-1.1.0\res
+com.example.unitconverter.app-constraintlayout-2.0.1-23 C:\Users\asus\.gradle\caches\9.0.0\transforms\d84f86126595ccc24cfbb32851b6d47c\transformed\constraintlayout-2.0.1\res
+com.example.unitconverter.app-lifecycle-livedata-core-2.6.2-24 C:\Users\asus\.gradle\caches\9.0.0\transforms\e5a50bffaedb37e89ed0aaf7f00d0349\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.unitconverter.app-jetified-emoji2-1.2.0-25 C:\Users\asus\.gradle\caches\9.0.0\transforms\faf7462bcda163e5e161c5005e3b0f33\transformed\jetified-emoji2-1.2.0\res
+com.example.unitconverter.app-material-1.12.0-26 C:\Users\asus\.gradle\caches\9.0.0\transforms\fea20dbcc50d0a0f299f3a7eaf8abe94\transformed\material-1.12.0\res
+com.example.unitconverter.app-pngs-27 C:\Users\asus\Desktop\Unit Cover Application\app\build\generated\res\pngs\debug
+com.example.unitconverter.app-resValues-28 C:\Users\asus\Desktop\Unit Cover Application\app\build\generated\res\resValues\debug
+com.example.unitconverter.app-packageDebugResources-29 C:\Users\asus\Desktop\Unit Cover Application\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.unitconverter.app-packageDebugResources-30 C:\Users\asus\Desktop\Unit Cover Application\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.unitconverter.app-debug-31 C:\Users\asus\Desktop\Unit Cover Application\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.unitconverter.app-debug-32 C:\Users\asus\Desktop\Unit Cover Application\app\src\debug\res
+com.example.unitconverter.app-main-33 C:\Users\asus\Desktop\Unit Cover Application\app\src\main\res

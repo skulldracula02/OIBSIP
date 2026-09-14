@@ -1,0 +1,16 @@
+column,nulls_before,nulls_after,nulls_fixed,distinct_before,distinct_after,dtype_before,dtype_after
+Passenger Id,0,0,0,903,891,str,string
+Name,0,0,0,891,891,str,string
+Sex,0,0,0,13,2,str,category
+Age,228,0,228,92,94,str,float64
+Pclass,2,0,2,10,3,str,int64
+Survived,0,0,0,4,2,str,int64
+SibSp,0,0,0,12,7,str,int64
+Parch,0,0,0,7,7,str,int64
+Ticket,0,0,0,765,681,str,string
+Fare,24,0,24,291,246,str,float64
+Cabin,725,703,22,140,139,str,string
+Embarked,21,0,21,12,3,str,category
+Email,57,57,0,756,755,str,string
+Join Date,0,0,0,814,623,str,datetime64[ns]
+Annual Spend,40,0,40,844,831,str,float64

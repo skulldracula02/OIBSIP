@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="card">
+    <h1 id="title">Dashboard</h1>
+    <p id="welcome"></p>
+    <button id="logout">Logout</button>
+  </main>
+  <script src="js/auth.js"></script>
+  <script>
+    (async () => {
+      const ok = await verifySession();
+      if (!ok) { location.href = 'index.html'; return; }
+      const user = getCurrentUser();
+      document.getElementById('welcome').textContent = `Welcome, ${user.username}!`;
+      document.getElementById('logout').addEventListener('click', () => {
+        logout();
+        location.href = 'index.html';
+      });
+    })();
+  </script>
+</body>
+</html>

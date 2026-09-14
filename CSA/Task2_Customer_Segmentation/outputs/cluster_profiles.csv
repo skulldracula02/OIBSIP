@@ -1,0 +1,7 @@
+Segment,Customers,Recency,Frequency,Monetary,AvgOrderValue,TenureDays,Revenue,CustomerShare_%,RevenueShare_%,Segment
+Champions,99,11.6,21.83,5595.56,242.2,563.0,553960.59,8.3,62.0,Champions
+Loyal Customers,190,38.6,11.51,1169.5,99.85,347.0,222204.67,16.0,24.9,Loyal Customers
+Loyal Customers (less frequent),92,12.1,6.68,378.04,52.06,163.0,34779.55,7.8,3.9,Loyal Customers (less frequent)
+At Risk - High Value,306,123.5,5.56,222.34,40.96,246.0,68037.04,25.8,7.6,At Risk - High Value
+Hibernating / Lost,250,264.1,2.26,38.74,17.52,294.0,9685.58,21.1,1.1,Hibernating / Lost
+New / Promising,249,22.2,1.73,17.44,10.36,36.0,4343.47,21.0,0.5,New / Promising

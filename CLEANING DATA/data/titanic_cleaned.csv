@@ -1,0 +1,892 @@
+Passenger Id,Name,Sex,Age,Pclass,Survived,SibSp,Parch,Ticket,Fare,Cabin,HasCabin,Deck,Embarked,Email,Join Date,Annual Spend
+P00669,"Cook, Mr. Jacob",Male,43.0,3,0,0,0,A/5 3536,8.05,,0,Unknown,S,cook@mail.com,1912-07-25,287.78
+P00031,"Uruchurtu, Don. Manuel E",Male,40.0,1,0,0,0,PC 17601,27.7208,,0,Unknown,C,uruchurtu@yahoo.com,1911-09-19,972.04
+P00378,"Widener, Mr. Harry Elkins",Male,27.0,1,0,0,2,113503,211.5,C82,1,C,C,widener@outlook.com,1912-09-11,5066.79
+P00536,"Hart, Miss. Eva Miriam",Female,7.0,2,1,0,2,F.C.C. 13529,26.25,,0,Unknown,S,hart@gmail.com,1912-01-06,285.39
+P00807,"Andrews, Mr. Thomas Jr",Male,35.0,1,0,0,0,112050,0.0,A36,1,A,S,andrews@outlook.com,1910-06-13,1192.635
+P00793,"Sage, Miss. Stella Anna",Female,42.0,3,0,8,2,CA. 2343,69.55,,0,Unknown,S,sage@outlook.com,1912-05-21,1197.05
+P00364,"Asim, Mr. Adola",Male,35.0,3,0,0,0,SOTON/O.Q. 3101310,7.05,,0,Unknown,S,,1911-12-13,83.92
+P00584,"Ross, Mr. John Hugo",Male,36.0,1,0,0,0,13049,40.125,A10,1,A,C,ross@gmail.com,1912-12-05,988.1
+P00166,"Goldsmith, Master. Frank John William ""Frankie""",Male,9.0,3,1,0,2,363291,20.525,,0,Unknown,S,goldsmith@mail.com,1911-05-08,762.1
+P00484,"Turkula, Mrs. (Hedwig)",Female,63.0,3,1,0,0,4134,9.5875,,0,Unknown,S,turkula@mail.com,1912-08-29,375.65
+P00774,"Elias, Mr. Dibo",Male,25.0,3,0,0,0,2674,7.225,,0,Unknown,C,elias@outlook.com,1911-07-30,269.9
+P00552,"Sharp, Mr. Percival James R",Male,27.0,2,0,0,0,244358,26.0,,0,Unknown,S,sharp@yahoo.com,1912-10-20,7727.5800000000045
+P00769,"Moran, Mr. Daniel J",Male,25.5,3,0,1,0,371110,24.15,,0,Unknown,Q,moran@gmail.com,1910-10-05,220.34
+P00695,"Weir, Col. John",Male,60.0,1,0,0,0,113800,26.55,,0,Unknown,S,,1910-12-14,1010.01
+P00719,"McEvoy, Mr. Michael",Male,28.25,3,0,0,0,36568,15.5,,0,Unknown,Q,mcevoy@gmail.com,1910-05-18,338.53
+P00313,"Lahtinen, Mrs. William (Anna Sylfven)",Female,26.0,2,0,1,1,250651,26.0,,0,Unknown,S,lahtinen@gmail.com,1912-04-13,799.16
+P00714,"Larsson, Mr. August Viktor",Male,29.0,3,0,0,0,7545,9.4833,,0,Unknown,S,larsson@mail.com,1910-05-16,147.26
+P00310,"Francatelli, Miss. Laura Mabel",Female,30.0,1,1,0,0,PC 17485,56.9292,E36,1,E,C,francatelli@gmail.com,1912-08-20,1487.3
+P00846,"Abbing, Mr. Anthony",Male,42.0,3,0,0,0,C.A. 5547,7.55,,0,Unknown,S,abbing@gmail.com,1911-07-05,274.39
+P00617,"Danbom, Mr. Ernst Gilbert",Male,34.0,3,0,1,1,347080,14.4,,0,Unknown,S,danbom@gmail.com,1911-06-10,327.03
+P00356,"Vanden Steen, Mr. Leo Peter",Male,28.0,3,0,0,0,345783,9.5,,0,Unknown,S,vandensteen@mail.com,1912-07-30,261.59
+P00040,"Nicola-Yarred, Miss. Jamila",Female,14.0,3,1,1,0,2651,11.2417,,0,Unknown,C,nicolayarred@outlook.com,1911-12-08,196.43
+P00232,"Larsson, Mr. Bengt Edvin",Male,29.0,3,0,0,0,347067,7.775,,0,Unknown,S,larsson@mail.com,1910-10-22,269.33
+P00867,"Duran y More, Miss. Asuncion",Female,34.0,2,1,1,0,SC/PARIS 2149,13.8583,,0,Unknown,C,duranymore@mail.com,1911-10-29,542.07
+P00604,"Torber, Mr. Ernst William",Male,22.0,3,0,0,0,364511,8.05,,0,Unknown,S,torber@gmail.com,1911-03-26,174.7
+P00064,"Skoog, Master. Harald",Male,4.0,3,0,3,2,347088,27.9,,0,Unknown,S,skoog@mail.com,1912-05-10,252.89
+P00193,"Andersen-Jensen, Miss. Carla Christine Nielsine",Female,19.0,3,1,1,0,350046,7.8542,,0,Unknown,S,andersenjensen@outlook.com,1911-09-01,274.79
+P00482,"Frost, Mr. Anthony Wood ""Archie""",Male,30.0,2,0,0,0,239854,0.0,,0,Unknown,S,frost@mail.com,1911-05-08,379.24
+P00866,"Bystrom, Mrs. (Karolina)",Female,42.0,2,1,0,0,236852,13.0,,0,Unknown,S,bystrom@outlook.com,1911-01-17,162.67
+P00068,"Crease, Mr. Ernest James",Male,28.0,3,0,0,0,S.P. 3464,8.1583,,0,Unknown,S,crease@yahoo.com,1912-11-29,193.35
+P00073,"Hood, Mr. Ambrose Jr",Male,21.0,3,0,0,0,S.O.C. 14879,73.5,,0,Unknown,S,hood@yahoo.com,1910-08-27,883.56
+P00656,"Hickman, Mr. Leonard Mark",Male,24.0,3,0,2,0,S.O.C. 14879,73.5,,0,Unknown,S,hickman@outlook.com,1912-01-23,1154.66
+P00680,"Cardeza, Mr. Thomas Drake Martinez",Male,36.0,1,1,0,1,PC 17755,512.3292,B51 B53 B55,1,B,C,cardeza@mail.com,1910-03-28,1192.635
+P00140,"Giglio, Mr. Victor",Male,24.0,3,0,0,0,PC 17593,79.2,B86,1,B,C,giglio@yahoo.com,1911-06-18,2057.47
+P00733,"Knight, Mr. Robert J",Male,48.0,2,0,0,0,239855,0.0,,0,Unknown,S,knight@mail.com,1910-01-19,379.24
+P00824,"Moor, Mrs. (Beila)",Female,27.0,3,1,0,1,392096,12.475,E121,1,E,S,moor@outlook.com,1911-07-12,220.09
+P00175,"Smith, Mr. James Clinch",Male,56.0,1,0,0,0,17764,30.6958,A7,1,A,S,smith@outlook.com,1911-03-01,1204.38
+P00500,"Svensson, Mr. Olof",Male,24.0,3,0,0,0,350035,7.7958,,0,Unknown,S,svensson@yahoo.com,1910-12-02,295.83
+P00071,"Jenkin, Mr. Stephen Curnow",Male,32.0,2,0,0,0,C.A. 33111,10.5,,0,Unknown,S,jenkin@mail.com,1911-03-24,230.01
+P00717,"Endres, Miss. Caroline Louise",Female,38.0,1,1,0,0,PC 17757,227.525,C45,1,C,C,endres@outlook.com,1911-10-13,3746.68
+P00024,"Sloper, Mr. William Thompson",Male,28.0,3,1,0,0,113788,35.5,A6,1,A,S,sloper@mail.com,1911-10-11,1399.97
+P00542,"Andersson, Miss. Ingeborg Constanzia",Female,9.0,3,0,4,2,347082,31.275,,0,Unknown,S,andersson@gmail.com,1910-07-07,252.89
+P00799,"Ibrahim Shawah, Mr. Yousseff",Male,30.0,3,0,0,0,2685,7.2292,,0,Unknown,C,ibrahimshawah@yahoo.com,1910-04-14,149.23
+P00673,"Mitchell, Mr. Henry Michael",Male,70.0,2,0,0,0,C.A. 24580,10.5,,0,Unknown,S,mitchell@outlook.com,1912-10-03,379.24
+P00826,"Flynn, Mr. John",Male,26.5,3,0,0,0,368323,6.95,,0,Unknown,Q,flynn@gmail.com,1911-12-09,130.52
+P00251,"Reed, Mr. James George",Male,28.0,3,0,0,0,362316,7.25,,0,Unknown,S,reed@gmail.com,1911-01-06,240.69
+P00753,"Vande Velde, Mr. Johannes Joseph",Male,33.0,3,0,0,0,345780,9.5,,0,Unknown,S,vandevelde@gmail.com,1911-10-14,136.97
+P00351,"Odahl, Mr. Nils Martin",Male,23.0,3,0,0,0,7267,9.225,,0,Unknown,S,odahl@outlook.com,1912-05-01,168.38
+P00759,"Theobald, Mr. Thomas Leonard",Male,34.0,3,0,0,0,363294,8.05,,0,Unknown,S,,1912-07-04,271.18
+P00760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Female,33.0,3,1,0,0,110152,86.5,B77,1,B,S,rothes@outlook.com,1910-07-27,1428.37
+P00108,"Moss, Mr. Albert Johan",Male,26.0,3,1,0,0,312991,7.775,,0,Unknown,S,moss@outlook.com,1912-11-19,309.35
+P00446,"Dodge, Master. Washington",Male,4.0,1,1,0,2,33638,81.8583,A34,1,A,S,dodge@outlook.com,1911-11-30,1146.3
+P00142,"Nysten, Miss. Anna Sofia",Female,22.0,3,1,0,0,347081,7.75,,0,Unknown,S,nysten@gmail.com,1912-11-03,188.22
+P00651,"Mitkoff, Mr. Mito",Male,26.0,3,0,0,0,349221,7.8958,,0,Unknown,S,mitkoff@yahoo.com,1910-09-22,124.0
+P00545,"Douglas, Mr. Walter Donald",Male,50.0,3,0,1,0,PC 17761,106.425,C86,1,C,C,douglas@mail.com,1910-04-22,4174.37
+P00111,"Porter, Mr. Walter Chamberlain",Male,47.0,1,0,0,0,110465,61.679199999999994,C110,1,C,S,porter@yahoo.com,1912-03-17,1178.55
+P00594,"Bourke, Miss. Mary",Female,24.0,3,0,0,2,364848,7.75,,0,Unknown,Q,bourke@mail.com,1911-03-31,220.13
+P00520,"Pavlovic, Mr. Stefo",Male,30.0,3,0,0,0,349242,7.8958,,0,Unknown,S,pavlovic@outlook.com,1910-08-03,272.88
+P100042,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Female,27.0,3,0,1,0,11668,21.0,,0,Unknown,S,turpin@mail.com,1910-10-09,440.06
+P00676,"Edvardsson, Mr. Gustaf Hjalmar",Male,18.0,3,0,0,0,349912,7.775,,0,Unknown,S,edvardsson@outlook.com,1912-11-26,82.39
+P00281,"Duane, Mr. Frank",Male,65.0,3,0,0,0,336439,7.75,,0,Unknown,Q,duane@yahoo.com,1911-11-22,244.97
+P00137,"Newsom, Miss. Helen Monypeny",Female,19.0,3,1,0,2,11752,26.2833,D47,1,D,S,newsom@outlook.com,1910-11-04,518.38
+P00423,"Zimmerman, Mr. Leo",Male,22.0,3,0,0,0,315082,7.875,,0,Unknown,S,zimmerman@mail.com,1912-07-23,64.16
+P00209,"Carr, Miss. Helen ""Ellen""",Female,16.0,3,1,0,0,367231,7.75,,0,Unknown,Q,carr@yahoo.com,1911-04-20,103.59
+P00443,"Petterson, Mr. Johan Emil",Male,25.0,3,0,1,0,347076,7.775,,0,Unknown,S,petterson@gmail.com,1912-06-03,302.4
+P00087,"Ford, Mr. William Neal",Male,16.0,3,0,1,3,W./C. 6608,34.375,,0,Unknown,S,ford@gmail.com,1911-09-19,252.89
+P00045,"Devaney, Miss. Margaret Delia",Female,19.0,3,1,0,0,330958,7.8792,,0,Unknown,Q,devaney@gmail.com,1912-10-26,115.18
+P00532,"Toufik, Mr. Nakli",Male,26.0,3,0,0,0,2641,8.05,,0,Unknown,C,toufik@gmail.com,1911-10-07,163.42
+P100048,"O'Driscoll, Miss. Bridget",Female,19.0,3,1,0,0,14311,7.75,,0,Unknown,Q,odriscoll@mail.com,1911-05-21,284.24
+P00635,"Skoog, Miss. Mabel",Female,9.0,3,0,3,2,347088,27.9,,0,Unknown,S,skoog@gmail.com,1910-02-21,379.6
+P00291,"Barber, Miss. Ellen ""Nellie""",Female,26.0,3,1,0,0,19877,78.85,,0,Unknown,S,barber@mail.com,1912-12-10,930.83
+P00339,"Dahl, Mr. Karl Edwart",Male,45.0,3,1,0,0,7598,8.05,,0,Unknown,S,dahl@gmail.com,1910-11-12,79.72
+P00358,"Funk, Miss. Annie Clemmer",Female,38.0,3,0,0,0,237671,13.0,,0,Unknown,S,funk@mail.com,1910-12-23,473.56
+P00293,"Levy, Mr. Rene Jacques",Male,48.0,2,0,0,0,SC/Paris 2163,13.7917,D,1,D,C,levy@mail.com,1911-05-06,175.63
+P00228,"Lovell, Mr. John Hall (""Henry"")",Male,20.5,3,0,0,0,A/5 21173,7.25,,0,Unknown,S,lovell@outlook.com,1912-03-02,120.79
+P00592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Female,52.0,1,1,1,0,36947,78.2667,D20,1,D,C,stephenson@mail.com,1910-11-14,2111.21
+P00426,"Wiseman, Mr. Phillippe",Male,28.0,3,0,0,0,A/4. 34244,7.25,,0,Unknown,S,wiseman@gmail.com,1912-02-17,188.54
+P00789,"Dean, Master. Bertram Vere",Male,1.0,3,1,1,2,C.A. 2315,20.575,,0,Unknown,S,dean@outlook.com,1911-07-18,511.88
+P00523,"Lahoud, Mr. Sarkis",Male,22.0,3,0,0,0,2624,7.225,,0,Unknown,C,lahoud@gmail.com,1912-05-17,275.91
+P100050,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Female,18.0,3,0,1,0,349237,17.8,,0,Unknown,S,arnoldfranchi@mail.com,1912-01-27,293.08
+P00353,"Elias, Mr. Tannous",Male,15.0,3,0,1,1,2695,7.2292,,0,Unknown,C,elias@yahoo.com,1911-06-21,70.62
+P00494,"Artagaveytia, Mr. Ramon",Male,71.0,1,0,0,0,PC 17609,49.5042,,0,Unknown,S,,1911-02-28,1914.76
+P00061,"Sirayanian, Mr. Orsen",Male,25.0,3,0,0,0,2669,7.2292,,0,Unknown,C,sirayanian@mail.com,1910-11-30,115.3
+P00599,"Boulos, Mr. Hanna",Male,26.0,3,0,0,0,2664,7.225,,0,Unknown,C,boulos@outlook.com,1911-07-11,167.75
+P00723,"Gillespie, Mr. William Henry",Male,50.0,3,0,0,0,12233,13.0,,0,Unknown,S,gillespie@mail.com,1912-01-29,261.38
+P00427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Female,28.0,2,1,1,0,2003,26.0,,0,Unknown,S,clarke@mail.com,1911-09-10,230.07
+P00469,"Scanlan, Mr. James",Male,25.0,3,0,0,0,36209,7.725,,0,Unknown,Q,scanlan@gmail.com,1911-05-02,102.19
+P00067,"Nye, Mrs. (Elizabeth Ramell)",Female,29.0,3,1,0,0,C.A. 29395,10.5,F33,1,F,S,nye@mail.com,1911-11-26,257.93
+P00333,"Graham, Mr. George Edward",Male,38.0,3,0,0,1,PC 17582,153.4625,,0,Unknown,S,graham@yahoo.com,1911-12-18,4401.5
+P00376,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Female,28.0,3,1,1,0,PC 17604,82.1708,,0,Unknown,C,meyer@gmail.com,1910-03-02,1105.27
+P00382,"Nakid, Miss. Maria (""Mary"")",Female,1.0,3,1,0,2,2653,15.7417,,0,Unknown,C,nakid@mail.com,1912-10-17,326.18
+P00558,"Robbins, Mr. Victor",Male,36.0,1,0,0,0,PC 17757,227.525,,0,Unknown,C,robbins@mail.com,1912-03-20,6377.9
+P00261,"Smith, Mr. Thomas",Male,28.0,3,0,0,0,384461,7.75,,0,Unknown,Q,,1911-07-07,280.01
+P00236,"Harknett, Miss. Alice Phoebe",Female,18.0,3,0,0,0,W./C. 6609,7.55,,0,Unknown,S,harknett@outlook.com,1912-07-24,319.075
+P00219,"Bazzani, Miss. Albina",Female,32.0,1,1,0,0,11813,76.2917,D15,1,D,C,bazzani@yahoo.com,1910-02-18,1080.51
+P00383,"Tikkanen, Mr. Juho",Male,32.0,3,0,0,0,STON/O 2. 3101293,7.925,,0,Unknown,S,tikkanen@mail.com,1912-01-10,211.69
+P00440,"Kvillner, Mr. Johan Henrik Johannesson",Male,31.0,3,0,0,0,C.A. 18723,10.5,,0,Unknown,S,kvillner@yahoo.com,1911-05-08,344.37
+P00763,"Barah, Mr. Hanna Assi",Male,20.0,3,1,0,0,2663,7.2292,,0,Unknown,C,barah@mail.com,1911-10-15,89.07
+P00306,"Allison, Master. Hudson Trevor",Male,36.0,1,1,1,2,113781,151.55,C22 C26,1,C,S,allison@gmail.com,1912-02-21,2283.18
+P00138,"Futrelle, Mr. Jacques Heath",Male,37.0,1,0,1,0,113803,53.1,,0,Unknown,S,futrelle@gmail.com,1911-09-11,1679.68
+P00539,"Risien, Mr. Samuel Beard",Male,25.0,3,0,0,0,364498,14.5,,0,Unknown,S,risien@outlook.com,1912-05-12,322.98
+P00077,"Staneff, Mr. Ivan",Male,26.0,3,0,0,0,349208,7.8958,,0,Unknown,S,staneff@yahoo.com,1910-12-14,104.5
+P00794,"Hoyt, Mr. William Fisher",Male,33.5,1,0,0,0,PC 17600,30.6958,,0,Unknown,C,hoyt@mail.com,1911-01-28,361.32
+P00437,"Ford, Miss. Doolina Margaret ""Daisy""",Female,21.0,3,0,2,2,W./C. 6608,34.375,,0,Unknown,S,,1910-04-03,896.59
+P00267,"Panula, Mr. Ernesti Arvid",Male,16.0,3,0,4,1,3101295,39.6875,,0,Unknown,S,panula@yahoo.com,1912-07-20,318.16
+P00216,"Newell, Miss. Madeleine",Female,31.0,1,1,1,0,35273,113.275,D36,1,D,C,newell@yahoo.com,1910-09-25,1192.635
+P00335,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Female,23.0,1,1,1,0,PC 17611,133.65,,0,Unknown,S,frauenthal@yahoo.com,1912-11-27,4876.68
+P00524,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Female,44.0,1,1,0,1,111361,57.9792,B18,1,B,C,hippach@mail.com,1911-10-03,1192.635
+P00508,"Bradley, Mr. George (""George Arthur Brayton"")",Male,47.5,3,1,0,0,111427,26.55,,0,Unknown,S,bradley@gmail.com,1910-01-28,694.5
+P00210,"Blank, Mr. Henry",Male,40.0,3,1,0,0,112277,31.0,A31,1,A,C,blank@mail.com,1911-06-10,255.45
+P00445,"Johannesen-Bratthammer, Mr. Bernt",Male,22.0,3,1,0,0,65306,8.1125,,0,Unknown,S,,1912-12-29,287.02
+P00750,"Connaghton, Mr. Michael",Male,31.0,3,0,0,0,335097,7.75,,0,Unknown,S,connaghton@gmail.com,1912-01-03,249.13
+P00663,"Colley, Mr. Edward Pomeroy",Male,47.0,1,0,0,0,5727,25.5875,E58,1,E,S,colley@gmail.com,1911-09-11,507.06
+P00199,"Madigan, Miss. Margaret ""Maggie""",Female,14.0,3,1,0,0,370370,7.75,,0,Unknown,Q,madigan@yahoo.com,1910-06-05,319.075
+P00839,"Chip, Mr. Chang",Male,32.0,3,1,0,0,1601,56.4958,,0,Unknown,S,,1910-04-25,1168.67
+P00300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Female,24.0,3,1,0,1,PC 17558,247.5208,B58 B60,1,B,C,baxter@gmail.com,1911-03-31,5534.4
+P00598,"Johnson, Mr. Alfred",Male,49.0,3,0,0,0,LINE,0.0,,0,Unknown,S,johnson@mail.com,1910-05-02,252.89
+P00686,"Laroche, Mr. Joseph Philippe Lemercier",Male,25.0,2,0,1,2,SC/Paris 2123,41.5792,,0,Unknown,C,laroche@mail.com,1911-08-24,1387.75
+P00844,"Lemberopolous, Mr. Peter L",Male,34.5,3,0,0,0,2683,6.4375,,0,Unknown,C,lemberopolous@gmail.com,1912-01-08,230.02
+P00498,"Shellard, Mr. Frederick William",Male,25.5,3,0,0,0,C.A. 6212,15.1,,0,Unknown,S,shellard@yahoo.com,1912-09-02,557.12
+P00317,"Kantor, Mrs. Sinai (Miriam Sternin)",Female,24.0,3,1,1,0,244367,26.0,,0,Unknown,S,kantor@outlook.com,1912-02-29,612.51
+P00295,"Mineff, Mr. Ivan",Male,24.0,3,0,0,0,349233,7.8958,,0,Unknown,S,mineff@outlook.com,1910-03-12,271.14
+P00623,"Nakid, Mr. Sahid",Male,20.0,3,1,1,1,2653,15.7417,,0,Unknown,C,nakid@gmail.com,1910-12-29,502.36
+P00003,"Heikkinen, Miss. Laina",Female,26.0,3,1,0,0,STON/O2. 3101282,7.925,,0,Unknown,S,heikkinen@outlook.com,1912-12-09,88.49
+P00097,"Goldschmidt, Mr. George B",Male,71.0,3,0,0,0,PC 17754,34.6542,A5,1,A,C,goldschmidt@gmail.com,1910-12-13,332.8
+P00468,"Smart, Mr. John Montgomery",Male,56.0,3,0,0,0,113792,26.55,,0,Unknown,S,smart@outlook.com,1910-04-23,798.73
+P00121,"Hickman, Mr. Stanley George",Male,21.0,2,0,2,0,S.O.C. 14879,73.5,,0,Unknown,S,hickman@yahoo.com,1912-05-25,1998.48
+P00466,"Goncalves, Mr. Manuel Estanslas",Male,38.0,3,0,0,0,SOTON/O.Q. 3101306,7.05,,0,Unknown,S,goncalves@mail.com,1911-01-12,173.82
+P00549,"Goldsmith, Mr. Frank John",Male,33.0,3,0,1,1,363291,20.525,,0,Unknown,S,goldsmith@outlook.com,1912-11-12,806.02
+P00079,"Caldwell, Master. Alden Gates",Male,0.83,2,1,0,2,248738,29.0,,0,Unknown,S,caldwell@outlook.com,1910-02-09,379.24
+P00240,"Hunt, Mr. George Henry",Male,33.0,3,0,0,0,SCO/W 1585,12.275,,0,Unknown,S,hunt@outlook.com,1911-03-22,490.77
+P00211,"Ali, Mr. Ahmed",Male,24.0,3,0,0,0,SOTON/O.Q. 3101311,7.05,,0,Unknown,S,ali@yahoo.com,1911-05-29,132.23
+P00653,"Kalvik, Mr. Johannes Halvorsen",Male,21.0,3,0,0,0,8475,8.4333,,0,Unknown,S,kalvik@gmail.com,1911-09-16,115.06
+P00413,"Minahan, Miss. Daisy E",Female,33.0,1,1,1,0,19928,90.0,C78,1,C,Q,minahan@yahoo.com,1912-09-07,1461.38
+P00591,"Rintamaki, Mr. Matti",Male,35.0,3,0,0,0,STON/O 2. 3101273,7.125,,0,Unknown,S,rintamaki@mail.com,1910-02-01,72.24
+P00514,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Female,54.0,3,1,1,0,PC 17603,59.4,,0,Unknown,C,rothschild@mail.com,1910-07-14,835.14
+P00810,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Female,33.0,1,1,1,0,113806,53.1,E8,1,E,S,chambers@mail.com,1910-10-18,1984.43
+P00066,"Moubarek, Master. Gerios",Male,25.0,3,1,1,1,2661,15.2458,,0,Unknown,C,,1911-03-15,501.21
+P00320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Female,40.0,1,1,1,1,16966,134.5,E34,1,E,C,spedden@mail.com,1911-11-14,4338.05
+P00287,"de Mulder, Mr. Theodore",Male,30.0,3,1,0,0,345774,9.5,,0,Unknown,S,demulder@gmail.com,1910-07-29,187.84
+P00612,"Jardin, Mr. Jose Neto",Male,25.5,3,0,0,0,SOTON/O.Q. 3101305,7.05,,0,Unknown,S,jardin@yahoo.com,1910-08-09,140.08
+P00329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Female,31.0,3,1,1,1,363291,20.525,,0,Unknown,S,goldsmith@gmail.com,1911-04-27,207.6
+P00745,"Stranden, Mr. Juho",Male,31.0,3,1,0,0,STON/O 2. 3101288,7.925,,0,Unknown,S,stranden@mail.com,1911-11-08,7727.5800000000045
+P00430,"Pickard, Mr. Berk (Berk Trembisky)",Male,32.0,3,1,0,0,SOTON/O.Q. 392078,8.05,E10,1,E,S,pickard@outlook.com,1910-05-06,7727.5800000000045
+P00315,"Hart, Mr. Benjamin",Male,43.0,2,0,1,1,F.C.C. 13529,26.25,,0,Unknown,S,hart@gmail.com,1912-09-16,251.55
+P00668,"Rommetvedt, Mr. Knud Paust",Male,19.0,3,0,0,0,312993,7.775,,0,Unknown,S,rommetvedt@mail.com,1912-12-25,222.18
+P00169,"Baumann, Mr. John D",Male,48.0,3,0,0,0,PC 17318,25.925,,0,Unknown,S,baumann@yahoo.com,1910-12-07,319.075
+P00823,"Reuchlin, Jonkheer. John George",Male,38.0,1,0,0,0,19972,0.0,,0,Unknown,S,reuchlin@gmail.com,1912-03-14,1192.635
+P00856,"Aks, Mrs. Sam (Leah Rosen)",Female,18.0,3,1,0,1,392091,9.35,,0,Unknown,S,aks@mail.com,1912-12-17,297.4
+P100047,"Lennon, Mr. Denis",Male,28.0,3,0,1,0,370371,15.5,,0,Unknown,Q,lennon@yahoo.com,1910-12-06,183.85
+P00573,"Flynn, Mr. John Irwin (""Irving"")",Male,38.0,3,1,0,0,PC 17474,26.3875,E25,1,E,S,flynn@yahoo.com,1910-02-25,481.93
+P00715,"Greenberg, Mr. Samuel",Male,52.0,3,0,0,0,250647,13.0,,0,Unknown,S,greenberg@mail.com,1912-09-01,218.9
+P00034,"Wheadon, Mr. Edward H",Male,66.0,2,0,0,0,C.A. 24579,10.5,,0,Unknown,S,,1910-09-29,139.54
+P00032,"Spencer, Mrs. William Augustus (Marie Eugenie)",Female,23.0,1,1,1,0,PC 17569,146.5208,B78,1,B,C,spencer@gmail.com,1911-05-04,1192.635
+P00685,"Brown, Mr. Thomas William Solomon",Male,60.0,2,0,1,1,29750,39.0,,0,Unknown,S,,1910-12-15,593.02
+P00418,"Silven, Miss. Lyyli Karoliina",Female,18.0,2,1,0,2,250652,13.0,,0,Unknown,S,silven@gmail.com,1911-03-31,125.87
+P00526,"Farrell, Mr. James",Male,40.5,3,0,0,0,367232,7.75,,0,Unknown,Q,farrell@yahoo.com,1911-11-27,197.33
+P00248,"Hamalainen, Mrs. William (Anna)",Female,24.0,2,1,0,2,250649,14.5,,0,Unknown,S,hamalainen@yahoo.com,1912-03-25,139.86
+P00110,"Moran, Miss. Bertha",Female,21.0,3,1,1,0,371110,24.15,,0,Unknown,Q,moran@outlook.com,1912-04-06,241.16
+P00078,"Moutal, Mr. Rahamin Haim",Male,26.0,3,0,0,0,374746,8.05,,0,Unknown,S,moutal@gmail.com,1912-10-04,207.22
+P00347,"Smith, Miss. Marion Elsie",Female,40.0,2,1,0,0,31418,13.0,,0,Unknown,S,smith@mail.com,1910-05-16,279.86
+P00214,"Givard, Mr. Hans Kristensen",Male,30.0,3,0,0,0,250646,13.0,,0,Unknown,S,givard@yahoo.com,1910-12-02,161.54
+P00083,"McDermott, Miss. Brigdet Delia",Female,19.0,3,1,0,0,330932,7.7875,,0,Unknown,Q,mcdermott@gmail.com,1911-06-04,290.78
+P00299,"Saalfeld, Mr. Adolphe",Male,33.5,1,1,0,0,19988,30.5,,0,Unknown,S,saalfeld@yahoo.com,1910-09-01,881.85
+P00332,"Partner, Mr. Austen",Male,45.5,1,0,0,0,113043,28.5,C124,1,C,S,partner@yahoo.com,1912-11-18,1043.79
+P00433,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Female,42.0,2,1,1,0,SC/AH 3085,26.0,,0,Unknown,S,louch@mail.com,1912-08-28,862.49
+P00868,"Roebling, Mr. Washington Augustus II",Male,31.0,3,0,0,0,PC 17590,50.4958,A24,1,A,S,roebling@mail.com,1911-09-18,1862.92
+P00706,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Male,28.0,2,0,0,0,250655,26.0,,0,Unknown,S,morley@outlook.com,1911-12-23,367.68
+P00533,"Elias, Mr. Joseph Jr",Male,17.0,3,0,1,1,2690,7.2292,,0,Unknown,C,,1912-01-09,147.21
+P00600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Male,49.0,3,1,1,0,PC 17485,56.9292,A20,1,A,C,duffgordon@outlook.com,1910-10-28,565.34
+P00006,"Moran, Mr. James",Male,28.25,3,0,0,0,330877,8.4583,,0,Unknown,Q,moran@mail.com,1911-12-07,142.94
+P00055,"Ostby, Mr. Engelhart Cornelius",Male,35.0,1,0,0,1,113509,61.9792,B30,1,B,C,ostby@yahoo.com,1910-05-11,982.26
+P00266,"Reeves, Mr. David",Male,36.0,3,0,0,0,C.A. 17248,10.5,,0,Unknown,S,reeves@outlook.com,1910-05-12,101.74
+P00479,"Karlsson, Mr. Nils August",Male,22.0,3,0,0,0,350060,7.5208,,0,Unknown,S,karlsson@outlook.com,1911-11-26,142.99
+P00334,"Vander Planke, Mr. Leo Edmondus",Male,16.0,3,0,2,0,345764,18.0,,0,Unknown,S,vanderplanke@mail.com,1911-04-02,243.05
+P00787,"Sjoblom, Miss. Anna Sofia",Female,18.0,3,1,0,0,3101265,7.4958,,0,Unknown,S,sjoblom@gmail.com,1911-04-05,165.8
+P00098,"Greenfield, Mr. William Bertram",Male,23.0,1,1,0,1,PC 17759,63.3583,D10 D12,1,D,C,greenfield@outlook.com,1910-09-27,1201.08
+P00212,"Cameron, Miss. Clear Annie",Female,35.0,2,1,0,0,F.C.C. 13528,21.0,,0,Unknown,S,cameron@outlook.com,1912-10-03,703.93
+P00746,"Crosby, Capt. Edward Gifford",Male,70.0,3,0,1,1,WE/P 5735,71.0,B22,1,B,S,crosby@yahoo.com,1910-01-07,1484.42
+P00585,"Paulner, Mr. Uscher",Male,19.0,3,0,0,0,3411,8.7125,,0,Unknown,C,paulner@yahoo.com,1910-11-27,211.38
+P00878,"Petroff, Mr. Nedelio",Male,19.0,3,0,0,0,349212,7.8958,,0,Unknown,S,petroff@outlook.com,1910-03-16,96.66
+P00452,"Hagland, Mr. Ingvald Olai Olsen",Male,19.0,3,0,1,0,65303,19.9667,,0,Unknown,S,hagland@mail.com,1910-05-11,467.55
+P00795,"Dantcheff, Mr. Ristiu",Male,26.0,3,0,0,0,349203,7.8958,,0,Unknown,S,dantcheff@yahoo.com,1911-07-24,123.39
+P00026,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Female,38.0,3,1,1,5,347077,31.3875,,0,Unknown,S,asplund@outlook.com,1911-08-18,323.24
+P00085,"Ilett, Miss. Bertha",Female,17.0,2,1,0,0,SO/C 14885,10.5,,0,Unknown,S,ilett@outlook.com,1910-09-05,288.33
+P00011,"Sandstrom, Miss. Marguerite Rut",Female,4.0,3,1,1,1,PP 9549,16.7,G6,1,G,S,sandstrom@outlook.com,1910-02-16,272.24
+P00345,"Fox, Mr. Stanley Hubert",Male,36.0,3,0,0,0,229236,13.0,,0,Unknown,S,fox@mail.com,1911-01-15,145.25
+P00255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Female,41.0,3,0,0,2,370129,20.2125,,0,Unknown,S,rosblom@outlook.com,1911-06-13,369.68
+P00399,"Pain, Dr. Alfred",Male,23.0,3,0,0,0,244278,10.5,,0,Unknown,S,pain@yahoo.com,1911-12-11,274.83
+P00245,"Attalah, Mr. Sleiman",Male,30.0,3,0,0,0,2694,7.225,,0,Unknown,C,attalah@outlook.com,1910-05-03,131.4
+P00622,"Kimball, Mr. Edwin Nelson Jr",Male,42.0,3,1,1,0,11753,52.5542,D19,1,D,S,kimball@yahoo.com,1912-03-25,1474.59
+P00119,"Baxter, Mr. Quigg Edmond",Male,24.0,3,0,0,1,PC 17558,247.5208,B58 B60,1,B,S,baxter@gmail.com,1911-07-24,5632.38
+P00301,"Kelly, Miss. Anna Katherine ""Annie Kate""",Female,14.0,3,1,0,0,9234,7.75,,0,Unknown,Q,kelly@yahoo.com,1910-11-01,159.44
+P00327,"Nysveen, Mr. Johan Hansen",Male,61.0,3,0,0,0,345364,6.2375,,0,Unknown,S,nysveen@gmail.com,1912-03-12,162.49
+P00030,"Todoroff, Mr. Lalio",Male,26.5,3,0,0,0,349216,7.8958,,0,Unknown,S,todoroff@yahoo.com,1912-08-13,87.67
+P00056,"Woolner, Mr. Hugh",Male,36.0,1,1,0,0,19947,35.5,C52,1,C,S,woolner@gmail.com,1912-12-01,1090.84
+P00431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Male,28.0,1,1,0,0,110564,26.55,C52,1,C,S,bjornstromsteffansson@gmail.com,1910-10-28,608.11
+P00391,"Carter, Mr. William Ernest",Male,36.0,3,1,1,2,113760,120.0,B96 B98,1,B,S,carter@outlook.com,1912-03-20,2529.29
+P100046,"Rogers, Mr. William John",Male,25.0,3,0,0,0,S.C./A.4. 23567,8.05,,0,Unknown,S,rogers@mail.com,1910-06-22,306.94
+P100051,"Panula, Master. Juha Niilo",Male,7.0,3,0,4,1,3101295,39.6875,,0,Unknown,S,panula@mail.com,1911-03-19,1392.53
+P00197,"Mernagh, Mr. Robert",Male,22.0,3,0,0,0,368703,7.75,,0,Unknown,Q,mernagh@yahoo.com,1912-12-20,251.12
+P00405,"Oreskovic, Miss. Marija",Female,20.0,3,0,0,0,315096,8.6625,,0,Unknown,S,oreskovic@yahoo.com,1911-07-18,174.25
+P00082,"Sheerlinck, Mr. Jan Baptist",Male,29.0,3,1,0,0,345779,9.5,,0,Unknown,S,sheerlinck@yahoo.com,1911-06-07,112.16
+P00465,"Maisner, Mr. Simon",Male,25.0,3,0,0,0,A/S 2816,8.05,,0,Unknown,S,maisner@gmail.com,1911-06-29,70.57
+P00690,"Madill, Miss. Georgette Alexandra",Female,15.0,3,1,0,1,24160,211.3375,B5,1,B,S,madill@mail.com,1910-11-21,7708.91
+P00569,"Doharr, Mr. Tannous",Male,30.0,3,0,0,0,2686,7.2292,,0,Unknown,C,doharr@outlook.com,1911-07-20,145.35
+P00282,"Olsson, Mr. Nils Johan Goransson",Male,28.0,3,0,0,0,347464,7.8542,,0,Unknown,S,olsson@yahoo.com,1911-03-05,127.54
+P00803,"Carter, Master. William Thornton II",Male,11.0,3,1,1,2,113760,120.0,B96 B98,1,B,S,carter@outlook.com,1911-03-09,3788.25
+P00205,"Cohen, Mr. Gurshon ""Gus""",Male,18.0,3,1,0,0,A/5 3540,8.05,,0,Unknown,S,cohen@yahoo.com,1910-03-29,170.01
+P00555,"Ohman, Miss. Velin",Female,22.0,3,1,0,0,347085,7.775,,0,Unknown,S,ohman@mail.com,1910-02-09,203.66
+P00659,"Eitemiller, Mr. George Floyd",Male,23.0,2,0,0,0,29751,13.0,,0,Unknown,S,eitemiller@gmail.com,1910-01-06,217.49
+P00297,"Hanna, Mr. Mansour",Male,23.5,3,0,0,0,2693,7.2292,,0,Unknown,C,hanna@mail.com,1911-10-18,286.94
+P00858,"Daly, Mr. Peter Denis",Male,51.0,3,1,0,0,113055,14.4542,E17,1,E,S,daly@gmail.com,1912-05-31,616.92
+P00548,"Padro y Manent, Mr. Julian",Male,48.0,2,1,0,0,SC/PARIS 2146,13.8625,,0,Unknown,C,padroymanent@outlook.com,1910-12-16,526.19
+P00369,"Jermyn, Miss. Annie",Female,19.0,3,1,0,0,14313,7.75,,0,Unknown,Q,jermyn@gmail.com,1912-05-28,309.18
+P00873,"Carlsson, Mr. Frans Olof",Male,33.0,3,0,0,0,695,5.0,B51 B53 B55,1,B,S,carlsson@gmail.com,1911-10-21,54.4
+P00829,"McCormack, Mr. Thomas Joseph",Male,19.0,3,1,0,0,367228,7.75,,0,Unknown,Q,,1911-07-21,267.74
+P00732,"Hassan, Mr. Houssein G N",Male,11.0,3,0,0,0,2699,18.7875,,0,Unknown,C,hassan@yahoo.com,1912-10-08,637.24
+P00882,"Markun, Mr. Johann",Male,33.0,3,0,0,0,349257,7.8958,,0,Unknown,S,markun@mail.com,1911-02-02,222.58
+P00060,"Goodwin, Master. William Frederick",Male,11.0,3,0,5,2,CA 2144,46.9,,0,Unknown,S,goodwin@outlook.com,1910-04-13,1171.9
+P00324,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Female,22.0,3,1,1,1,248738,29.0,,0,Unknown,S,caldwell@mail.com,1910-03-23,483.21
+P00862,"Giles, Mr. Frederick Edward",Male,21.0,2,0,1,0,28134,11.5,,0,Unknown,S,,1911-11-20,418.81
+P00381,"Bidois, Miss. Rosalie",Female,42.0,3,1,0,0,PC 17757,227.525,,0,Unknown,C,,1910-04-30,4592.24
+P00260,"Parrish, Mrs. (Lutie Davis)",Female,50.0,2,1,0,1,230433,26.0,,0,Unknown,S,parrish@outlook.com,1911-02-10,327.73
+P00491,"Hagland, Mr. Konrad Mathias Reiersen",Male,26.0,3,0,1,0,65304,19.9667,,0,Unknown,S,hagland@mail.com,1910-08-11,182.67
+P00303,"Johnson, Mr. William Cahoone Jr",Male,19.0,3,0,0,0,LINE,0.0,,0,Unknown,S,johnson@gmail.com,1912-02-09,319.075
+P00008,"Palsson, Master. Gosta Leonard",Male,2.0,3,0,3,1,349909,21.075,,0,Unknown,S,palsson@outlook.com,1910-03-18,293.88
+P00863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Female,48.0,1,1,0,0,17466,25.9292,D17,1,D,S,swift@gmail.com,1911-03-09,880.97
+P00156,"Williams, Mr. Charles Duane",Male,51.0,1,0,0,1,PC 17597,61.3792,,0,Unknown,C,williams@outlook.com,1910-09-20,879.56
+P00363,"Barbara, Mrs. (Catherine David)",Female,45.0,3,0,0,1,2691,14.4542,,0,Unknown,C,barbara@gmail.com,1912-05-19,402.21
+P00869,"van Melkebeke, Mr. Philemon",Male,26.0,3,0,0,0,345777,9.5,,0,Unknown,S,vanmelkebeke@yahoo.com,1911-09-29,356.26
+P00102,"Petroff, Mr. Pastcho (""Pentcho"")",Male,28.0,3,0,0,0,349215,7.8958,,0,Unknown,S,petroff@gmail.com,1910-08-04,263.69
+P00200,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Female,24.0,2,0,0,0,248747,13.0,,0,Unknown,S,,1911-07-05,203.93
+P00417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Female,23.0,2,1,1,1,28220,32.5,,0,Unknown,S,drew@mail.com,1910-09-18,955.71
+P00360,"Mockler, Miss. Helen Mary ""Ellie""",Female,24.0,3,1,0,0,330980,7.8792,,0,Unknown,Q,mockler@outlook.com,1910-09-22,88.2
+P00312,"Ryerson, Miss. Emily Borie",Female,37.0,1,1,2,2,PC 17608,262.375,B57 B59 B63 B66,1,B,C,ryerson@outlook.com,1912-12-14,7727.5800000000045
+P00581,"Christy, Miss. Julie Rachel",Female,27.0,3,1,1,1,237789,30.0,,0,Unknown,S,christy@gmail.com,1912-02-04,420.39
+P00708,"Calderhead, Mr. Edward Pennington",Male,42.0,1,1,0,0,PC 17476,26.2875,E24,1,E,S,calderhead@outlook.com,1912-07-14,893.34
+P00758,"Bailey, Mr. Percy Andrew",Male,18.0,2,0,0,0,29108,11.5,,0,Unknown,S,bailey@yahoo.com,1912-12-05,426.0
+P00805,"Hedman, Mr. Oskar Arvid",Male,19.0,3,1,0,0,347089,6.975,,0,Unknown,S,hedman@outlook.com,1912-01-18,172.55
+P00397,"Olsson, Miss. Elina",Female,31.0,3,0,0,0,350407,7.8542,,0,Unknown,S,olsson@gmail.com,1910-09-14,145.59
+P00530,"Hocking, Mr. Richard George",Male,23.0,2,0,2,1,29104,11.5,,0,Unknown,S,hocking@mail.com,1912-11-06,351.38
+P00519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Female,36.0,2,1,1,0,226875,26.0,,0,Unknown,S,angle@yahoo.com,1910-11-07,796.93
+P00352,"Williams-Lambert, Mr. Fletcher Fellows",Male,36.0,1,0,0,0,113510,35.0,C128,1,C,S,williamslambert@gmail.com,1912-11-20,684.05
+P00276,"Andrews, Miss. Kornelia Theodosia",Female,63.0,3,1,1,0,13502,77.9583,D7,1,D,S,andrews@yahoo.com,1910-01-25,319.075
+P00159,"Smiljanic, Mr. Mile",Male,30.0,3,0,0,0,315037,8.6625,,0,Unknown,S,smiljanic@outlook.com,1910-12-05,137.68
+P00529,"Salonen, Mr. Johan Werner",Male,39.0,3,0,0,0,3101296,7.925,,0,Unknown,S,salonen@mail.com,1911-06-06,309.85
+P00854,"Lines, Miss. Mary Conover",Female,16.0,1,1,0,1,PC 17592,39.4,D28,1,D,S,lines@gmail.com,1910-08-19,1210.39
+P00576,"Patchett, Mr. George",Male,19.0,3,0,0,0,358585,14.5,,0,Unknown,S,patchett@yahoo.com,1911-11-27,317.73
+P00343,"Collander, Mr. Erik Gustaf",Male,28.0,3,0,0,0,248740,13.0,,0,Unknown,S,collander@outlook.com,1912-04-01,386.68
+P00767,"Brewe, Dr. Arthur Jackson",Male,39.0,1,0,0,0,112379,39.6,,0,Unknown,C,brewe@outlook.com,1912-08-14,1389.7
+P00855,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Female,44.0,3,0,1,0,244252,26.0,,0,Unknown,S,,1912-08-12,736.79
+P00457,"Millet, Mr. Francis Davis",Male,65.0,1,0,0,0,13509,26.55,E38,1,E,S,millet@gmail.com,1912-07-02,526.74
+P00534,"Peter, Mrs. Catherine (Catherine Rizk)",Female,18.0,3,1,0,2,2668,22.3583,,0,Unknown,C,peter@yahoo.com,1910-10-07,437.58
+P00616,"Herman, Miss. Alice",Female,24.0,2,1,1,2,220845,65.0,,0,Unknown,S,herman@outlook.com,1912-09-28,2052.07
+P00368,"Moussa, Mrs. (Mantoura Boulos)",Female,27.0,3,1,0,0,2626,7.2292,,0,Unknown,C,moussa@yahoo.com,1911-08-15,179.53
+P00371,"Harder, Mr. George Achilles",Male,25.0,1,1,1,0,11765,55.4417,E50,1,E,C,harder@yahoo.com,1912-10-09,1155.43
+P00487,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Female,23.0,1,1,1,0,19943,90.0,C93,1,C,S,hoyt@yahoo.com,1912-03-04,3229.66
+P00666,"Hickman, Mr. Lewis",Male,32.0,2,0,2,0,S.O.C. 14879,73.5,,0,Unknown,S,hickman@outlook.com,1912-09-08,2775.37
+P00670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Female,30.0,3,1,1,0,19996,52.0,C126,1,C,S,taylor@gmail.com,1910-11-15,2078.05
+P00213,"Perkin, Mr. John Henry",Male,22.0,3,0,0,0,A/5 21174,7.25,,0,Unknown,S,perkin@mail.com,1910-06-14,252.69
+P00080,"Dowdell, Miss. Elizabeth",Female,30.0,3,1,0,0,364516,12.475,,0,Unknown,S,dowdell@outlook.com,1910-11-24,200.87
+P00149,"Navratil, Mr. Michel (""Louis M Hoffman"")",Male,36.5,2,0,0,2,230080,26.0,F2,1,F,S,navratil@mail.com,1912-06-24,312.67
+P00501,"Calic, Mr. Petar",Male,17.0,3,0,0,0,315086,8.6625,,0,Unknown,S,calic@gmail.com,1911-08-03,301.45
+P00711,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Female,24.0,1,1,0,0,PC 17482,49.5042,C90,1,C,C,mayne@outlook.com,1912-03-19,617.9
+P00632,"Lundahl, Mr. Johan Svensson",Male,51.0,3,0,0,0,347743,7.0542,,0,Unknown,S,lundahl@yahoo.com,1910-07-29,255.72
+P00395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Female,24.0,3,1,0,2,PP 9549,16.7,G6,1,G,S,sandstrom@outlook.com,1910-02-23,632.08
+P00595,"Chapman, Mr. John Henry",Male,37.0,3,0,1,0,SC/AH 29037,26.0,,0,Unknown,S,,1912-08-02,250.29
+P00134,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Female,29.0,3,1,1,0,228414,26.0,,0,Unknown,S,weisz@outlook.com,1912-06-18,757.12
+P00813,"Slemen, Mr. Richard James",Male,35.0,2,0,0,0,28206,10.5,,0,Unknown,S,slemen@outlook.com,1910-07-08,298.44
+P00735,"Troupiansky, Mr. Moses Aaron",Male,23.0,2,0,0,0,233639,13.0,,0,Unknown,S,troupiansky@gmail.com,1912-12-23,414.78
+P00361,"Skoog, Mr. Wilhelm",Male,40.0,3,0,1,4,347088,27.9,,0,Unknown,S,skoog@mail.com,1911-03-27,319.09
+P00875,"Abelson, Mrs. Samuel (Hannah Wizosky)",Female,28.0,3,1,1,0,P/PP 3381,24.0,,0,Unknown,C,abelson@outlook.com,1912-10-21,246.76
+P00713,"Taylor, Mr. Elmer Zebley",Male,26.0,3,1,1,0,19996,52.0,C126,1,C,S,taylor@outlook.com,1910-12-14,1771.28
+P00478,"Braund, Mr. Lewis Richard",Male,29.0,3,0,1,0,3460,7.0458,,0,Unknown,S,braund@gmail.com,1912-11-20,98.86
+P00410,"Lefebre, Miss. Ida",Female,18.0,3,0,3,1,4133,25.4667,,0,Unknown,S,lefebre@gmail.com,1912-04-11,378.57
+P00449,"Baclini, Miss. Marie Catherine",Female,5.0,3,1,2,1,2666,19.2583,,0,Unknown,C,baclini@outlook.com,1911-03-23,384.84
+P00838,"Sirota, Mr. Maurice",Male,25.5,3,0,0,0,392092,8.05,,0,Unknown,S,sirota@gmail.com,1911-05-02,72.36
+P00307,"Fleming, Miss. Margaret",Female,24.0,1,1,0,0,17421,110.8833,,0,Unknown,C,fleming@yahoo.com,1912-12-11,1192.635
+P00173,"Johnson, Miss. Eleanor Ileen",Female,1.0,3,1,1,1,347742,11.1333,,0,Unknown,S,johnson@mail.com,1912-02-12,311.9
+P00874,"Vander Cruyssen, Mr. Victor",Male,47.0,3,0,0,0,345765,9.0,,0,Unknown,S,vandercruyssen@gmail.com,1911-09-23,106.59
+P00328,"Ball, Mrs. (Ada E Hall)",Female,36.0,2,1,0,0,28551,13.0,,0,Unknown,S,ball@gmail.com,1912-06-05,385.49
+P00488,"Kent, Mr. Edward Austin",Male,58.0,1,0,0,0,11771,29.7,,0,Unknown,C,kent@outlook.com,1911-07-05,840.38
+P00825,"Panula, Master. Urho Abraham",Male,2.0,3,0,4,1,3101295,39.6875,,0,Unknown,S,panula@outlook.com,1912-08-19,1295.65
+P00091,"Christmann, Mr. Emil",Male,29.0,3,0,0,0,343276,8.05,,0,Unknown,S,christmann@yahoo.com,1912-08-02,275.2
+P00859,"Baclini, Mrs. Solomon (Latifa Qurban)",Female,24.0,3,1,0,3,2666,19.2583,,0,Unknown,C,baclini@outlook.com,1912-02-27,431.1
+P00182,"Pernot, Mr. Rene",Male,26.0,3,0,0,0,SC/PARIS 2131,15.05,,0,Unknown,C,pernot@gmail.com,1912-04-08,334.2
+P00224,"Nenkoff, Mr. Christo",Male,25.5,3,0,0,0,349234,7.8958,,0,Unknown,S,nenkoff@gmail.com,1910-08-01,310.99
+P00818,"Mallet, Mr. Albert",Male,31.0,3,0,1,1,S.C./PARIS 2079,37.0042,,0,Unknown,C,mallet@gmail.com,1910-09-24,1332.79
+P00070,"Kink, Mr. Vincenz",Male,26.0,3,0,2,0,315151,8.6625,,0,Unknown,S,kink@yahoo.com,1910-06-18,218.04
+P00292,"Bishop, Mrs. Dickinson H (Helen Walton)",Female,19.0,1,1,1,0,11967,91.0792,B49,1,B,C,bishop@yahoo.com,1912-01-27,979.23
+P00132,"Coelho, Mr. Domingos Fernandeo",Male,20.0,3,0,0,0,SOTON/O.Q. 3101307,7.05,,0,Unknown,S,coelho@outlook.com,1912-08-09,280.15
+P00007,"McCarthy, Mr. Timothy J",Male,54.0,3,0,0,0,17463,51.8625,E46,1,E,S,mccarthy@gmail.com,1910-01-03,750.29
+P00495,"Stanley, Mr. Edward Roland",Male,21.0,3,0,0,0,A/4 45380,8.05,,0,Unknown,S,stanley@yahoo.com,1910-09-15,74.81
+P00136,"Richard, Mr. Emile",Male,23.0,3,0,0,0,SC/PARIS 2133,15.0458,,0,Unknown,C,richard@yahoo.com,1910-03-27,319.075
+P00165,"Panula, Master. Eino Viljami",Male,1.0,3,0,4,1,3101295,39.6875,,0,Unknown,S,panula@yahoo.com,1912-12-26,252.89
+P00029,"O'Dwyer, Miss. Ellen ""Nellie""",Female,22.0,3,1,0,0,330959,7.8792,,0,Unknown,Q,odwyer@outlook.com,1911-11-28,202.44
+P00515,"Coleff, Mr. Satio",Male,24.0,3,0,0,0,349209,7.4958,,0,Unknown,S,,1910-06-20,128.58
+P00194,"Navratil, Master. Michel M",Male,25.0,3,1,1,1,230080,26.0,F2,1,F,S,navratil@yahoo.com,1910-08-08,1021.87
+P00322,"Danoff, Mr. Yoto",Male,27.0,3,0,0,0,349219,7.8958,,0,Unknown,S,danoff@gmail.com,1911-05-20,204.97
+P00586,"Taussig, Miss. Ruth",Female,18.0,1,1,0,2,110413,79.65,E68,1,E,S,taussig@mail.com,1911-06-22,1750.18
+P00170,"Ling, Mr. Lee",Male,28.0,3,0,0,0,1601,56.4958,,0,Unknown,S,ling@gmail.com,1912-04-23,2174.72
+P00603,"Harrington, Mr. Charles H",Male,35.0,1,0,0,0,113796,42.4,,0,Unknown,S,harrington@outlook.com,1910-12-31,1399.89
+P00141,"Boulos, Mrs. Joseph (Sultana)",Female,29.0,3,0,0,2,2678,15.2458,,0,Unknown,C,boulos@mail.com,1910-07-09,473.12
+P00174,"Sivola, Mr. Antti Wilhelm",Male,21.0,3,0,0,0,STON/O 2. 3101280,7.925,,0,Unknown,S,sivola@outlook.com,1912-04-04,144.68
+P00590,"Murdlin, Mr. Joseph",Male,19.0,3,0,0,0,A./5. 3235,8.05,,0,Unknown,S,,1910-06-15,173.05
+P00389,"Sadlier, Mr. Matthew",Male,25.0,3,0,0,0,367655,7.7292,,0,Unknown,Q,sadlier@mail.com,1912-05-08,207.6
+P00074,"Chronopoulos, Mr. Apostolos",Male,26.0,3,0,1,0,2680,14.4542,,0,Unknown,C,chronopoulos@gmail.com,1912-05-11,556.08
+P00627,"Kirkland, Rev. Charles Leonard",Male,57.0,3,0,0,0,219533,14.4542,,0,Unknown,Q,kirkland@yahoo.com,1910-02-23,476.63
+P00815,"Tomlin, Mr. Ernest Portage",Male,30.5,3,0,0,0,364499,8.05,,0,Unknown,S,tomlin@mail.com,1912-07-29,318.56
+P00879,"Laleff, Mr. Kristo",Male,26.0,3,0,0,0,349217,7.8958,,0,Unknown,S,laleff@outlook.com,1910-08-04,272.19
+P00146,"Nicholls, Mr. Joseph Charles",Male,19.0,3,0,1,1,C.A. 33112,36.75,,0,Unknown,S,nicholls@mail.com,1912-09-15,696.62
+P00235,"Leyson, Mr. Robert William Norman",Male,24.0,2,0,0,0,C.A. 29566,10.5,,0,Unknown,S,leyson@yahoo.com,1912-07-12,269.53
+P00221,"Sunderland, Mr. Victor Francis",Male,16.0,3,1,0,0,SOTON/OQ 392089,8.05,,0,Unknown,S,sunderland@gmail.com,1910-09-12,173.31
+P00836,"Compton, Miss. Sara Rebecca",Female,39.0,1,1,1,1,PC 17756,83.1583,E49,1,E,C,compton@mail.com,1912-11-05,1592.05
+P00406,"Gale, Mr. Shadrach",Male,34.0,2,0,1,0,28664,21.0,,0,Unknown,S,,1910-10-15,231.6
+P00133,"Robins, Mrs. Alexander A (Grace Charity Laury)",Female,47.0,3,0,1,0,A/5. 3337,14.5,,0,Unknown,S,robins@gmail.com,1912-07-10,319.075
+P00540,"Frolicher, Miss. Hedwig Margaritha",Female,22.0,1,1,0,2,13568,49.5,B39,1,B,S,frolicher@gmail.com,1911-05-30,1870.2
+P00607,"Karaic, Mr. Milan",Male,30.0,3,0,0,0,349246,7.8958,,0,Unknown,S,karaic@yahoo.com,1912-05-04,222.61
+P00186,"Rood, Mr. Hugh Roscoe",Male,38.0,3,0,0,0,113767,50.0,A32,1,A,S,rood@yahoo.com,1912-02-19,1271.28
+P00560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Female,36.0,3,1,1,0,345572,17.4,,0,Unknown,S,demessemaeker@mail.com,1910-11-18,584.96
+P00109,"Rekic, Mr. Tido",Male,38.0,3,0,0,0,349249,7.8958,,0,Unknown,S,rekic@yahoo.com,1911-07-16,134.14
+P00797,"Leader, Dr. Alice (Farnham)",Female,49.0,3,1,0,0,17465,25.9292,D17,1,D,S,,1911-03-23,626.68
+P00057,"Rugg, Miss. Emily",Female,21.0,2,1,0,0,C.A. 31026,10.5,,0,Unknown,S,rugg@outlook.com,1910-05-27,370.05
+P00644,"Foo, Mr. Choong",Male,25.5,3,1,0,0,1601,56.4958,,0,Unknown,S,foo@yahoo.com,1912-06-13,578.39
+P00362,"del Carlo, Mr. Sebastiano",Male,29.0,3,0,1,0,SC/PARIS 2167,27.7208,,0,Unknown,C,delcarlo@mail.com,1910-03-23,324.07
+P00579,"Caram, Mrs. Joseph (Maria Elias)",Female,33.5,3,0,1,0,2689,14.4583,,0,Unknown,C,caram@mail.com,1910-03-08,193.8
+P00025,"Palsson, Miss. Torborg Danira",Female,8.0,3,0,3,1,349909,21.075,,0,Unknown,S,palsson@mail.com,1911-05-18,811.3
+P00366,"Adahl, Mr. Mauritz Nils Martin",Male,30.0,3,0,0,0,C 7076,7.25,,0,Unknown,S,adahl@outlook.com,1910-09-01,232.99
+P00448,"Seward, Mr. Frederic Kimber",Male,34.0,3,1,0,0,113794,26.55,,0,Unknown,S,seward@mail.com,1912-04-28,958.47
+P00454,"Goldenberg, Mr. Samuel L",Male,49.0,3,1,1,0,17453,89.1042,C92,1,C,C,goldenberg@gmail.com,1910-07-24,3513.26
+P00052,"Nosworthy, Mr. Richard Cater",Male,21.0,3,0,0,0,A/4. 39886,7.8,,0,Unknown,S,nosworthy@gmail.com,1912-09-27,107.2
+P00425,"Rosblom, Mr. Viktor Richard",Male,18.0,3,0,1,1,370129,20.2125,,0,Unknown,S,rosblom@yahoo.com,1910-11-24,601.79
+P00860,"Razi, Mr. Raihed",Male,25.5,3,0,0,0,2629,7.2292,,0,Unknown,C,razi@mail.com,1912-10-16,205.99
+P00582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Female,39.0,3,1,1,1,17421,110.8833,C68,1,C,C,thayer@mail.com,1911-05-07,1267.84
+P00265,"Henry, Miss. Delia",Female,14.0,3,0,0,0,382649,7.75,,0,Unknown,Q,henry@mail.com,1911-10-05,78.74
+P00712,"Klaber, Mr. Herman",Male,36.0,1,0,0,0,113028,26.55,C124,1,C,S,klaber@outlook.com,1912-06-23,788.18
+P00626,"Sutton, Mr. Frederick",Male,61.0,1,0,0,0,36963,32.3208,D50,1,D,S,,1911-06-13,373.08
+P00845,"Culumovic, Mr. Jeso",Male,17.0,3,0,0,0,315090,8.6625,,0,Unknown,S,culumovic@gmail.com,1912-05-23,276.11
+P00847,"Sage, Mr. Douglas Bullen",Male,25.5,3,0,8,2,CA. 2343,69.55,,0,Unknown,S,sage@gmail.com,1910-04-20,1036.96
+P00019,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Female,31.0,3,0,1,0,345763,18.0,,0,Unknown,S,vanderplanke@mail.com,1910-04-11,313.79
+P00657,"Radeff, Mr. Alexander",Male,26.0,3,0,0,0,349223,7.8958,,0,Unknown,S,,1912-07-19,253.12
+P00800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Female,30.0,3,0,1,1,345773,24.15,,0,Unknown,S,vanimpe@yahoo.com,1912-04-25,319.075
+P00527,"Ridsdale, Miss. Lucy",Female,50.0,2,1,0,0,W./C. 14258,10.5,,0,Unknown,S,ridsdale@mail.com,1911-04-26,266.61
+P00084,"Carrau, Mr. Francisco M",Male,28.0,1,0,0,0,113059,47.1,,0,Unknown,S,carrau@mail.com,1910-06-11,861.41
+P00062,"Icard, Miss. Amelie",Female,38.0,3,1,0,0,113572,14.4542,B28,1,B,S,icard@outlook.com,1911-05-11,1266.68
+P00273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Female,41.0,3,1,0,1,250644,19.5,,0,Unknown,S,mellinger@gmail.com,1911-05-08,260.83
+P00286,"Stankovic, Mr. Ivan",Male,33.0,3,0,0,0,349239,8.6625,,0,Unknown,C,stankovic@mail.com,1910-12-13,198.11
+P00830,"Stone, Mrs. George Nelson (Martha Evelyn)",Female,36.0,1,1,0,0,113572,80.0,B28,1,B,S,stone@gmail.com,1910-04-08,702.59
+P00483,"Rouse, Mr. Richard Henry",Male,50.0,3,0,0,0,A/5 3594,8.05,,0,Unknown,S,rouse@yahoo.com,1911-04-06,272.79
+P00013,"Saundercock, Mr. William Henry",Male,20.0,3,0,0,0,A/5. 2151,8.05,,0,Unknown,S,saundercock@outlook.com,1912-08-26,188.43
+P00183,"Asplund, Master. Clarence Gustaf Hugo",Male,9.0,3,0,4,2,347077,31.3875,,0,Unknown,S,asplund@yahoo.com,1911-07-29,1191.16
+P00597,"Leitch, Miss. Jessie Wills",Female,7.0,2,1,0,0,248727,33.0,,0,Unknown,S,leitch@outlook.com,1910-01-02,759.27
+P00850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Female,24.0,3,1,1,0,17453,89.1042,C92,1,C,C,goldenberg@outlook.com,1911-04-17,1413.41
+P00537,"Butt, Major. Archibald Willingham",Male,45.0,3,0,0,0,113050,26.55,B38,1,B,S,,1912-09-15,278.19
+P00683,"Olsvigen, Mr. Thor Anderson",Male,20.0,3,0,0,0,6563,9.225,,0,Unknown,S,olsvigen@mail.com,1912-06-09,320.77
+P00409,"Birkeland, Mr. Hans Martin Monsen",Male,21.0,3,0,0,0,312992,7.775,,0,Unknown,S,birkeland@mail.com,1910-02-02,159.01
+P00421,"Gheorgheff, Mr. Stanio",Male,25.5,3,0,0,0,349254,7.8958,,0,Unknown,C,gheorgheff@mail.com,1911-01-17,319.075
+P00535,"Cacic, Miss. Marija",Female,30.0,3,0,0,0,315084,8.6625,,0,Unknown,S,cacic@outlook.com,1912-06-11,177.83
+P00559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Female,39.0,1,1,1,1,110413,79.65,E67,1,E,S,taussig@mail.com,1910-04-23,1151.72
+P00177,"Lefebre, Master. Henry Forbes",Male,28.25,3,0,3,1,4133,25.4667,,0,Unknown,S,lefebre@outlook.com,1911-03-12,762.31
+P00688,"Dakic, Mr. Branko",Male,19.0,3,0,0,0,349228,10.1708,,0,Unknown,S,dakic@outlook.com,1910-04-05,405.15
+P00463,"Gee, Mr. Arthur H",Male,47.0,3,0,0,0,111320,38.5,E63,1,E,S,gee@outlook.com,1912-09-29,682.28
+P00434,"Kallio, Mr. Nikolai Erland",Male,17.0,3,0,0,0,STON/O 2. 3101274,7.125,,0,Unknown,S,kallio@gmail.com,1912-06-08,132.4
+P00164,"Calic, Mr. Jovo",Male,17.0,3,0,0,0,315093,8.6625,,0,Unknown,S,calic@yahoo.com,1910-03-25,252.89
+P00249,"Beckwith, Mr. Richard Leonard",Male,37.0,3,1,1,1,11751,52.5542,D35,1,D,S,beckwith@mail.com,1911-08-14,1551.0
+P00583,"Downton, Mr. William James",Male,25.0,2,0,0,0,28403,26.0,,0,Unknown,S,downton@gmail.com,1910-08-15,622.04
+P00809,"Meyer, Mr. August",Male,39.0,2,0,0,0,248723,13.0,,0,Unknown,S,meyer@yahoo.com,1912-11-18,404.28
+P00075,"Bing, Mr. Lee",Male,32.0,3,1,0,0,1601,56.4958,,0,Unknown,S,bing@outlook.com,1911-10-07,1323.41
+P00114,"Jussila, Miss. Katriina",Female,20.0,3,0,1,0,4136,9.825,,0,Unknown,S,jussila@yahoo.com,1910-05-21,277.39
+P00522,"Vovk, Mr. Janko",Male,22.0,3,0,0,0,349252,7.8958,,0,Unknown,S,vovk@gmail.com,1910-10-02,275.95
+P00513,"McGough, Mr. James Robert",Male,36.0,3,1,0,0,PC 17473,26.2875,E25,1,E,S,mcgough@mail.com,1910-12-20,471.62
+P00105,"Gustafsson, Mr. Anders Vilhelm",Male,37.0,3,0,2,0,3101276,7.925,,0,Unknown,S,gustafsson@mail.com,1911-11-17,174.47
+P00115,"Attalah, Miss. Malake",Female,17.0,3,0,0,0,2627,14.4583,,0,Unknown,C,attalah@outlook.com,1912-10-05,297.46
+P00412,"Hart, Mr. Henry",Male,26.0,3,0,0,0,394140,6.8583,,0,Unknown,Q,hart@gmail.com,1912-06-02,220.68
+P00093,"Chaffee, Mr. Herbert Fuller",Male,46.0,3,0,1,0,W.E.P. 5734,61.175,E31,1,E,S,chaffee@mail.com,1911-12-11,1407.04
+P00517,"Lemore, Mrs. (Amelia Milley)",Female,24.0,3,1,0,0,C.A. 34260,10.5,F33,1,F,S,lemore@mail.com,1912-08-15,115.68
+P00090,"Celotti, Mr. Francesco",Male,28.0,3,0,0,0,343275,8.05,,0,Unknown,S,celotti@mail.com,1911-10-08,319.06
+P00337,"Pears, Mr. Thomas Clinton",Male,29.0,1,0,1,0,113776,66.6,C2,1,C,S,pears@mail.com,1912-12-14,1547.45
+P100041,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Female,40.0,3,0,1,0,7546,9.475,,0,Unknown,S,ahlin@gmail.com,1912-02-06,188.36
+P00842,"Mudd, Mr. Thomas Charles",Male,16.0,2,0,0,0,S.O./P.P. 3,10.5,,0,Unknown,S,mudd@outlook.com,1912-02-05,335.9
+P00853,"Boulos, Miss. Nourelain",Female,9.0,3,0,1,1,2678,15.2458,,0,Unknown,C,boulos@mail.com,1910-01-26,589.59
+P00828,"Mallet, Master. Andre",Male,1.0,2,1,0,2,S.C./PARIS 2079,37.0042,,0,Unknown,C,,1911-03-29,1075.76
+P00546,"Nicholson, Mr. Arthur Ernest",Male,64.0,1,0,0,0,693,26.0,,0,Unknown,S,nicholson@gmail.com,1911-04-13,389.96
+P00880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Female,56.0,1,1,0,1,11767,83.1583,C50,1,C,C,potter@outlook.com,1911-06-01,2209.32
+P00095,"Coxon, Mr. Daniel",Male,59.0,3,0,0,0,364500,7.25,,0,Unknown,S,coxon@mail.com,1911-12-16,271.59
+P00012,"Bonnell, Miss. Elizabeth",Female,58.0,1,1,0,0,113783,26.55,C103,1,C,S,bonnell@mail.com,1910-08-28,1192.635
+P00450,"Peuchen, Major. Arthur Godfrey",Male,52.0,1,1,0,0,113786,30.5,C104,1,C,S,peuchen@yahoo.com,1911-08-08,342.68
+P00044,"Laroche, Miss. Simonne Marie Anne Andree",Female,25.0,2,1,1,2,SC/Paris 2123,41.5792,,0,Unknown,C,laroche@yahoo.com,1911-04-30,1360.28
+P00043,"Kraeff, Mr. Theodor",Male,22.0,3,0,0,0,349253,7.8958,,0,Unknown,C,kraeff@outlook.com,1911-12-12,255.2
+P00330,"Hippach, Miss. Jean Gertrude",Female,30.0,3,1,0,1,111361,57.9792,B18,1,B,C,,1911-12-13,465.81
+P00168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Female,45.0,3,0,1,4,347088,27.9,,0,Unknown,S,skoog@gmail.com,1911-04-10,707.17
+P00801,"Ponesell, Mr. Martin",Male,34.0,2,0,0,0,250647,13.0,,0,Unknown,S,ponesell@gmail.com,1912-09-01,483.87
+P00550,"Davies, Master. John Morgan Jr",Male,8.0,2,1,1,1,C.A. 33112,36.75,,0,Unknown,S,davies@outlook.com,1912-03-05,571.96
+P00693,"Lam, Mr. Ali",Male,28.25,3,1,0,0,1601,56.4958,,0,Unknown,S,lam@mail.com,1911-03-30,936.63
+P00101,"Petranec, Miss. Matilda",Female,28.0,3,0,0,0,349245,7.8958,,0,Unknown,S,petranec@mail.com,1911-08-25,252.88
+P00179,"Hale, Mr. Reginald",Male,30.0,2,0,0,0,250653,13.0,,0,Unknown,S,hale@mail.com,1910-01-12,270.43
+P00596,"Van Impe, Mr. Jean Baptiste",Male,36.0,3,0,1,1,345773,24.15,,0,Unknown,S,vanimpe@mail.com,1910-06-28,951.62
+P00891,"Dooley, Mr. Patrick",Male,32.0,3,0,0,0,370376,7.75,,0,Unknown,Q,,1911-01-07,259.55
+P00606,"Lindell, Mr. Edvard Bengtsson",Male,36.0,3,0,1,0,349910,15.55,,0,Unknown,S,lindell@outlook.com,1911-08-27,550.46
+P00178,"Isham, Miss. Ann Elizabeth",Female,50.0,3,0,0,0,PC 17595,28.7125,C49,1,C,C,isham@gmail.com,1911-01-01,251.04
+P00639,"Panula, Mrs. Juha (Maria Emilia Ojala)",Female,24.0,3,0,0,5,3101295,39.6875,,0,Unknown,S,panula@mail.com,1912-10-03,664.76
+P00621,"Yasbeck, Mr. Antoni",Male,27.0,3,0,1,0,2659,14.4542,,0,Unknown,C,yasbeck@yahoo.com,1910-09-07,207.49
+P00729,"Bryhl, Mr. Kurt Arnold Gottfrid",Male,25.0,2,0,1,0,236853,26.0,,0,Unknown,S,bryhl@yahoo.com,1912-12-21,240.15
+P00716,"Soholt, Mr. Peter Andreas Lauritz Andersen",Male,19.0,3,0,0,0,348124,7.65,,0,Unknown,S,soholt@mail.com,1910-11-06,297.31
+P00384,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Female,35.0,1,1,1,0,113789,52.0,,0,Unknown,S,holverson@gmail.com,1912-04-15,629.08
+P00258,"Cherry, Miss. Gladys",Female,38.0,3,1,0,0,110152,86.5,B77,1,B,S,cherry@gmail.com,1912-01-25,2051.8
+P00458,"Kenyon, Mrs. Frederick R (Marion)",Female,24.0,1,1,1,0,17464,51.8625,D21,1,D,S,kenyon@outlook.com,1912-03-15,1107.98
+P00336,"Denkoff, Mr. Mitto",Male,25.5,3,0,0,0,349225,7.8958,,0,Unknown,S,denkoff@mail.com,1910-04-28,181.91
+P00694,"Saad, Mr. Khalil",Male,25.0,3,0,0,0,2672,7.225,,0,Unknown,C,saad@mail.com,1911-11-28,197.98
+P00016,"Hewlett, Mrs. (Mary D Kingcome)",Female,55.0,3,1,0,0,248706,16.0,,0,Unknown,S,hewlett@mail.com,1911-03-27,7727.5800000000045
+P00004,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Female,35.0,1,1,1,0,113803,61.679199999999994,C123,1,C,S,futrelle@yahoo.com,1912-03-31,1705.15
+P00429,"Flynn, Mr. James",Male,25.5,3,0,0,0,364851,7.75,,0,Unknown,Q,flynn@gmail.com,1911-03-11,273.33
+P00257,"Thorne, Mrs. Gertrude Maybelle",Female,24.0,1,1,0,0,PC 17585,79.2,,0,Unknown,C,thorne@outlook.com,1912-04-21,2664.64
+P00704,"Gallagher, Mr. Martin",Male,25.0,3,0,0,0,36864,7.7417,,0,Unknown,Q,gallagher@gmail.com,1912-02-08,268.57
+P00496,"Yousseff, Mr. Gerious",Male,28.0,3,0,0,0,2627,14.4583,,0,Unknown,C,yousseff@yahoo.com,1911-09-06,319.075
+P00441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Female,45.0,2,1,1,1,F.C.C. 13529,13.7917,,0,Unknown,S,,1912-02-25,627.14
+P00394,"Newell, Miss. Marjorie",Female,23.0,3,1,1,0,35273,113.275,D36,1,D,C,newell@outlook.com,1911-02-23,4265.55
+P00223,"Green, Mr. George Henry",Male,51.0,3,0,0,0,21440,8.05,,0,Unknown,S,green@outlook.com,1910-11-16,304.72
+P00180,"Leonard, Mr. Lionel",Male,36.0,3,0,0,0,LINE,0.0,,0,Unknown,S,leonard@outlook.com,1912-01-10,319.075
+P00486,"Lefebre, Miss. Jeannie",Female,22.0,3,0,3,1,4133,25.4667,,0,Unknown,S,lefebre@gmail.com,1912-11-19,734.8
+P00618,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Female,26.0,3,0,1,0,A/5. 3336,16.1,,0,Unknown,S,lobb@yahoo.com,1912-08-03,239.82
+P00325,"Sage, Mr. George John Jr",Male,26.0,3,0,8,2,CA. 2343,69.55,,0,Unknown,S,sage@mail.com,1910-05-05,1717.98
+P00543,"Andersson, Miss. Sigrid Elisabeth",Female,11.0,3,0,4,2,347082,31.275,,0,Unknown,S,andersson@gmail.com,1911-09-08,407.85
+P00010,"Nasser, Mrs. Nicholas (Adele Achem)",Female,14.0,3,1,1,0,237736,30.0708,,0,Unknown,C,nasser@gmail.com,1910-05-01,691.31
+P00250,"Carter, Rev. Ernest Courtenay",Male,54.0,2,0,1,0,244252,26.0,,0,Unknown,S,carter@gmail.com,1912-08-22,501.98
+P00023,"McGowan, Miss. Anna ""Annie""",Female,22.0,3,1,0,0,330923,8.0292,,0,Unknown,Q,mcgowan@gmail.com,1912-12-09,317.2
+P00357,"Bowerman, Miss. Elsie Edith",Female,22.0,3,1,0,1,113505,55.0,E33,1,E,S,bowerman@gmail.com,1911-05-25,801.49
+P00222,"Bracken, Mr. James H",Male,27.0,3,0,0,0,220367,13.0,,0,Unknown,S,bracken@yahoo.com,1910-07-30,361.78
+P00614,"Horgan, Mr. John",Male,30.0,3,0,0,0,370377,7.75,,0,Unknown,Q,horgan@yahoo.com,1911-10-17,263.41
+P00788,"Rice, Master. George Hugh",Male,8.0,3,0,4,1,382652,29.125,,0,Unknown,Q,rice@outlook.com,1912-09-10,1050.06
+P00242,"Murphy, Miss. Katherine ""Kate""",Female,27.0,3,1,1,0,367230,15.5,,0,Unknown,Q,murphy@outlook.com,1912-05-19,171.22
+P00744,"McNamee, Mr. Neal",Male,24.0,3,0,1,0,376566,16.1,,0,Unknown,S,mcnamee@yahoo.com,1911-03-31,319.075
+P00341,"Navratil, Master. Edmond Roger",Male,2.0,3,1,1,1,230080,26.0,F2,1,F,S,navratil@outlook.com,1912-03-14,695.36
+P00432,"Thorneycroft, Mrs. Percival (Florence Kate White)",Female,21.0,3,1,1,0,376564,16.1,,0,Unknown,S,thorneycroft@outlook.com,1911-08-25,131.62
+P00808,"Pettersson, Miss. Ellen Natalia",Female,18.0,3,0,0,0,347087,7.775,,0,Unknown,S,pettersson@gmail.com,1911-01-29,301.2
+P00531,"Quick, Miss. Phyllis May",Female,2.0,2,1,1,1,26360,26.0,,0,Unknown,S,quick@outlook.com,1912-12-25,609.8
+P00204,"Youseff, Mr. Gerious",Male,45.5,3,0,0,0,2628,7.225,,0,Unknown,C,youseff@outlook.com,1910-12-26,193.27
+P00238,"Collyer, Miss. Marjorie ""Lottie""",Female,8.0,2,1,0,2,C.A. 31921,26.25,,0,Unknown,S,collyer@yahoo.com,1911-02-09,758.26
+P00094,"Dean, Mr. Bertram Frank",Male,26.0,3,0,1,2,C.A. 2315,20.575,,0,Unknown,S,dean@yahoo.com,1911-10-05,265.25
+P00507,"Quick, Mrs. Frederick Charles (Jane Richards)",Female,33.0,2,1,0,2,26360,26.0,,0,Unknown,S,quick@outlook.com,1911-12-17,969.9
+P00757,"Carlsson, Mr. August Sigfrid",Male,28.0,3,0,0,0,350042,7.7958,,0,Unknown,S,carlsson@outlook.com,1911-12-28,260.96
+P00634,"Parr, Mr. William Henry Marsh",Male,45.5,1,0,0,0,112052,0.0,,0,Unknown,S,parr@yahoo.com,1911-10-23,1192.635
+P00285,"Smith, Mr. Richard William",Male,50.5,1,0,0,0,113056,26.0,A19,1,A,S,smith@yahoo.com,1911-01-07,832.22
+P00185,"Kink-Heilmann, Miss. Luise Gretchen",Female,42.0,3,1,0,2,315153,22.025,,0,Unknown,S,kinkheilmann@yahoo.com,1910-06-29,403.3
+P00738,"Lesurer, Mr. Gustave J",Male,35.0,1,1,0,0,PC 17755,512.3292,B101,1,B,C,lesurer@yahoo.com,1911-03-02,7303.7
+P00435,"Silvey, Mr. William Baird",Male,50.0,3,0,1,0,13507,55.9,E44,1,E,S,silvey@yahoo.com,1910-07-25,2019.13
+P00502,"Canavan, Miss. Mary",Female,21.0,3,0,0,0,364846,7.75,,0,Unknown,Q,canavan@outlook.com,1912-12-13,91.14
+P00154,"van Billiard, Mr. Austin Blyler",Male,22.0,3,0,0,2,A/5. 851,14.5,,0,Unknown,S,vanbilliard@yahoo.com,1912-02-16,125.17
+P00076,"Moen, Mr. Sigurd Hansen",Male,25.0,3,0,0,0,348123,7.65,F G73,1,F,S,moen@yahoo.com,1911-10-21,294.54
+P00451,"West, Mr. Edwy Arthur",Male,36.0,3,0,1,2,C.A. 34651,27.75,,0,Unknown,S,west@mail.com,1910-05-30,942.14
+P00674,"Wilhelms, Mr. Charles",Male,31.0,2,1,0,0,244270,13.0,,0,Unknown,S,wilhelms@gmail.com,1911-09-02,433.24
+P00588,"Frolicher-Stehli, Mr. Maxmillian",Male,60.0,1,1,1,1,13567,79.2,B41,1,B,C,frolicherstehli@gmail.com,1910-09-10,1866.03
+P00278,"Parkes, Mr. Francis ""Frank""",Male,48.0,2,0,0,0,239853,0.0,,0,Unknown,S,parkes@mail.com,1912-12-29,379.24
+P00069,"Andersson, Miss. Erna Alexandra",Female,17.0,3,1,4,2,3101281,7.925,,0,Unknown,S,andersson@gmail.com,1911-03-27,197.74
+P00447,"Mellinger, Miss. Madeleine Violet",Female,13.0,3,1,0,1,250644,19.5,,0,Unknown,S,mellinger@yahoo.com,1910-11-21,526.83
+P00577,"Garside, Miss. Ethel",Female,32.0,2,1,0,0,243880,13.0,,0,Unknown,S,garside@mail.com,1911-02-26,199.12
+P00189,"Bourke, Mr. John",Male,40.0,3,0,1,1,364849,15.5,,0,Unknown,Q,bourke@gmail.com,1912-07-04,289.72
+P00272,"Tornquist, Mr. William Henry",Male,25.0,3,1,0,0,LINE,0.0,,0,Unknown,S,tornquist@gmail.com,1912-07-17,319.075
+P00679,"Goodwin, Mrs. Frederick (Augusta Tyler)",Female,43.0,3,0,1,6,CA 2144,46.9,,0,Unknown,S,goodwin@outlook.com,1912-12-14,1117.07
+P00568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Female,29.0,3,0,0,4,349909,21.075,,0,Unknown,S,,1910-10-16,806.38
+P00237,"Hold, Mr. Stephen",Male,44.0,3,0,1,0,26707,26.0,,0,Unknown,S,hold@outlook.com,1911-11-30,778.89
+P00089,"Fortune, Miss. Mabel Helen",Female,23.0,1,1,3,2,19950,263.0,C23 C25 C27,1,C,S,fortune@mail.com,1911-09-12,3679.8
+P00778,"Emanuel, Miss. Virginia Ethel",Female,5.0,3,1,0,0,364516,12.475,,0,Unknown,S,emanuel@gmail.com,1911-08-07,119.97
+P00118,"Turpin, Mr. William John Robert",Male,29.0,2,0,1,0,11668,21.0,,0,Unknown,S,turpin@gmail.com,1912-03-14,655.99
+P00126,"Nicola-Yarred, Master. Elias",Male,12.0,3,1,1,0,2651,11.2417,,0,Unknown,C,nicolayarred@outlook.com,1911-02-25,333.87
+P00751,"Wells, Miss. Joan",Female,4.0,3,1,1,1,29103,23.0,,0,Unknown,S,wells@mail.com,1910-02-25,255.97
+P00290,"Connolly, Miss. Kate",Female,22.0,3,1,0,0,370373,7.75,,0,Unknown,Q,connolly@yahoo.com,1911-10-28,248.37
+P00239,"Pengelly, Mr. Frederick William",Male,19.0,2,0,0,0,28665,10.5,,0,Unknown,S,pengelly@yahoo.com,1911-12-12,417.33
+P00001,"Braund, Mr. Owen Harris",Male,22.0,3,0,1,0,A/5 21171,14.4542,,0,Unknown,S,braund@gmail.com,1912-02-17,279.54
+P00737,"Ford, Mrs. Edward (Margaret Ann Watson)",Female,48.0,3,0,1,3,W./C. 6608,34.375,,0,Unknown,S,ford@outlook.com,1911-03-10,482.72
+P00798,"Osman, Mrs. Mara",Female,31.0,3,1,0,0,349244,8.6833,,0,Unknown,S,osman@yahoo.com,1912-10-25,231.36
+P00396,"Johansson, Mr. Erik",Male,22.0,3,0,0,0,350052,7.7958,,0,Unknown,S,johansson@mail.com,1912-09-21,160.03
+P00544,"Beane, Mr. Edward",Male,30.0,2,1,1,0,2908,26.0,,0,Unknown,S,beane@gmail.com,1910-12-16,379.24
+P00127,"McMahon, Mr. Martin",Male,27.0,3,0,0,0,370372,7.75,,0,Unknown,Q,mcmahon@gmail.com,1911-06-26,271.81
+P00279,"Rice, Master. Eric",Male,7.0,3,0,4,1,382652,29.125,,0,Unknown,Q,rice@gmail.com,1912-10-01,319.45
+P00709,"Cleaver, Miss. Alice",Female,39.0,3,1,0,0,113781,151.55,,0,Unknown,S,cleaver@yahoo.com,1912-02-15,2496.15
+P00117,"Connors, Mr. Patrick",Male,70.5,3,0,0,0,370369,7.75,,0,Unknown,Q,,1911-07-06,141.15
+P00474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Female,23.0,2,1,0,0,SC/AH Basle 541,13.7917,D,1,D,C,jerwan@yahoo.com,1911-08-31,314.11
+P00229,"Fahlstrom, Mr. Arne Jonas",Male,18.0,2,0,0,0,236171,13.0,,0,Unknown,S,fahlstrom@outlook.com,1911-06-25,472.1
+P00636,"Davis, Miss. Mary",Female,28.0,2,1,0,0,237668,13.0,,0,Unknown,S,davis@outlook.com,1910-12-16,252.8
+P00671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Female,40.0,2,1,1,1,29750,39.0,,0,Unknown,S,brown@mail.com,1910-10-06,1077.67
+P00058,"Novel, Mr. Mansouer",Male,28.5,3,0,0,0,2697,7.2292,,0,Unknown,C,novel@gmail.com,1912-11-03,260.15
+P00528,"Farthing, Mr. John",Male,38.0,3,0,0,0,PC 17483,221.7792,C95,1,C,S,farthing@gmail.com,1912-07-31,7727.5800000000045
+P00275,"Healy, Miss. Hanora ""Nora""",Female,29.0,3,1,0,0,370375,7.75,,0,Unknown,Q,healy@yahoo.com,1910-04-25,275.48
+P00319,"Wick, Miss. Mary Natalie",Female,31.0,3,1,0,2,36928,164.8667,C7,1,C,S,wick@mail.com,1912-11-20,3527.65
+P00619,"Becker, Miss. Marion Louise",Female,4.0,3,1,2,1,230136,39.0,,0,Unknown,S,becker@gmail.com,1912-01-19,1242.01
+P00145,"Andrew, Mr. Edgardo Samuel",Male,18.0,3,0,0,0,231945,11.5,,0,Unknown,S,andrew@mail.com,1912-03-24,330.12
+P00650,"Stanley, Miss. Amy Zillah Elsie",Female,23.0,3,1,0,0,CA. 2314,7.55,,0,Unknown,S,stanley@mail.com,1911-06-05,258.65
+P00571,"Harris, Mr. George",Male,62.0,2,1,0,0,S.W./PP 752,10.5,,0,Unknown,S,harris@mail.com,1910-09-12,265.6
+P00834,"Augustsson, Mr. Albert",Male,23.0,3,0,0,0,347468,7.8542,,0,Unknown,S,augustsson@gmail.com,1911-08-08,187.4
+P00658,"Bourke, Mrs. John (Catherine)",Female,32.0,3,0,1,1,364849,15.5,,0,Unknown,Q,bourke@outlook.com,1911-06-25,279.67
+P00370,"Aubart, Mme. Leontine Pauline",Female,24.0,1,1,0,0,PC 17477,69.3,B35,1,B,C,aubart@mail.com,1910-10-19,652.36
+P00269,"Graham, Mrs. William Thompson (Edith Junkins)",Female,58.0,1,1,0,1,PC 17582,153.4625,C125,1,C,S,graham@outlook.com,1911-01-08,5031.72
+P00637,"Leinonen, Mr. Antti Gustaf",Male,32.0,3,0,0,0,STON/O 2. 3101292,7.925,,0,Unknown,S,leinonen@gmail.com,1910-06-01,184.72
+P00308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Female,17.0,3,1,1,0,PC 17758,14.4542,C65,1,C,C,penascoycastellana@outlook.com,1912-05-29,1878.6
+P00424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Female,28.0,3,0,1,1,347080,14.4,,0,Unknown,S,danbom@outlook.com,1912-09-15,132.96
+P00311,"Hays, Miss. Margaret Bechstein",Female,24.0,3,1,0,0,11767,83.1583,C54,1,C,C,hays@outlook.com,1911-06-07,2131.27
+P00355,"Yousif, Mr. Wazli",Male,26.0,3,0,0,0,2647,8.05,,0,Unknown,C,yousif@mail.com,1912-12-15,119.02
+P00350,"Dimic, Mr. Jovan",Male,42.0,3,0,0,0,315088,8.6625,,0,Unknown,S,dimic@gmail.com,1911-07-11,307.77
+P00372,"Wiklund, Mr. Jakob Alfred",Male,18.0,3,0,1,0,3101267,6.4958,,0,Unknown,S,wiklund@outlook.com,1911-05-02,119.3
+P00480,"Hirvonen, Miss. Hildur E",Female,2.0,3,1,0,1,3101298,12.2875,,0,Unknown,S,,1912-08-22,136.37
+P00589,"Gilinski, Mr. Eliezer",Male,22.0,3,0,0,0,14973,8.05,,0,Unknown,S,gilinski@mail.com,1911-02-04,187.52
+P00262,"Asplund, Master. Edvin Rojj Felix",Male,3.0,3,1,4,2,347077,31.3875,,0,Unknown,S,asplund@gmail.com,1911-04-17,252.89
+P00196,"Lurette, Miss. Elise",Female,58.0,1,1,0,0,PC 17569,146.5208,B80,1,B,C,lurette@gmail.com,1912-05-27,4757.44
+P00765,"Eklund, Mr. Hans Linus",Male,16.0,3,0,0,0,347074,7.775,,0,Unknown,S,eklund@yahoo.com,1910-11-09,162.23
+P00790,"Guggenheim, Mr. Benjamin",Male,46.0,1,0,0,0,PC 17593,79.2,B82 B84,1,B,C,guggenheim@gmail.com,1912-10-29,2521.15
+P00264,"Harrison, Mr. William",Male,40.0,3,0,0,0,112059,0.0,,0,Unknown,S,harrison@mail.com,1910-11-30,319.075
+P00444,"Reynaldo, Ms. Encarnacion",Female,28.0,2,1,0,0,230434,13.0,,0,Unknown,S,reynaldo@yahoo.com,1911-08-08,504.85
+P00731,"Allen, Miss. Elisabeth Walton",Female,29.0,3,1,0,0,24160,211.3375,,0,Unknown,S,allen@outlook.com,1910-01-05,5200.02
+P00305,"Williams, Mr. Howard Hugh ""Harry""",Male,22.0,3,0,0,0,A/5 2466,8.05,,0,Unknown,S,williams@outlook.com,1911-11-25,113.94
+P00342,"Fortune, Miss. Alice Elizabeth",Female,24.0,3,1,3,2,19950,263.0,C23 C25 C27,1,C,S,fortune@yahoo.com,1912-11-28,3749.21
+P00885,"Sutehall, Mr. Henry Jr",Male,25.0,3,0,0,0,SOTON/OQ 392076,7.05,,0,Unknown,S,sutehall@mail.com,1910-05-24,174.19
+P00150,"Byles, Rev. Thomas Roussel Davids",Male,22.0,2,0,0,0,244310,13.0,,0,Unknown,S,byles@gmail.com,1912-02-13,142.16
+P00125,"White, Mr. Percival Wayland",Male,54.0,1,0,0,1,35281,77.2875,D26,1,D,S,white@mail.com,1912-07-05,1192.635
+P00722,"Jensen, Mr. Svend Lauritz",Male,17.0,3,0,1,0,350048,7.0542,,0,Unknown,S,jensen@mail.com,1912-01-04,230.67
+P00354,"Arnold-Franchi, Mr. Josef",Male,25.0,3,0,1,0,349237,17.8,,0,Unknown,S,arnoldfranchi@yahoo.com,1912-08-16,345.96
+P00848,"Markoff, Mr. Marin",Male,35.0,3,0,0,0,349213,7.8958,,0,Unknown,C,markoff@gmail.com,1910-01-04,197.41
+P00143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Female,24.0,3,1,1,0,STON/O2. 3101279,15.85,,0,Unknown,S,hakkarainen@yahoo.com,1910-12-10,586.87
+P00471,"Keefe, Mr. Arthur",Male,25.5,3,0,0,0,323592,7.25,,0,Unknown,S,keefe@outlook.com,1910-03-15,145.4
+P00400,"Trout, Mrs. William H (Jessie L)",Female,28.0,2,1,0,0,240929,13.7917,,0,Unknown,S,trout@yahoo.com,1910-09-13,288.14
+P00755,"Herman, Mrs. Samuel (Jane Laver)",Female,48.0,3,1,1,2,220845,65.0,,0,Unknown,S,herman@outlook.com,1910-11-19,1484.76
+P00321,"Dennis, Mr. Samuel",Male,22.0,3,0,0,0,A/5 21172,7.25,,0,Unknown,S,dennis@yahoo.com,1912-05-06,249.77
+P00020,"Masselmani, Mrs. Fatima",Female,20.0,3,1,0,0,2649,7.225,,0,Unknown,C,masselmani@yahoo.com,1912-04-23,234.62
+P00754,"Jonkoff, Mr. Lalio",Male,23.0,3,0,0,0,349204,7.8958,,0,Unknown,S,jonkoff@mail.com,1910-05-25,110.0
+P00771,"Lievens, Mr. Rene Aime",Male,24.0,3,0,0,0,345781,9.5,,0,Unknown,S,,1911-10-31,270.33
+P00742,"Cavendish, Mr. Tyrell William",Male,36.0,1,0,1,0,19877,78.85,,0,Unknown,S,cavendish@mail.com,1910-04-10,2251.33
+P00408,"Richards, Master. William Rowe",Male,3.0,3,1,1,1,29106,18.75,,0,Unknown,S,richards@gmail.com,1911-08-05,583.87
+P00538,"LeRoy, Miss. Bertha",Female,30.0,1,1,0,0,PC 17761,106.425,,0,Unknown,C,leroy@gmail.com,1910-10-20,3507.32
+P00570,"Jonsson, Mr. Carl",Male,32.0,3,1,0,0,350417,7.8542,,0,Unknown,S,jonsson@outlook.com,1912-05-15,256.56
+P00039,"Vander Planke, Miss. Augusta Maria",Female,18.0,3,0,2,0,345764,18.0,,0,Unknown,S,vanderplanke@yahoo.com,1911-09-25,567.43
+P00176,"Klasen, Mr. Klas Albin",Male,18.0,3,0,1,1,350404,7.8542,,0,Unknown,S,klasen@yahoo.com,1912-10-10,163.29
+P00246,"Minahan, Dr. William Edward",Male,44.0,1,0,2,0,19928,90.0,C78,1,C,Q,minahan@gmail.com,1912-03-04,2048.28
+P00761,"Garfirth, Mr. John",Male,26.0,3,0,0,0,358585,14.5,,0,Unknown,S,garfirth@gmail.com,1910-01-20,243.2
+P00756,"Hamalainen, Master. Viljo",Male,0.67,3,1,1,1,250649,14.5,,0,Unknown,S,hamalainen@yahoo.com,1911-01-12,250.3
+P00785,"Ali, Mr. William",Male,25.0,3,0,0,0,SOTON/O.Q. 3101312,7.05,,0,Unknown,S,,1912-12-12,268.13
+P00155,"Olsen, Mr. Ole Martin",Male,30.0,3,0,0,0,Fa 265302,7.3125,,0,Unknown,S,olsen@yahoo.com,1910-06-18,134.91
+P00288,"Naidenoff, Mr. Penko",Male,26.0,3,0,0,0,349206,7.8958,,0,Unknown,S,naidenoff@outlook.com,1910-10-11,118.55
+P00553,"O'Brien, Mr. Timothy",Male,19.0,3,0,0,0,330979,7.8292,,0,Unknown,Q,obrien@mail.com,1911-04-20,78.5
+P00018,"Williams, Mr. Charles Eugene",Male,35.0,2,1,0,0,244373,13.0,,0,Unknown,S,williams@gmail.com,1911-02-11,209.01
+P00128,"Madsen, Mr. Fridtjof Arne",Male,24.0,3,1,0,0,C 17369,7.1417,,0,Unknown,S,madsen@mail.com,1910-02-15,66.33
+P00323,"Slayter, Miss. Hilda Mary",Female,30.0,2,1,0,0,234818,12.35,,0,Unknown,Q,slayter@outlook.com,1912-08-07,251.1
+P00256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Female,29.0,3,1,0,2,2650,15.2458,,0,Unknown,C,touma@gmail.com,1911-08-05,487.29
+P00605,"Homer, Mr. Harry (""Mr E Haven"")",Male,35.0,3,1,0,0,111426,26.55,,0,Unknown,C,homer@mail.com,1911-04-18,754.39
+P00883,"Dahlberg, Miss. Gerda Ulrika",Female,22.0,3,0,0,0,7552,10.5167,,0,Unknown,S,dahlberg@yahoo.com,1911-03-08,381.02
+P00191,"Pinsky, Mrs. (Rosa)",Female,32.0,2,1,0,0,234604,13.0,,0,Unknown,S,pinsky@outlook.com,1912-12-19,483.67
+P00116,"Pekoniemi, Mr. Edvard",Male,21.0,3,0,0,0,STON/O 2. 3101294,7.925,,0,Unknown,S,pekoniemi@outlook.com,1912-07-19,297.18
+P00681,"Peters, Miss. Katie",Female,21.0,3,0,0,0,330935,8.1375,,0,Unknown,Q,peters@outlook.com,1911-01-31,213.05
+P00181,"Sage, Miss. Constance Gladys",Female,18.0,3,0,8,2,CA. 2343,69.55,,0,Unknown,S,sage@mail.com,1910-08-17,1914.52
+P00302,"McCoy, Mr. Bernard",Male,25.0,3,1,2,0,367226,23.25,,0,Unknown,Q,,1910-06-07,837.06
+P00696,"Chapman, Mr. Charles Henry",Male,52.0,2,0,0,0,248731,13.5,,0,Unknown,S,,1912-06-20,256.88
+P00654,"O'Leary, Miss. Hanora ""Norah""",Female,21.0,3,1,0,0,330919,7.8292,,0,Unknown,Q,oleary@mail.com,1910-09-10,179.75
+P00665,"Lindqvist, Mr. Eino William",Male,20.0,3,1,1,0,STON/O 2. 3101285,7.925,,0,Unknown,S,lindqvist@outlook.com,1910-06-28,256.94
+P00629,"Bostandyeff, Mr. Guentcho",Male,26.0,3,0,0,0,349224,7.8958,,0,Unknown,S,bostandyeff@outlook.com,1911-05-20,113.11
+P00660,"Newell, Mr. Arthur Webster",Male,58.0,1,0,0,2,35273,113.275,D48,1,D,C,newell@yahoo.com,1910-04-11,1380.65
+P00518,"Ryan, Mr. Patrick",Male,22.0,3,0,0,0,371110,24.15,,0,Unknown,Q,ryan@gmail.com,1910-01-02,863.45
+P00831,"Yasbeck, Mrs. Antoni (Selini Alexander)",Female,15.0,3,1,1,0,2659,14.4542,,0,Unknown,C,yasbeck@gmail.com,1912-03-23,217.46
+P00158,"Corn, Mr. Harry",Male,30.0,3,0,0,0,SOTON/OQ 392090,8.05,,0,Unknown,S,corn@outlook.com,1912-01-02,286.1
+P00736,"Williams, Mr. Leslie",Male,28.5,3,0,0,0,54636,16.1,,0,Unknown,S,williams@outlook.com,1911-09-25,320.22
+P00172,"Rice, Master. Arthur",Male,4.0,3,0,4,1,382652,29.125,,0,Unknown,Q,rice@gmail.com,1910-06-07,252.89
+P00017,"Rice, Master. Eugene",Male,2.0,3,0,4,1,382652,29.125,,0,Unknown,Q,rice@outlook.com,1910-07-09,336.17
+P00512,"Webber, Mr. James",Male,19.0,3,0,0,0,SOTON/OQ 3101316,8.05,,0,Unknown,S,webber@outlook.com,1910-11-25,313.95
+P00049,"Samaan, Mr. Youssef",Male,28.0,3,0,2,0,2662,21.6792,,0,Unknown,C,samaan@outlook.com,1911-07-11,243.08
+P00889,"Johnston, Miss. Catherine Helen ""Carrie""",Female,22.0,3,0,1,2,W./C. 6607,23.45,,0,Unknown,S,johnston@gmail.com,1912-01-20,538.53
+P00516,"Walker, Mr. William Anderson",Male,47.0,1,0,0,0,36967,34.0208,D46,1,D,S,walker@gmail.com,1911-01-15,1322.05
+P00630,"O'Connell, Mr. Patrick D",Male,19.0,3,0,0,0,334912,7.7333,,0,Unknown,Q,oconnell@yahoo.com,1912-08-04,133.96
+P00481,"Goodwin, Master. Harold Victor",Male,9.0,3,0,5,2,CA 2144,46.9,,0,Unknown,S,goodwin@yahoo.com,1911-01-11,1796.94
+P00284,"Dorking, Mr. Edward Arthur",Male,19.0,3,1,0,0,A/5. 10482,8.05,,0,Unknown,S,dorking@yahoo.com,1910-01-10,194.28
+P00602,"Slabenoff, Mr. Petco",Male,25.0,3,0,0,0,349214,7.8958,,0,Unknown,S,slabenoff@mail.com,1910-02-02,226.94
+P00226,"Berglund, Mr. Karl Ivar Sven",Male,22.0,3,0,0,0,PP 4348,9.35,,0,Unknown,S,berglund@yahoo.com,1912-12-26,116.09
+P00027,"Emir, Mr. Farred Chehab",Male,26.0,3,0,0,0,2631,7.225,,0,Unknown,C,emir@yahoo.com,1912-08-05,89.66
+P00718,"Troutt, Miss. Edwina Celia ""Winnie""",Female,27.0,3,1,0,0,34218,10.5,E101,1,E,S,troutt@yahoo.com,1910-09-16,228.47
+P00438,"Richards, Mrs. Sidney (Emily Hocking)",Female,24.0,2,1,2,3,29106,18.75,,0,Unknown,S,,1912-01-10,312.21
+P00870,"Johnson, Master. Harold Theodor",Male,4.0,3,1,1,1,347742,11.1333,,0,Unknown,S,johnson@gmail.com,1911-02-26,207.4
+P00365,"O'Brien, Mr. Thomas",Male,26.0,3,0,1,0,370365,15.5,,0,Unknown,Q,obrien@gmail.com,1910-04-03,546.78
+P00230,"Lefebre, Miss. Mathilde",Female,19.0,3,0,3,1,4133,25.4667,,0,Unknown,S,lefebre@gmail.com,1910-01-16,744.4
+P00038,"Cann, Mr. Ernest Charles",Male,21.0,3,0,0,0,A./5. 2152,8.05,,0,Unknown,S,cann@mail.com,1911-04-04,214.9
+P00884,"Banfield, Mr. Frederick James",Male,37.0,2,0,0,0,C.A./SOTON 34068,10.5,,0,Unknown,S,banfield@gmail.com,1912-04-21,298.53
+P00375,"Palsson, Miss. Stina Viola",Female,3.0,3,0,3,1,349909,21.075,,0,Unknown,S,palsson@mail.com,1910-02-10,712.3
+P00470,"Baclini, Miss. Helene Barbara",Female,0.75,3,1,2,1,2666,19.2583,,0,Unknown,C,,1910-01-04,319.075
+P00886,"Rice, Mrs. William (Margaret Norton)",Female,39.0,3,0,0,5,382652,29.125,,0,Unknown,Q,,1910-12-30,897.28
+P00779,"Kilgannon, Mr. Thomas J",Male,28.0,3,0,0,0,36865,7.7375,,0,Unknown,Q,kilgannon@yahoo.com,1912-03-05,276.67
+P00667,"Butler, Mr. Reginald Fenton",Male,25.0,3,0,0,0,234686,13.0,,0,Unknown,S,butler@outlook.com,1912-04-26,311.14
+P00195,"Brown, Mrs. James Joseph (Margaret Tobin)",Female,44.0,1,1,0,0,PC 17610,27.7208,,0,Unknown,C,brown@mail.com,1912-07-07,882.62
+P00781,"Ayoub, Miss. Banoura",Female,13.0,3,1,0,0,2687,7.2292,,0,Unknown,C,ayoub@mail.com,1911-09-13,201.01
+P00791,"Keane, Mr. Andrew ""Andy""",Male,27.0,3,0,0,0,12460,7.75,,0,Unknown,Q,,1910-01-14,265.49
+P00504,"Laitinen, Miss. Kristina Sofia",Female,37.0,3,0,0,0,4135,9.5875,,0,Unknown,S,laitinen@mail.com,1910-08-25,332.79
+P00888,"Graham, Miss. Margaret Edith",Female,19.0,3,1,0,0,112053,30.0,B42,1,B,S,graham@gmail.com,1910-04-12,572.22
+P00762,"Nirva, Mr. Iisakki Antino Aijo",Male,27.0,3,0,0,0,SOTON/O2 3101272,7.125,,0,Unknown,S,nirva@outlook.com,1910-02-26,115.08
+P00580,"Jussila, Mr. Eiriik",Male,32.0,3,1,0,0,STON/O 2. 3101286,7.925,,0,Unknown,S,jussila@gmail.com,1912-09-10,300.94
+P00887,"Montvila, Rev. Juozas",Male,27.0,2,0,0,0,211536,13.0,,0,Unknown,S,montvila@gmail.com,1910-06-28,290.12
+P00163,"Bengtsson, Mr. John Viktor",Male,26.0,3,0,0,0,347068,7.775,,0,Unknown,S,bengtsson@yahoo.com,1912-11-15,96.7
+P00645,"Baclini, Miss. Eugenie",Female,0.75,3,1,2,1,2666,19.2583,,0,Unknown,C,baclini@mail.com,1910-02-04,450.57
+P00153,"Meo, Mr. Alfonzo",Male,55.5,3,0,0,0,A.5. 11206,8.05,,0,Unknown,S,meo@mail.com,1911-02-12,235.17
+P00871,"Balkic, Mr. Cerin",Male,26.0,3,0,0,0,349248,7.8958,,0,Unknown,S,balkic@yahoo.com,1911-03-25,105.9
+P00766,"Hogeboom, Mrs. John C (Anna Andrews)",Female,51.0,1,1,1,0,13502,77.9583,D11,1,D,S,hogeboom@mail.com,1912-07-16,1184.19
+P00698,"Mullens, Miss. Katherine ""Katie""",Female,33.5,3,1,0,0,35852,7.7333,,0,Unknown,Q,mullens@outlook.com,1912-08-01,135.19
+P00112,"Zabour, Miss. Hileni",Female,14.5,3,0,1,0,2665,14.4542,,0,Unknown,C,zabour@mail.com,1911-09-04,175.31
+P00227,"Mellors, Mr. William John",Male,19.0,2,1,0,0,SW/PP 751,10.5,,0,Unknown,S,mellors@mail.com,1911-10-05,349.69
+P00631,"Barkworth, Mr. Algernon Henry Wilson",Male,80.0,3,1,0,0,27042,30.0,A23,1,A,S,barkworth@outlook.com,1912-02-19,748.22
+P00104,"Johansson, Mr. Gustaf Joel",Male,33.0,3,0,0,0,7540,8.6542,,0,Unknown,S,johansson@gmail.com,1911-08-03,325.06
+P00422,"Charters, Mr. David",Male,21.0,3,0,0,0,A/5. 13032,7.7333,,0,Unknown,Q,charters@outlook.com,1912-05-03,205.14
+P00420,"Van Impe, Miss. Catharina",Female,14.0,3,0,0,2,345773,24.15,,0,Unknown,S,vanimpe@outlook.com,1911-07-28,496.51
+P00587,"Jarvis, Mr. John Denzil",Male,47.0,3,0,0,0,237565,15.0,,0,Unknown,S,jarvis@outlook.com,1911-03-08,597.51
+P00120,"Andersson, Miss. Ellis Anna Maria",Female,2.0,3,0,4,2,347082,31.275,,0,Unknown,S,andersson@gmail.com,1910-10-22,910.68
+P00054,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Female,5.0,2,1,1,0,2926,26.0,,0,Unknown,S,faunthorpe@yahoo.com,1910-05-22,582.28
+P00152,"Pears, Mrs. Thomas (Edith Wearne)",Female,22.0,1,1,1,0,113776,66.6,C2,1,C,S,pears@yahoo.com,1911-03-31,1929.84
+P00404,"Hakkarainen, Mr. Pekka Pietari",Male,28.0,3,0,1,0,STON/O2. 3101279,15.85,,0,Unknown,S,hakkarainen@mail.com,1912-11-08,302.15
+P00865,"Gill, Mr. John William",Male,35.0,2,0,0,0,233866,13.0,,0,Unknown,S,gill@mail.com,1910-12-16,344.7
+P00208,"Albimona, Mr. Nassef Cassem",Male,26.0,3,1,0,0,2699,18.7875,,0,Unknown,C,albimona@mail.com,1910-02-15,7727.5800000000045
+P00786,"Harmer, Mr. Abraham (David Lishin)",Male,25.0,3,0,0,0,374887,7.25,,0,Unknown,S,harmer@outlook.com,1910-06-14,226.98
+P00740,"Nankoff, Mr. Minko",Male,26.0,3,0,0,0,349218,7.8958,,0,Unknown,S,nankoff@mail.com,1911-09-20,184.3
+P00009,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Female,20.0,3,1,0,2,347742,11.1333,,0,Unknown,S,johnson@gmail.com,1911-11-06,275.04
+P00741,"Hawksford, Mr. Walter James",Male,36.0,1,1,0,0,16988,30.0,D45,1,D,S,,1912-09-09,1067.34
+P00037,"Mamee, Mr. Hanna",Male,25.5,3,1,0,0,2677,7.2292,,0,Unknown,C,mamee@mail.com,1910-11-26,254.92
+P00453,"Foreman, Mr. Benjamin Laventall",Male,30.0,1,0,0,0,113051,27.75,C111,1,C,C,foreman@yahoo.com,1911-09-22,723.18
+P00254,"Lobb, Mr. William Arthur",Male,30.0,3,0,1,0,A/5. 3336,16.1,,0,Unknown,S,lobb@yahoo.com,1910-12-29,343.47
+P00304,"Keane, Miss. Nora A",Female,27.0,3,1,0,0,226593,12.35,E101,1,E,Q,keane@mail.com,1911-07-30,443.75
+P00705,"Hansen, Mr. Henrik Juul",Male,26.0,3,0,1,0,350025,7.8542,,0,Unknown,S,hansen@gmail.com,1910-07-01,234.08
+P00572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Female,53.0,1,1,2,0,11769,51.4792,C101,1,C,S,,1910-02-22,712.98
+P00624,"Hansen, Mr. Henry Damsgaard",Male,21.0,3,0,0,0,350029,7.8542,,0,Unknown,S,hansen@yahoo.com,1910-09-28,287.7
+P00652,"Doling, Miss. Elsie",Female,18.0,2,1,0,1,231919,23.0,,0,Unknown,S,doling@outlook.com,1910-08-04,379.24
+P00661,"Frauenthal, Dr. Henry William",Male,36.0,1,1,2,0,PC 17611,133.65,,0,Unknown,S,frauenthal@gmail.com,1912-07-23,1192.635
+P00263,"Taussig, Mr. Emil",Male,52.0,1,0,1,1,110413,79.65,,0,Unknown,S,taussig@yahoo.com,1912-09-22,1028.51
+P00611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Female,39.0,3,0,1,5,347082,31.275,,0,Unknown,S,andersson@mail.com,1910-10-13,1211.56
+P00298,"Allison, Miss. Helen Loraine",Female,2.0,3,0,1,2,113781,151.55,C22 C26,1,C,S,allison@yahoo.com,1911-09-13,1877.82
+P00415,"Sundman, Mr. Johan Julian",Male,44.0,3,1,0,0,STON/O 2. 3101269,7.925,,0,Unknown,S,sundman@gmail.com,1912-01-06,298.62
+P00151,"Bateman, Rev. Robert James",Male,51.0,2,0,0,0,S.O.P. 1166,12.525,,0,Unknown,S,bateman@mail.com,1912-07-26,367.73
+P00724,"Hodges, Mr. Henry Price",Male,50.0,3,0,0,0,250643,13.0,,0,Unknown,S,hodges@gmail.com,1910-03-07,451.41
+P00641,"Jensen, Mr. Hans Peder",Male,20.0,3,0,0,0,350050,7.8542,,0,Unknown,S,jensen@outlook.com,1910-01-11,94.82
+P00812,"Lester, Mr. James",Male,39.0,3,0,0,0,A/4 48871,24.15,,0,Unknown,S,lester@mail.com,1912-01-17,465.26
+P00551,"Thayer, Mr. John Borland Jr",Male,17.0,1,1,0,2,17421,110.8833,C70,1,C,C,thayer@mail.com,1911-07-16,1061.35
+P00489,"Somerton, Mr. Francis William",Male,30.0,3,0,0,0,A.5. 18509,8.05,,0,Unknown,S,somerton@mail.com,1911-08-16,174.92
+P00148,"Ford, Miss. Robina Maggie ""Ruby""",Female,9.0,3,0,2,2,W./C. 6608,34.375,,0,Unknown,S,ford@gmail.com,1911-04-24,759.06
+P00147,"Andersson, Mr. August Edvard (""Wennerstrom"")",Male,27.0,3,1,0,0,350043,7.7958,,0,Unknown,S,andersson@gmail.com,1910-01-17,164.19
+P00851,"Andersson, Master. Sigvard Harald Elias",Male,28.0,3,0,4,2,347082,31.275,,0,Unknown,S,andersson@mail.com,1912-03-25,481.13
+P00678,"Turja, Miss. Anna Sofia",Female,18.0,3,1,0,0,4138,9.8417,,0,Unknown,S,turja@gmail.com,1912-09-22,229.02
+P00349,"Coutts, Master. William Loch ""William""",Male,3.0,3,1,1,1,C.A. 37671,15.9,,0,Unknown,S,coutts@gmail.com,1910-02-14,195.73
+P00464,"Milling, Mr. Jacob Christian",Male,48.0,2,0,0,0,234360,13.0,,0,Unknown,S,milling@yahoo.com,1910-08-29,467.72
+P00326,"Young, Miss. Marie Grice",Female,24.0,1,1,0,0,PC 17760,135.6333,C32,1,C,C,,1911-07-10,2451.16
+P00187,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Female,20.0,3,1,1,0,370365,15.5,,0,Unknown,Q,obrien@gmail.com,1910-07-01,366.95
+P00124,"Webber, Miss. Susan",Female,32.5,2,1,0,0,27267,13.0,E101,1,E,S,webber@yahoo.com,1911-07-23,246.57
+P00780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Female,48.0,1,1,0,1,24160,211.3375,B3,1,B,S,robert@mail.com,1912-04-15,1192.635
+P00609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Female,22.0,2,1,1,2,SC/Paris 2123,41.5792,,0,Unknown,C,,1912-07-10,1214.15
+P00144,"Burke, Mr. Jeremiah",Male,30.0,3,0,0,0,365222,6.75,,0,Unknown,Q,burke@yahoo.com,1910-03-14,144.57
+P00877,"Gustafsson, Mr. Alfred Ossian",Male,20.0,3,0,0,0,7534,9.8458,,0,Unknown,S,gustafsson@outlook.com,1911-05-28,102.1
+P00198,"Olsen, Mr. Karl Siegwart Andreas",Male,42.0,3,0,0,1,4579,8.4042,,0,Unknown,S,olsen@gmail.com,1911-12-14,196.49
+P00610,"Shutes, Miss. Elizabeth W",Female,40.0,1,1,0,0,PC 17582,153.4625,C125,1,C,S,,1911-08-04,4527.04
+P00280,"Abbott, Mrs. Stanton (Rosa Hunt)",Female,35.0,3,1,1,1,C.A. 2673,20.25,,0,Unknown,S,,1911-11-20,417.62
+P00294,"Haas, Miss. Aloisia",Female,24.0,3,0,0,0,349236,8.85,,0,Unknown,S,haas@yahoo.com,1911-06-04,120.46
+P00401,"Niskanen, Mr. Juha",Male,39.0,3,1,0,0,STON/O 2. 3101289,7.925,,0,Unknown,S,niskanen@mail.com,1912-07-28,230.46
+P00123,"Nasser, Mr. Nicholas",Male,32.5,2,0,1,0,237736,30.0708,,0,Unknown,C,nasser@outlook.com,1910-12-11,1154.78
+P00184,"Becker, Master. Richard F",Male,1.0,2,1,2,1,230136,13.7917,F4,1,F,S,becker@outlook.com,1911-05-27,379.24
+P00203,"Johanson, Mr. Jakob Alfred",Male,34.0,3,0,0,0,3101264,6.4958,,0,Unknown,S,johanson@yahoo.com,1911-03-06,105.56
+P00439,"Fortune, Mr. Mark",Male,45.5,1,0,1,4,19950,263.0,C23 C25 C27,1,C,S,fortune@gmail.com,1911-01-10,3455.51
+P00247,"Lindahl, Miss. Agda Thorilda Viktoria",Female,25.0,3,0,0,0,347071,7.775,,0,Unknown,S,lindahl@mail.com,1911-02-06,167.88
+P00416,"Meek, Mrs. Thomas (Annie Louise Rowley)",Female,33.5,3,0,0,0,343095,8.05,,0,Unknown,S,meek@outlook.com,1910-10-06,218.29
+P00817,"Heininen, Miss. Wendla Maria",Female,42.0,3,0,0,0,STON/O2. 3101290,7.925,,0,Unknown,S,heininen@gmail.com,1912-09-26,167.98
+P00811,"Alexander, Mr. William",Male,26.0,3,0,0,0,3474,7.8875,,0,Unknown,S,alexander@gmail.com,1910-07-15,311.51
+P00130,"Ekstrom, Mr. Johan",Male,45.0,3,0,0,0,347061,6.975,,0,Unknown,S,ekstrom@outlook.com,1910-03-03,255.0
+P00638,"Collyer, Mr. Harvey",Male,35.0,2,0,1,1,C.A. 31921,26.25,,0,Unknown,S,collyer@yahoo.com,1910-01-23,333.84
+P00403,"Jussila, Miss. Mari Aina",Female,21.0,3,0,1,0,4137,9.825,,0,Unknown,S,jussila@yahoo.com,1910-01-05,179.43
+P00814,"Andersson, Miss. Ebba Iris Alfrida",Female,6.0,3,0,4,2,347082,31.275,,0,Unknown,S,andersson@yahoo.com,1912-10-04,724.51
+P00707,"Kelly, Mrs. Florence ""Fannie""",Female,45.0,2,1,0,0,223596,13.5,,0,Unknown,S,kelly@gmail.com,1912-05-03,183.8
+P00835,"Allum, Mr. Owen George",Male,18.0,3,0,0,0,2223,8.3,,0,Unknown,S,allum@mail.com,1912-07-05,81.06
+P00220,"Harris, Mr. Walter",Male,30.0,2,0,0,0,W/C 14208,10.5,,0,Unknown,S,harris@mail.com,1911-11-24,135.73
+P00642,"Sagesser, Mlle. Emma",Female,24.0,1,1,0,0,PC 17477,69.3,B35,1,B,C,sagesser@mail.com,1912-10-18,1774.61
+P00837,"Pasic, Mr. Jakob",Male,25.5,3,0,0,0,315097,8.6625,,0,Unknown,S,pasic@mail.com,1911-09-17,309.11
+P00689,"Fischer, Mr. Eberhard Thelander",Male,18.0,3,0,0,0,350036,7.7958,,0,Unknown,S,fischer@yahoo.com,1911-10-20,280.13
+P00840,"Marechal, Mr. Pierre",Male,45.5,1,1,0,0,11774,29.7,,0,Unknown,S,marechal@mail.com,1912-05-02,1135.87
+P00625,"Bowen, Mr. David John ""Dai""",Male,21.0,3,0,0,0,54636,16.1,,0,Unknown,S,bowen@outlook.com,1912-10-15,269.24
+P00768,"Mangan, Miss. Mary",Female,30.5,3,0,0,0,364850,7.75,,0,Unknown,Q,mangan@yahoo.com,1912-07-07,161.0
+P00697,"Kelly, Mr. James",Male,44.0,3,0,0,0,363592,8.05,,0,Unknown,S,kelly@outlook.com,1910-03-27,207.88
+P00387,"Goodwin, Master. Sidney Leonard",Male,1.0,3,0,5,2,CA 2144,46.9,,0,Unknown,S,goodwin@gmail.com,1912-04-27,530.21
+P00890,"Behr, Mr. Karl Howell",Male,26.0,1,1,0,0,111369,30.0,C148,1,C,C,behr@yahoo.com,1910-02-21,402.93
+P00510,"Lang, Mr. Fang",Male,26.0,3,1,0,0,1601,56.4958,,0,Unknown,S,lang@gmail.com,1912-07-24,1256.5
+P00268,"Persson, Mr. Ernst Ulrik",Male,25.0,3,1,1,0,347083,7.775,,0,Unknown,S,persson@yahoo.com,1911-02-25,170.76
+P00752,"Moor, Master. Meier",Male,22.0,3,1,0,1,392096,12.475,E121,1,E,S,moor@gmail.com,1911-05-05,286.72
+P00442,"Hampe, Mr. Leon",Male,20.0,3,0,0,0,345769,9.5,,0,Unknown,S,hampe@yahoo.com,1911-04-11,239.09
+P00497,"Eustis, Miss. Elizabeth Mussey",Female,54.0,1,1,1,0,36947,78.2667,D20,1,D,C,eustis@gmail.com,1910-12-23,1381.91
+P00113,"Barton, Mr. David John",Male,22.0,3,0,0,0,324669,8.05,,0,Unknown,S,barton@outlook.com,1912-08-28,103.64
+P00692,"Karun, Miss. Manca",Female,4.0,3,1,0,1,349256,13.4167,,0,Unknown,C,karun@mail.com,1911-07-19,279.78
+P00233,"Sjostedt, Mr. Ernst Adolf",Male,59.0,2,0,0,0,237442,13.5,,0,Unknown,S,sjostedt@gmail.com,1910-09-24,184.19
+P00796,"Otter, Mr. Richard",Male,39.0,3,0,0,0,28213,13.0,,0,Unknown,S,otter@yahoo.com,1911-04-14,313.2
+P00608,"Daniel, Mr. Robert Williams",Male,33.5,1,1,0,0,113804,30.5,,0,Unknown,S,daniel@outlook.com,1911-05-27,583.33
+P00672,"Davidson, Mr. Thornton",Male,31.0,3,0,1,0,F.C. 12750,52.0,B71,1,B,S,davidson@outlook.com,1910-09-30,1896.59
+P00374,"Ringhini, Mr. Sante",Male,35.0,1,0,0,0,PC 17760,135.6333,,0,Unknown,C,ringhini@yahoo.com,1910-09-19,3588.8
+P00833,"Saad, Mr. Amin",Male,22.0,3,0,0,0,2671,7.2292,,0,Unknown,C,saad@yahoo.com,1912-03-11,188.2
+P00234,"Asplund, Miss. Lillian Gertrud",Female,5.0,3,1,4,2,347077,31.3875,,0,Unknown,S,asplund@mail.com,1912-07-09,676.46
+P00721,"Harper, Miss. Annie Jessie ""Nina""",Female,6.0,2,1,0,1,248727,33.0,,0,Unknown,S,harper@gmail.com,1910-06-07,1083.24
+P00677,"Sawyer, Mr. Frederick Charles",Male,24.5,3,0,0,0,342826,8.05,,0,Unknown,S,sawyer@outlook.com,1911-10-23,68.47
+P00318,"Moraweck, Dr. Ernest",Male,22.0,2,0,0,0,29011,14.0,,0,Unknown,S,moraweck@outlook.com,1910-11-08,228.56
+P00649,"Willey, Mr. Edward",Male,25.5,3,0,0,0,S.O./P.P. 751,7.55,,0,Unknown,S,willey@mail.com,1911-11-11,168.69
+P00411,"Sdycoff, Mr. Todor",Male,25.5,3,0,0,0,349222,7.8958,,0,Unknown,S,sdycoff@gmail.com,1911-03-16,205.33
+P00821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Female,52.0,3,1,1,1,12749,93.5,B69,1,B,S,hays@gmail.com,1911-05-30,1893.29
+P00710,"Moubarek, Master. Halim Gonios (""William George"")",Male,22.0,3,1,1,1,2661,15.2458,,0,Unknown,C,moubarek@yahoo.com,1910-11-27,567.53
+P00359,"McGovern, Miss. Mary",Female,22.0,3,1,0,0,330931,7.8792,,0,Unknown,Q,,1912-12-06,297.43
+P00259,"Ward, Miss. Anna",Female,35.0,1,1,0,0,PC 17755,512.3292,,0,Unknown,C,ward@gmail.com,1912-07-21,7727.5800000000045
+P00628,"Longley, Miss. Gretchen Fiske",Female,21.0,1,1,0,0,13502,77.9583,D9,1,D,S,longley@yahoo.com,1911-06-26,1008.9
+P00633,"Stahelin-Maeglin, Dr. Max",Male,32.0,1,1,0,0,13214,30.5,B50,1,B,C,stahelinmaeglin@yahoo.com,1910-06-14,986.29
+P00283,"de Pelsmaeker, Mr. Alfons",Male,16.0,3,0,0,0,345778,9.5,,0,Unknown,S,depelsmaeker@outlook.com,1910-07-14,304.71
+P00377,"Landergren, Miss. Aurora Adelia",Female,22.0,3,1,0,0,C 7077,7.25,,0,Unknown,S,landergren@outlook.com,1911-02-13,285.04
+P00385,"Plotcharsky, Mr. Vasil",Male,25.5,3,0,0,0,349227,7.8958,,0,Unknown,S,plotcharsky@gmail.com,1912-02-21,144.29
+P00225,"Hoyt, Mr. Frederick Maxfield",Male,38.0,3,1,1,0,19943,90.0,C93,1,C,S,hoyt@outlook.com,1911-06-21,920.57
+P00035,"Meyer, Mr. Edgar Joseph",Male,28.0,3,0,1,0,PC 17604,82.1708,,0,Unknown,S,meyer@mail.com,1912-11-01,1323.29
+P00747,"Abbott, Mr. Rossmore Edward",Male,16.0,3,0,1,1,C.A. 2673,20.25,,0,Unknown,S,abbott@outlook.com,1911-12-11,760.33
+P00473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Female,33.0,2,1,1,2,C.A. 34651,27.75,,0,Unknown,S,west@yahoo.com,1910-08-10,257.6
+P00348,"Davison, Mrs. Thomas Henry (Mary E Finck)",Female,42.0,3,1,1,0,386525,16.1,,0,Unknown,S,davison@mail.com,1910-11-23,219.55
+P00506,"Penasco y Castellana, Mr. Victor de Satode",Male,18.0,1,0,1,0,PC 17758,108.9,C65,1,C,C,penascoycastellana@yahoo.com,1911-11-10,2735.21
+P00640,"Thorneycroft, Mr. Percival",Male,26.0,3,0,1,0,376564,16.1,,0,Unknown,S,thorneycroft@mail.com,1910-04-09,287.65
+P00849,"Harper, Rev. John",Male,28.0,3,0,0,1,248727,33.0,,0,Unknown,S,harper@mail.com,1910-08-12,1086.91
+P00827,"Lam, Mr. Len",Male,22.0,3,0,0,0,1601,56.4958,,0,Unknown,S,lam@outlook.com,1911-02-20,1548.19
+P00620,"Gavey, Mr. Lawrence",Male,26.0,3,0,0,0,31028,10.5,,0,Unknown,S,gavey@gmail.com,1911-01-01,319.075
+P00782,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Female,17.0,1,1,1,0,17474,57.0,B20,1,B,S,dick@outlook.com,1910-10-21,1842.18
+P00646,"Harper, Mr. Henry Sleeper",Male,48.0,3,1,1,0,PC 17572,76.7292,D33,1,D,C,harper@yahoo.com,1910-06-18,2534.42
+P00775,"Hocking, Mrs. Elizabeth (Eliza Needs)",Female,54.0,3,1,1,3,29105,14.4542,,0,Unknown,S,hocking@mail.com,1911-03-10,810.33
+P00557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Female,48.0,1,1,1,0,11755,39.6,A16,1,A,C,duffgordon@outlook.com,1912-11-16,997.56
+P00876,"Najib, Miss. Adele Kiamie ""Jane""",Female,15.0,3,1,0,0,2667,7.225,,0,Unknown,C,najib@outlook.com,1911-07-07,286.65
+P00578,"Silvey, Mrs. William Baird (Alice Munger)",Female,39.0,3,1,1,0,13507,55.9,E44,1,E,S,silvey@outlook.com,1912-05-01,1738.55
+P00086,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Female,33.0,3,1,3,0,3101278,15.85,,0,Unknown,S,backstrom@outlook.com,1910-04-15,362.66
+P00243,"Coleridge, Mr. Reginald Charles",Male,29.0,2,0,0,0,W./C. 14263,10.5,,0,Unknown,S,coleridge@gmail.com,1912-04-15,328.56
+P00699,"Thayer, Mr. John Borland",Male,49.0,1,0,1,1,17421,110.8833,C68,1,C,C,thayer@gmail.com,1910-02-02,1489.56
+P00160,"Sage, Master. Thomas Henry",Male,25.5,3,0,8,2,CA. 2343,69.55,,0,Unknown,S,sage@mail.com,1911-07-11,2042.77
+P00525,"Kassem, Mr. Fared",Male,25.5,3,0,0,0,2700,7.2292,,0,Unknown,C,kassem@yahoo.com,1912-05-08,241.93
+P00036,"Holverson, Mr. Alexander Oskar",Male,42.0,1,0,1,0,113789,52.0,,0,Unknown,S,holverson@gmail.com,1911-08-16,682.76
+P00541,"Crosby, Miss. Harriet R",Female,36.0,1,1,0,2,WE/P 5735,71.0,B22,1,B,S,crosby@outlook.com,1910-07-22,1958.97
+P00171,"Van der hoef, Mr. Wyckoff",Male,61.0,1,0,0,0,111240,33.5,B19,1,B,S,vanderhoef@gmail.com,1912-01-23,921.98
+P00655,"Hegarty, Miss. Hanora ""Nora""",Female,18.0,3,0,0,0,365226,6.75,,0,Unknown,Q,hegarty@outlook.com,1911-10-09,138.68
+P00784,"Johnston, Mr. Andrew G",Male,26.0,3,0,1,2,W./C. 6607,23.45,,0,Unknown,S,,1912-02-25,773.54
+P00843,"Serepeca, Miss. Augusta",Female,30.0,3,1,0,0,113798,31.0,,0,Unknown,C,serepeca@mail.com,1912-08-05,503.55
+P00864,"Sage, Miss. Dorothy Edith ""Dolly""",Female,22.0,3,0,8,2,CA. 2343,69.55,,0,Unknown,S,sage@mail.com,1911-11-18,1334.39
+P00734,"Berriman, Mr. William John",Male,23.0,2,0,0,0,28425,13.0,,0,Unknown,S,berriman@mail.com,1911-08-29,268.42
+P00096,"Shorney, Mr. Charles Joseph",Male,27.0,3,0,0,0,374910,8.05,,0,Unknown,S,shorney@yahoo.com,1911-07-11,252.89
+P00564,"Simmons, Mr. John",Male,25.5,3,0,0,0,SOTON/OQ 392082,8.05,,0,Unknown,S,simmons@gmail.com,1911-09-19,154.02
+P00241,"Zabour, Miss. Thamine",Female,18.0,3,0,1,0,2665,14.4542,,0,Unknown,C,zabour@gmail.com,1912-04-01,354.51
+P00743,"Ryerson, Miss. Susan Parker ""Suzette""",Female,21.0,1,1,2,2,PC 17608,262.375,B57 B59 B63 B66,1,B,C,ryerson@outlook.com,1912-08-22,7727.5800000000045
+P00575,"Rush, Mr. Alfred George John",Male,16.0,3,0,0,0,A/4. 20589,8.05,,0,Unknown,S,rush@gmail.com,1910-05-03,237.73
+P00691,"Dick, Mr. Albert Adrian",Male,31.0,1,1,1,0,17474,57.0,B20,1,B,S,dick@mail.com,1910-08-25,1029.37
+P00461,"Anderson, Mr. Harry",Male,48.0,3,1,0,0,19952,14.4542,E12,1,E,S,,1911-03-06,924.12
+P00554,"Leeni, Mr. Fahim (""Philip Zenni"")",Male,22.0,3,1,0,0,2620,7.225,,0,Unknown,C,leeni@yahoo.com,1910-06-02,102.91
+P00802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Female,31.0,2,1,1,1,C.A. 31921,26.25,,0,Unknown,S,collyer@yahoo.com,1911-12-21,417.25
+P00207,"Backstrom, Mr. Karl Alfred",Male,32.0,3,0,1,0,3101278,15.85,,0,Unknown,S,backstrom@mail.com,1912-04-07,540.7
+P00393,"Gustafsson, Mr. Johan Birger",Male,28.0,3,0,2,0,3101277,7.925,,0,Unknown,S,gustafsson@yahoo.com,1912-05-26,223.97
+P00398,"McKane, Mr. Peter David",Male,46.0,2,0,0,0,28403,26.0,,0,Unknown,S,,1910-04-22,583.27
+P00852,"Svensson, Mr. Johan",Male,74.0,3,0,0,0,347060,7.775,,0,Unknown,S,svensson@mail.com,1911-05-15,68.96
+P00218,"Jacobsohn, Mr. Sidney Samuel",Male,42.0,2,0,1,0,243847,27.0,,0,Unknown,S,jacobsohn@gmail.com,1912-10-27,1078.8
+P00005,"Allen, Mr. William Henry",Male,35.0,3,0,0,0,373450,8.05,,0,Unknown,S,allen@yahoo.com,1911-11-01,291.35
+P00643,"Skoog, Miss. Margit Elizabeth",Female,22.0,3,0,3,2,347088,27.9,,0,Unknown,S,skoog@mail.com,1910-07-26,852.65
+P00820,"Skoog, Master. Karl Thorsten",Male,10.0,3,0,3,2,347088,27.9,,0,Unknown,S,skoog@mail.com,1911-01-11,926.54
+P00613,"Murphy, Miss. Margaret Jane",Female,21.0,3,1,1,0,367230,15.5,,0,Unknown,Q,murphy@mail.com,1910-12-20,334.84
+P00739,"Ivanoff, Mr. Kanio",Male,19.0,3,0,0,0,349201,7.8958,,0,Unknown,S,ivanoff@outlook.com,1910-05-19,166.77
+P00547,"Beane, Mrs. Edward (Ethel Clarke)",Female,19.0,2,1,1,0,2908,26.0,,0,Unknown,S,beane@yahoo.com,1911-12-16,637.11
+P00726,"Oreskovic, Mr. Luka",Male,20.0,3,0,0,0,315094,8.6625,,0,Unknown,S,oreskovic@gmail.com,1912-05-19,70.49
+P00684,"Goodwin, Mr. Charles Edward",Male,14.0,3,0,5,2,CA 2144,46.9,,0,Unknown,S,goodwin@mail.com,1910-06-12,538.27
+P00099,"Doling, Mrs. John T (Ada Julia Bone)",Female,34.0,2,1,0,1,231919,23.0,,0,Unknown,S,doling@outlook.com,1912-05-12,768.72
+P00728,"Mannion, Miss. Margareth",Female,22.0,3,1,0,0,36866,7.7375,,0,Unknown,Q,mannion@gmail.com,1910-05-13,308.03
+P00574,"Kelly, Miss. Mary",Female,18.0,3,1,0,0,14312,7.75,,0,Unknown,Q,kelly@gmail.com,1912-07-21,223.99
+P00407,"Widegren, Mr. Carl/Charles Peter",Male,51.0,3,0,0,0,347064,7.75,,0,Unknown,S,widegren@yahoo.com,1912-01-12,103.18
+P00503,"O'Sullivan, Miss. Bridget Mary",Female,27.0,3,0,0,0,330909,8.05,,0,Unknown,Q,osullivan@mail.com,1912-03-23,75.64
+P00033,"Glynn, Miss. Mary Agatha",Female,21.0,3,1,0,0,335677,7.75,,0,Unknown,Q,glynn@gmail.com,1910-06-08,196.51
+P00201,"Vande Walle, Mr. Nestor Cyriel",Male,28.0,3,0,0,0,345770,9.5,,0,Unknown,S,vandewalle@yahoo.com,1911-05-06,272.03
+P00135,"Sobey, Mr. Samuel James Hayden",Male,25.0,2,0,0,0,C.A. 29178,13.0,,0,Unknown,S,sobey@mail.com,1910-03-02,229.83
+P00028,"Fortune, Mr. Charles Alexander",Male,19.0,3,0,3,2,19950,263.0,C23 C25 C27,1,C,S,fortune@mail.com,1910-06-10,4666.39
+P00804,"Thomas, Master. Assad Alexander",Male,0.42,3,1,0,1,2625,8.5167,,0,Unknown,C,thomas@mail.com,1910-06-25,252.9
+P00231,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Female,35.0,1,1,1,0,36973,83.475,C83,1,C,S,harris@yahoo.com,1910-04-03,966.56
+P00490,"Coutts, Master. Eden Leslie ""Neville""",Male,9.0,3,1,1,1,C.A. 37671,15.9,,0,Unknown,S,coutts@outlook.com,1912-12-09,346.53
+P00773,"Mack, Mrs. (Mary)",Female,57.0,2,0,0,0,S.O./P.P. 3,10.5,E77,1,E,S,mack@gmail.com,1911-08-30,154.87
+P00379,"Betros, Mr. Tannous",Male,26.0,3,0,0,0,2648,4.0125,,0,Unknown,C,betros@yahoo.com,1910-02-23,95.49
+P00289,"Hosono, Mr. Masabumi",Male,42.0,2,1,0,0,237798,13.0,,0,Unknown,S,hosono@outlook.com,1910-01-28,190.69
+P00419,"Matthews, Mr. William John",Male,30.0,2,0,0,0,28228,13.0,,0,Unknown,S,matthews@yahoo.com,1912-07-22,497.34
+P00675,"Watson, Mr. Ennis Hastings",Male,23.0,2,0,0,0,239856,0.0,,0,Unknown,S,watson@outlook.com,1911-05-13,379.24
+P00392,"Jansson, Mr. Carl Olof",Male,21.0,3,1,0,0,350034,7.7958,,0,Unknown,S,jansson@gmail.com,1911-03-07,170.02
+P00593,"Elsbury, Mr. William James",Male,47.0,3,0,0,0,A/5 3902,7.25,,0,Unknown,S,elsbury@gmail.com,1910-05-03,110.89
+P00499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Female,25.0,1,0,1,2,113781,151.55,C22 C26,1,C,S,allison@mail.com,1912-09-22,1431.19
+P00139,"Osen, Mr. Olaf Elon",Male,16.0,3,0,0,0,7534,9.2167,,0,Unknown,S,osen@yahoo.com,1911-01-01,192.63
+P00063,"Harris, Mr. Henry Birkhardt",Male,45.0,3,0,1,0,36973,83.475,,0,Unknown,S,harris@yahoo.com,1911-04-14,1098.54
+P00472,"Cacic, Mr. Luka",Male,38.0,3,0,0,0,315089,8.6625,,0,Unknown,S,cacic@mail.com,1911-01-20,252.89
+P00648,"Simonius-Blumer, Col. Oberst Alfons",Male,56.0,3,1,0,0,13213,35.5,A26,1,A,C,,1912-02-13,1209.92
+P00129,"Peter, Miss. Anna",Female,33.5,3,1,1,1,2668,22.3583,F E69,1,F,C,peter@outlook.com,1910-05-07,500.56
+P00521,"Perreault, Miss. Anne",Female,30.0,3,1,0,0,12749,93.5,B73,1,B,S,perreault@yahoo.com,1911-07-09,3667.89
+P00065,"Stewart, Mr. Albert A",Male,38.0,3,0,0,0,PC 17605,27.7208,,0,Unknown,C,stewart@yahoo.com,1911-11-01,1009.47
+P00015,"Vestrom, Miss. Hulda Amanda Adolfina",Female,14.0,3,0,0,0,350406,7.8542,,0,Unknown,S,vestrom@outlook.com,1912-02-16,226.83
+P00157,"Gilnagh, Miss. Katherine ""Katie""",Female,16.0,3,1,0,0,35851,7.7333,,0,Unknown,Q,gilnagh@gmail.com,1911-10-20,254.43
+P00493,"Molson, Mr. Harry Markland",Male,45.5,1,0,0,0,113787,30.5,C30,1,C,S,molson@mail.com,1912-09-09,1213.7
+P00380,"Gustafsson, Mr. Karl Gideon",Male,19.0,3,0,0,0,347069,7.775,,0,Unknown,S,gustafsson@yahoo.com,1911-09-02,303.76
+P00188,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Male,45.0,1,1,0,0,111428,26.55,,0,Unknown,S,romaine@yahoo.com,1911-04-03,1192.635
+P00764,"Carter, Mrs. William Ernest (Lucile Polk)",Female,36.0,3,1,1,2,113760,120.0,B96 B98,1,B,S,carter@mail.com,1910-06-21,4584.19
+P00217,"Honkanen, Miss. Eliina",Female,27.0,3,1,0,0,STON/O2. 3101283,7.925,,0,Unknown,S,honkanen@gmail.com,1912-09-20,162.32
+P00792,"Gaskell, Mr. Alfred",Male,26.0,3,0,0,0,239865,26.0,,0,Unknown,S,gaskell@yahoo.com,1910-02-08,831.46
+P00053,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Female,49.0,1,1,1,0,PC 17572,76.7292,D33,1,D,C,harper@yahoo.com,1911-06-04,1629.28
+P00338,"Burns, Miss. Elizabeth Margaret",Female,41.0,3,1,0,0,16966,134.5,E40,1,E,C,burns@yahoo.com,1910-06-18,5102.57
+P00749,"Marvin, Mr. Daniel Warner",Male,19.0,1,0,1,0,113773,53.1,D30,1,D,S,marvin@yahoo.com,1910-10-27,1664.9
+P00720,"Johnson, Mr. Malkolm Joackim",Male,33.0,3,0,0,0,347062,8.05,,0,Unknown,S,johnson@outlook.com,1912-04-30,125.16
+P00725,"Chambers, Mr. Norman Campbell",Male,27.0,3,1,1,0,113806,14.4542,E8,1,E,S,chambers@mail.com,1910-07-09,786.86
+P00296,"Lewy, Mr. Ervin G",Male,35.0,1,0,0,0,PC 17612,27.7208,,0,Unknown,C,lewy@outlook.com,1910-05-06,575.27
+P00702,"Silverthorne, Mr. Spencer Victor",Male,35.0,1,1,0,0,PC 17475,26.2875,E24,1,E,S,silverthorne@outlook.com,1911-02-24,1008.85
+P00252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Female,29.0,3,0,1,1,347054,10.4625,G6,1,G,S,strom@yahoo.com,1912-10-16,362.29
+P00727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Female,30.0,3,1,3,0,31027,21.0,,0,Unknown,S,renouf@outlook.com,1911-10-07,551.82
+P00462,"Morley, Mr. William",Male,34.0,3,0,0,0,364506,8.05,,0,Unknown,S,,1911-06-27,137.66
+P00456,"Jalsevac, Mr. Ivan",Male,29.0,3,1,0,0,349240,7.8958,,0,Unknown,C,jalsevac@outlook.com,1912-07-25,170.54
+P00816,"Fry, Mr. Richard",Male,45.5,1,0,0,0,112058,0.0,B102,1,B,S,fry@mail.com,1912-12-12,1192.635
+P00270,"Bissette, Miss. Amelia",Female,35.0,1,1,0,0,PC 17760,135.6333,C99,1,C,S,bissette@outlook.com,1911-10-01,1236.27
+P00202,"Sage, Mr. Frederick",Male,27.0,3,0,8,2,CA. 2343,69.55,,0,Unknown,S,sage@mail.com,1912-07-12,1200.31
+P00162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Female,40.0,2,1,0,0,C.A. 33595,15.75,,0,Unknown,S,watt@outlook.com,1911-07-04,264.68
+P00556,"Wright, Mr. George",Male,62.0,1,0,0,0,113807,26.55,,0,Unknown,S,wright@outlook.com,1912-10-24,987.62
+P00730,"Ilmakangas, Miss. Pieta Sofia",Female,25.0,3,0,1,0,STON/O2. 3101271,7.925,,0,Unknown,S,ilmakangas@outlook.com,1910-10-18,116.15
+P00402,"Adams, Mr. John",Male,26.0,3,0,0,0,341826,8.05,,0,Unknown,S,adams@mail.com,1911-01-05,207.21
+P00703,"Barbara, Miss. Saiide",Female,18.0,3,0,0,1,2691,14.4542,,0,Unknown,C,barbara@gmail.com,1910-01-21,301.98
+P00477,"Renouf, Mr. Peter Henry",Male,34.0,2,0,1,0,31027,21.0,,0,Unknown,S,renouf@mail.com,1911-05-12,261.83
+P00822,"Lulic, Mr. Nikola",Male,27.0,3,1,0,0,315098,8.6625,,0,Unknown,S,lulic@outlook.com,1912-08-21,340.95
+P00772,"Jensen, Mr. Niels Peder",Male,48.0,3,0,0,0,350047,7.8542,,0,Unknown,S,jensen@mail.com,1910-07-22,259.6
+P00106,"Mionoff, Mr. Stoytcho",Male,28.0,3,0,0,0,349207,7.8958,,0,Unknown,S,,1911-07-31,224.62
+P00566,"Davies, Mr. Alfred J",Male,24.0,3,0,2,0,A/4 48871,24.15,,0,Unknown,S,davies@gmail.com,1912-12-14,367.8
+P00390,"Lehmann, Miss. Bertha",Female,17.0,3,1,0,0,SC 1748,12.0,,0,Unknown,C,lehmann@gmail.com,1912-03-21,233.73
+P00002,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Female,38.0,1,1,1,0,PC 17599,71.2833,C85,1,C,C,cumings@mail.com,1911-07-27,1192.635
+P00881,"Shelley, Mrs. William (Imanita Parrish Hall)",Female,25.0,3,1,0,1,230433,26.0,,0,Unknown,S,shelley@gmail.com,1911-02-18,852.32
+P00562,"Sivic, Mr. Husein",Male,40.0,3,0,0,0,349251,7.8958,,0,Unknown,S,sivic@gmail.com,1910-02-26,281.5
+P00081,"Waelens, Mr. Achille",Male,26.0,3,0,0,0,345767,9.0,,0,Unknown,S,waelens@mail.com,1911-04-04,80.66
+P00206,"Strom, Miss. Telma Matilda",Female,2.0,3,0,0,1,347054,10.4625,G6,1,G,S,strom@yahoo.com,1912-07-03,156.97
+P00776,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Male,18.0,3,0,0,0,347078,7.75,,0,Unknown,S,myhrman@mail.com,1912-03-04,252.89
+P00509,"Olsen, Mr. Henry Margido",Male,28.0,3,0,0,0,C 4001,22.525,,0,Unknown,S,olsen@yahoo.com,1910-11-24,466.53
+P00428,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Female,19.0,2,1,0,0,250655,26.0,,0,Unknown,S,phillips@mail.com,1911-05-07,826.56
+P00455,"Peduzzi, Mr. Joseph",Male,22.0,3,0,0,0,A/5 2817,8.05,,0,Unknown,S,peduzzi@outlook.com,1912-12-28,220.82
+P00367,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Female,60.0,3,1,1,0,110813,75.25,,0,Unknown,C,warren@yahoo.com,1911-09-01,2576.1
+P00092,"Andreasson, Mr. Paul Edvin",Male,20.0,3,0,0,0,347466,7.8542,,0,Unknown,S,andreasson@mail.com,1911-08-23,249.23
+P00340,"Blackwell, Mr. Stephen Weart",Male,45.0,3,0,0,0,113784,35.5,T,1,T,S,blackwell@mail.com,1912-06-18,528.44
+P00565,"Meanwell, Miss. (Marion Ogden)",Female,16.5,3,0,0,0,SOTON/O.Q. 392087,8.05,,0,Unknown,S,meanwell@mail.com,1910-03-13,87.73
+P00346,"Brown, Miss. Amelia ""Mildred""",Female,24.0,3,1,0,0,248733,13.0,F33,1,F,S,brown@yahoo.com,1910-06-01,190.11
+P00777,"Tobin, Mr. Roger",Male,26.0,3,0,0,0,383121,7.75,F38,1,F,Q,tobin@yahoo.com,1912-01-12,118.46
+P00014,"Andersson, Mr. Anders Johan",Male,39.0,3,0,1,5,347082,31.275,,0,Unknown,S,andersson@mail.com,1911-05-18,1210.3
+P00316,"Nilsson, Miss. Helmina Josefina",Female,26.0,3,1,0,0,347470,7.8542,,0,Unknown,S,nilsson@outlook.com,1911-07-19,214.03
+P00601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Female,24.0,3,1,2,1,243847,27.0,,0,Unknown,S,jacobsohn@outlook.com,1911-06-21,926.39
+P00388,"Buss, Miss. Kate",Female,36.0,2,1,0,0,27849,13.0,,0,Unknown,S,buss@mail.com,1910-01-09,464.32
+P00274,"Natsch, Mr. Charles H",Male,37.0,1,0,0,1,PC 17596,29.7,C118,1,C,C,natsch@mail.com,1911-07-21,377.18
+P00167,"Chibnall, Mrs. (Edith Martha Bowerman)",Female,38.0,3,1,0,1,113505,55.0,E33,1,E,S,,1912-04-25,796.44
+P00841,"Alhomaki, Mr. Ilmari Rudolf",Male,20.0,3,0,0,0,SOTON/O2 3101287,7.925,,0,Unknown,S,alhomaki@yahoo.com,1912-09-16,76.3
+P00647,"Cor, Mr. Liudevit",Male,19.0,3,0,0,0,349231,7.8958,,0,Unknown,S,cor@yahoo.com,1910-05-02,252.16
+P00819,"Holm, Mr. John Fredrik Alexander",Male,43.0,3,0,0,0,C 7075,6.45,,0,Unknown,S,holm@outlook.com,1910-08-21,110.23
+P00485,"Bishop, Mr. Dickinson H",Male,25.0,1,1,1,0,11967,91.0792,B49,1,B,C,bishop@yahoo.com,1912-11-16,1192.635
+P00505,"Maioni, Miss. Roberta",Female,16.0,1,1,0,0,110152,86.5,B79,1,B,S,maioni@yahoo.com,1911-10-09,1123.14
+P00832,"Richards, Master. George Sibley",Male,0.83,2,1,1,1,29106,18.75,,0,Unknown,S,richards@gmail.com,1911-12-16,577.15
+P00244,"Maenpaa, Mr. Matti Alexanteri",Male,22.0,3,0,0,0,STON/O 2. 3101275,7.125,,0,Unknown,S,maenpaa@outlook.com,1911-11-04,279.68
+P00567,"Stoytcheff, Mr. Ilia",Male,19.0,3,0,0,0,349205,7.8958,,0,Unknown,S,stoytcheff@gmail.com,1911-05-14,173.79
+P00563,"Norman, Mr. Robert Douglas",Male,28.0,2,0,0,0,218629,13.5,,0,Unknown,S,norman@yahoo.com,1910-09-27,517.9
+P00687,"Panula, Mr. Jaako Arnold",Male,14.0,3,0,4,1,3101295,39.6875,,0,Unknown,S,panula@yahoo.com,1912-05-25,1394.25
+P00190,"Turcin, Mr. Stjepan",Male,36.0,3,0,0,0,349247,7.8958,,0,Unknown,S,turcin@yahoo.com,1912-10-04,124.87
+P00783,"Long, Mr. Milton Clyde",Male,45.5,1,0,0,0,113501,30.0,D6,1,D,S,long@gmail.com,1912-04-10,363.16
+P00700,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Male,42.0,3,0,0,0,348121,7.65,F G63,1,F,S,humblen@gmail.com,1912-03-16,108.98
+P00476,"Clifford, Mr. George Quincy",Male,49.0,1,0,0,0,110465,52.0,A14,1,A,S,clifford@mail.com,1910-11-27,1192.635
+P00682,"Hassab, Mr. Hammad",Male,27.0,1,1,0,0,PC 17572,76.7292,D49,1,D,C,hassab@gmail.com,1912-03-14,1969.58
+P00511,"Daly, Mr. Eugene Patrick",Male,29.0,3,1,0,0,382651,7.75,,0,Unknown,Q,,1910-09-22,77.65
+P00059,"West, Miss. Constance Mirium",Female,5.0,2,1,1,2,C.A. 34651,27.75,,0,Unknown,S,west@outlook.com,1910-11-01,523.32
+P00475,"Strandberg, Miss. Ida Sofia",Female,22.0,3,0,0,0,7553,9.8375,,0,Unknown,S,strandberg@outlook.com,1910-01-20,243.1
+P00561,"Morrow, Mr. Thomas Rowan",Male,26.0,3,0,0,0,372622,7.75,,0,Unknown,Q,morrow@outlook.com,1910-02-14,215.21
+P00857,"Wick, Mrs. George Dennick (Mary Hitchcock)",Female,45.0,1,1,1,1,36928,61.679199999999994,,0,Unknown,S,,1911-02-17,4123.58
+P00748,"Sinkkonen, Miss. Anna",Female,30.0,3,1,0,0,250648,13.0,,0,Unknown,S,sinkkonen@yahoo.com,1910-07-19,206.28
+P00253,"Stead, Mr. William Thomas",Male,62.0,1,0,0,0,113514,26.55,C87,1,C,S,stead@gmail.com,1912-07-13,910.12
+P00022,"Beesley, Mr. Lawrence",Male,34.0,2,1,0,0,248698,13.0,D56,1,D,S,beesley@yahoo.com,1911-02-17,479.08
+P00314,"Hendekovic, Mr. Ignjac",Male,28.0,3,0,0,0,349243,7.8958,,0,Unknown,S,hendekovic@yahoo.com,1911-12-14,69.88
+P00460,"O'Connor, Mr. Maurice",Male,25.0,3,0,0,0,371060,7.75,,0,Unknown,Q,oconnor@gmail.com,1910-03-08,259.1
+P00161,"Cribb, Mr. John Hatfield",Male,44.0,3,0,0,1,371362,16.1,,0,Unknown,S,cribb@mail.com,1911-04-02,195.45
+P00277,"Lindblom, Miss. Augusta Charlotta",Female,45.0,3,0,0,0,347073,7.75,,0,Unknown,S,lindblom@yahoo.com,1911-03-13,195.66
+P00192,"Carbines, Mr. William",Male,19.0,2,0,0,0,28424,13.7917,,0,Unknown,S,carbines@outlook.com,1912-11-15,488.33
+P00386,"Davies, Mr. Charles Henry",Male,18.0,2,0,0,0,S.O.C. 14879,73.5,,0,Unknown,S,davies@gmail.com,1911-12-21,1042.43
+P00806,"Johansson, Mr. Karl Johan",Male,31.0,3,0,0,0,347063,7.775,,0,Unknown,S,johansson@mail.com,1911-05-29,109.11
+P00414,"Cunningham, Mr. Alfred Fleming",Male,25.5,2,0,0,0,239853,0.0,,0,Unknown,S,cunningham@gmail.com,1911-10-31,379.24
+P00492,"Windelov, Mr. Einar",Male,21.0,3,0,0,0,SOTON/OQ 3101317,7.25,,0,Unknown,S,windelov@mail.com,1911-01-15,182.03
+P00344,"Sedgwick, Mr. Charles Frederick Waddington",Male,25.0,2,0,0,0,244361,13.0,,0,Unknown,S,sedgwick@outlook.com,1911-11-29,193.06
+P00770,"Gronnestad, Mr. Daniel Danielsen",Male,32.0,3,0,0,0,8471,8.3625,,0,Unknown,S,gronnestad@yahoo.com,1911-11-10,110.24
+P00309,"Abelson, Mr. Samuel",Male,30.0,2,0,1,0,P/PP 3381,24.0,,0,Unknown,C,abelson@yahoo.com,1911-11-11,756.27
+P00662,"Badt, Mr. Mohamed",Male,40.0,3,0,0,0,2623,7.225,,0,Unknown,C,badt@outlook.com,1911-08-07,127.85
+P00131,"Drazenoic, Mr. Jozef",Male,33.0,3,0,0,0,349241,7.8958,,0,Unknown,C,drazenoic@outlook.com,1910-03-20,252.57
+P00664,"Coleff, Mr. Peju",Male,36.0,3,0,0,0,349210,7.4958,,0,Unknown,S,coleff@gmail.com,1911-05-17,116.57
+P00872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Female,47.0,1,1,1,1,11751,61.679199999999994,D35,1,D,S,beckwith@gmail.com,1910-01-12,776.58
+P00100,"Kantor, Mr. Sinai",Male,34.0,2,0,1,0,244367,26.0,,0,Unknown,S,kantor@gmail.com,1911-01-11,726.09
+P00373,"Beavan, Mr. William Thomas",Male,19.0,3,0,0,0,323951,8.05,,0,Unknown,S,beavan@yahoo.com,1912-06-19,308.77
+P00088,"Slocovski, Mr. Selman Francis",Male,19.0,3,0,0,0,SOTON/OQ 392086,8.05,,0,Unknown,S,slocovski@yahoo.com,1911-01-20,201.41
+P00459,"Toomey, Miss. Ellen",Female,23.0,3,1,0,0,F.C.C. 13531,10.5,,0,Unknown,S,toomey@mail.com,1911-10-14,123.78
+P00331,"McCoy, Miss. Agnes",Female,19.0,3,1,2,0,367226,23.25,,0,Unknown,Q,mccoy@outlook.com,1911-08-29,343.93
+P00215,"Kiernan, Mr. Philip",Male,25.5,3,0,1,0,367229,7.75,,0,Unknown,Q,kiernan@outlook.com,1910-07-18,254.04
+P00467,"Campbell, Mr. William",Male,25.0,3,0,0,0,239853,0.0,,0,Unknown,S,campbell@gmail.com,1910-05-28,319.075
+P00122,"Moore, Mr. Leonard Charles",Male,26.0,3,0,0,0,A4. 54510,8.05,,0,Unknown,S,moore@outlook.com,1910-09-27,186.19
+P00615,"Brocklebank, Mr. William Alfred",Male,35.0,3,0,0,0,364512,8.05,,0,Unknown,S,brocklebank@outlook.com,1910-09-23,194.68
+P00021,"Fynney, Mr. Joseph J",Male,35.0,2,0,0,0,239865,26.0,,0,Unknown,S,fynney@outlook.com,1910-07-20,937.42
+P00701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Female,18.0,1,1,1,0,PC 17757,227.525,C62 C64,1,C,C,,1911-01-15,2242.09
+P00072,"Goodwin, Miss. Lillian Amy",Female,16.0,3,0,5,2,CA 2144,46.9,,0,Unknown,S,goodwin@gmail.com,1912-07-08,572.94
+P00107,"Salkjelsvik, Miss. Anna Kristine",Female,21.0,3,1,0,0,343120,7.65,,0,Unknown,S,salkjelsvik@mail.com,1911-01-30,61.77
+P00271,"Cairns, Mr. Alexander",Male,36.0,1,0,0,0,113798,31.0,,0,Unknown,S,cairns@yahoo.com,1911-07-01,895.04
+P00861,"Hansen, Mr. Claus Peter",Male,41.0,3,0,2,0,350026,14.1083,,0,Unknown,S,hansen@mail.com,1912-08-29,203.85
+P00436,"Carter, Miss. Lucile Polk",Female,14.0,1,1,1,2,113760,120.0,B96 B98,1,B,S,carter@gmail.com,1912-01-14,2392.55
+P00103,"White, Mr. Richard Frasar",Male,21.0,3,0,0,1,35281,77.2875,,0,Unknown,S,white@mail.com,1911-04-18,1142.51

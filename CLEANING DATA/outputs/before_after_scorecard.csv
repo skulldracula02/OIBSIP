@@ -1,0 +1,11 @@
+,BEFORE,AFTER
+rows,917.0,891.0
+columns,15.0,17.0
+null_cells (visible),0.0,760.0
+null_cells (incl. sentinels),1097.0,760.0
+null_% of all cells,7.98,5.02
+exact_duplicate_rows,7.0,0.0
+duplicate_passenger_ids,14.0,0.0
+columns_with_wrong_dtype,15.0,0.0
+dtype_accuracy_%,0.0,100.0
+columns_usable_as_is,0.0,17.0

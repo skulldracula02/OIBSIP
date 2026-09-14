@@ -1,0 +1,918 @@
+Passenger Id,Name,Sex,Age,Pclass,Survived,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Email,Join Date,Annual Spend
+P00669,"Cook, Mr. Jacob",M,43.0,3rd,0,0,0,  A/5 3536 ,8.0500,,Southampton,cook@mail.com,25-Jul-1912,287.78
+P00031,"Uruchurtu, Don. Manuel E",Male,40.0,1st,0,0,0,PC 17601,27.7208,,c,uruchurtu@yahoo.com,09/19/1911,$972.04
+P00378,"Widener, Mr. Harry Elkins",Male,27.0,1st,0,0,2,  113503 ,211.5000,C82,c,widener@outlook.com,11/09/1912,"5,066.79"
+P00536,"Hart, Miss. Eva Miriam",FEMALE,7.0,2nd,1,0,2,  F.C.C. 13529 ,26.2500,,s,hart@gmail.com,06/01/1912,285.39 USD
+P00807,"Andrews, Mr. Thomas Jr",M,,1,0,0,0,  112050 ,0.0000,A36,S,andrews@outlook.com,13/06/1910,$0.00
+P00793,"Sage, Miss. Stella Anna",FEMALE.,,3,0,8,2,  CA. 2343 ,69.5500,,Southampton,sage@outlook.com,05/21/1912,"1,197.05"
+P00364,"Asim, Mr. Adola",male,35.0,Third,0,0,0,  SOTON/O.Q. 3101310 ,7.0500,,s,,"Dec 13, 1911",$83.92
+P00584,"Ross, Mr. John Hugo", male ,36.0,1,0,0,0,  13049 ,40.1250,A10,Cherbourg ,ross@gmail.com,05-Dec-1912,988.10 USD
+P00166,"Goldsmith, Master. Frank John William ""Frankie""",M,9.0,Unknown,1,0,2,363291,20.5250,,s,goldsmith@mail.com,08-May-1911,762.10
+P00484,"Turkula, Mrs. (Hedwig)",Female,63.0,Third,1,0,0,  4134 ,9.5875,,S,turkula@mail.com,"Aug 29, 1912",USD 375.65
+P00774,"Elias, Mr. Dibo",Male,,3rd,0,0,0,2674,7.2250,,C,elias@outlook.com,30-Jul-1911,269.90 USD
+P00552,"Sharp, Mr. Percival James R",MALE,27.0,2,0,0,0,  244358 ,26.0000,,s,sharp@yahoo.com,20/10/1912,1500000.0
+P00769,"Moran, Mr. Daniel J", male ,,Third,0,1,0,  371110 ,24.1500,,Queenstown,moran@gmail.com,1910-10-05,$220.34
+P00695,"Weir, Col. John",M,60.0,1,0,0,0,  113800 ,26.5500,,s,,14/12/1910,"1,010.01 USD"
+P00719,"McEvoy, Mr. Michael",Male,,3,0,0,0,36568,15.5,,q,mcevoy@gmail.com,1910-05-18,$338.53
+P00313,"Lahtinen, Mrs. William (Anna Sylfven)",f,26.0,2nd,0,1,1,250651,26.0000,,S,lahtinen@gmail.com,"Apr 13, 1912",799.16 USD
+P00714,"Larsson, Mr. August Viktor",m,29.0,3,0,0,0,7545,9.4833,,s,larsson@mail.com,16/05/1910,$147.26
+P00310,"Francatelli, Miss. Laura Mabel",F,30.0,1,1,0,0,PC 17485,56.9292,E36,c,francatelli@gmail.com,"Aug 20, 1912","$1,487.30"
+P00846,"Abbing, Mr. Anthony",Male,42.0,Third,0,0.0,0,C.A. 5547,7.55,,S,abbing@gmail.com,05/07/1911,USD 274.39
+P00617,"Danbom, Mr. Ernst Gilbert",M,34.0,Third,0,1.0,1,347080,14.4000,,s,danbom@gmail.com,1911-06-10,USD 327.03
+P00356,"Vanden Steen, Mr. Leo Peter",M,28.0,3rd,0,0,0,  345783 ,9.5000,,S,vandensteen@mail.com,1912-07-30,261.59 USD
+P00040,"Nicola-Yarred, Miss. Jamila",f,14.0,Third,1,1,0,2651,11.2417,,C,nicolayarred@outlook.com,08/12/1911,196.43
+P00232,"Larsson, Mr. Bengt Edvin",Male,29.0,Third,0,0,0,347067,7.775,,Southampton,larsson@mail.com,10/22/1910,$269.33
+P00867,"Duran y More, Miss. Asuncion",FEMALE.,,2,1,1,0,  SC/PARIS 2149 ,13.8583,,Cherbourg ,duranymore@mail.com,1911-10-29,542.07
+P00604,"Torber, Mr. Ernst William",Male,-1.0,Third,0,0.0,0,364511,8.0500,,S,torber@gmail.com,03/26/1911,$174.70
+P00064,"Skoog, Master. Harald",Male,4.0,3,0,3,2,  347088 ,27.9000,,Southampton,skoog@mail.com,10-May-1912,
+P00193,"Andersen-Jensen, Miss. Carla Christine Nielsine",f,19.0,3,1,1,0,  350046 ,7.8542,,S,andersenjensen@outlook.com,1911-09-01,$274.79
+P00482,"Frost, Mr. Anthony Wood ""Archie""",male,,2,0,0,0,239854,0.0000,,Southampton,frost@mail.com,1911-05-08,0.00 USD
+P00866,"Bystrom, Mrs. (Karolina)",FEMALE.,42.0,2,1,0,0,236852,13.0000,,S,bystrom@outlook.com,"Jan 17, 1911",162.67 USD
+P00068,"Crease, Mr. Ernest James",M,,Third,0,0.0,0,S.P. 3464,8.1583,,s,crease@yahoo.com,"Nov 29, 1912",193.35
+P00073,"Hood, Mr. Ambrose Jr",M,21.0,Second,0,0,0,S.O.C. 14879,73.5000,,S,hood@yahoo.com,27/08/1910,883.56
+P00656,"Hickman, Mr. Leonard Mark",male,24.0,Second,0,2,0,S.O.C. 14879,73.5000,,s,hickman@outlook.com,23/01/1912,"1,154.66 USD"
+P00680,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,1st,1,0,1,PC 17755,512.3292,B51 B53 B55,Cherbourg ,cardeza@mail.com,28/03/1910,-
+P00140,"Giglio, Mr. Victor", male ,24.0,First,0,0,0,PC 17593,79.2000,B86,c,giglio@yahoo.com,"Jun 18, 1911","USD 2,057.47"
+P00733,"Knight, Mr. Robert J",MALE,,2nd,0,0,0,239855,0.0000,,S,knight@mail.com,19/01/1910,USD 0.00
+P00824,"Moor, Mrs. (Beila)",female,27.0,3,1,0,1,392096,12.4750,E121,s,moor@outlook.com,12/07/1911,USD 220.09
+P00175,"Smith, Mr. James Clinch",m,56.0,1,0,0,0,17764,30.6958,A7,,smith@outlook.com,1911-03-01,"USD 1,204.38"
+P00536,"Hart, Miss. Eva Miriam",FEMALE,7.0,2nd,1,0.0,2,  F.C.C. 13529 ,26.2500,,s,hart@gmail.com,06/01/1912,285.39 USD
+P00500,"Svensson, Mr. Olof",M,24.0,3rd,0,0,0,  350035 ,7.7958,,s,svensson@yahoo.com,1910-12-02,295.83 USD
+P00071,"Jenkin, Mr. Stephen Curnow", male ,32.0,2nd,0,0,0,C.A. 33111,10.5,,s,jenkin@mail.com,1911-03-24,230.01
+P00717,"Endres, Miss. Caroline Louise",F,38.0,1,1,0,0,PC 17757,227.5250,C45,c,endres@outlook.com,"Oct 13, 1911","3,746.68 USD"
+P00024,"Sloper, Mr. William Thompson",m,28.0,First,1,0,0,113788,35.5,A6,Southampton,sloper@mail.com,1911-10-11,"USD 1,399.97"
+P00542,"Andersson, Miss. Ingeborg Constanzia",F,9.0,3,0,4,2,347082,31.2750,,Southampton,andersson@gmail.com,07/07/1910,
+P00799,"Ibrahim Shawah, Mr. Yousseff",MALE,30.0,3,No,0,0,2685,7.2292,,c,ibrahimshawah@yahoo.com,1910-04-14,149.23 USD
+P00673,"Mitchell, Mr. Henry Michael", male ,70.0,2,0,0,0,C.A. 24580,10.5000,,s,mitchell@outlook.com,1912-10-03,
+P00826,"Flynn, Mr. John",M,,3rd,0,0,0,368323,6.95,,Queenstown,flynn@gmail.com,09/12/1911,$130.52
+P00251,"Reed, Mr. James George",MALE,,3,0,0.0,0,362316,7.2500,,S,reed@gmail.com,06-Jan-1911,240.69 USD
+P00753,"Vande Velde, Mr. Johannes Joseph", male ,33.0,Third,0,0,0,345780,9.5000,,Southampton,vandevelde@gmail.com,"Oct 14, 1911",USD 136.97
+P00351,"Odahl, Mr. Nils Martin",m,23.0,3rd,0,0,0,  7267 ,9.2250,,Southampton,odahl@outlook.com,01/05/1912,USD 168.38
+P00759,"Theobald, Mr. Thomas Leonard",MALE,34.0,3,0,0,0,  363294 ,8.0500,,s,,04-Jul-1912,271.18
+P00760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Female,33.0,First,1,0,0,110152,86.5000,B77,Southampton,rothes@outlook.com,27-Jul-1910,"1,428.37"
+P00108,"Moss, Mr. Albert Johan",male,,3,1,0,0,312991,7.7750,,S,moss@outlook.com,19-Nov-1912,$309.35
+P00446,"Dodge, Master. Washington",male,4.0,1st,1,0,2,  33638 ,81.8583,A34,s,dodge@outlook.com,30/11/1911,"$1,146.30"
+P00142,"Nysten, Miss. Anna Sofia",F,22.0,3rd,1,0,0,347081,7.75,,Southampton,nysten@gmail.com,03/11/1912,$188.22
+P00651,"Mitkoff, Mr. Mito",m,,3rd,0,0.0,0,349221,7.8958,,s,mitkoff@yahoo.com,"Sep 22, 1910",124.00 USD
+P00545,"Douglas, Mr. Walter Donald",M,50.0,First,0,1,0,  PC 17761 ,106.4250,C86,c,douglas@mail.com,04/22/1910,"4,174.37"
+P00111,"Porter, Mr. Walter Chamberlain",M,47.0,1st,0,0,0,110465,,C110,s,porter@yahoo.com,17/03/1912,"USD 1,178.55"
+P00594,"Bourke, Miss. Mary",FEMALE,,3,0,0,2,364848,7.7500,,Q,bourke@mail.com,31/03/1911,220.13
+P00520,"Pavlovic, Mr. Stefo",m,,3,0,0,0,349242,7.8958,,Southampton,pavlovic@outlook.com,03/08/1910,272.88 USD
+P100042,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,Second,0,1,0,11668,21.0000,,S,turpin@mail.com,09-Oct-1910,USD 440.06
+P00676,"Edvardsson, Mr. Gustaf Hjalmar",Male,18.0,Third,0,0,0,  349912 ,7.7750,,S,edvardsson@outlook.com,26-Nov-1912,82.39 USD
+P00281,"Duane, Mr. Frank", male ,65.0,Third,0,0,0,  336439 ,7.7500,,q,duane@yahoo.com,22/11/1911,244.97
+P00137,"Newsom, Miss. Helen Monypeny",Female,19.0,First,1,0.0,2,  11752 ,26.2833,D47,S,newsom@outlook.com,1910-11-04,518.38 USD
+P00423,"Zimmerman, Mr. Leo",Male,,Third,0,0,0,315082,7.8750,,s,zimmerman@mail.com,23-Jul-1912,64.16 USD
+P00209,"Carr, Miss. Helen ""Ellen""",F,16.0,3rd,1,0,0,367231,7.7500,,q,carr@yahoo.com,1911-04-20,$103.59
+P00443,"Petterson, Mr. Johan Emil",Male,25.0,3rd,0,1,0,347076,7.7750,,s,petterson@gmail.com,03/06/1912,302.40
+P00087,"Ford, Mr. William Neal",male,16.0,3rd,0,1,3,W./C. 6608,34.3750,,s,ford@gmail.com,09/19/1911,
+P00045,"Devaney, Miss. Margaret Delia",f,19.0,3,1,0,0,330958,7.8792,,q,devaney@gmail.com,26/10/1912,$115.18
+P00532,"Toufik, Mr. Nakli",M,,3,0,0,0,  2641 ,,,Cherbourg ,toufik@gmail.com,"Oct 07, 1911",163.42 USD
+P100048,"O'Driscoll, Miss. Bridget",f,,3,1,0.0,0,14311,7.75,,Queenstown,odriscoll@mail.com,21-May-1911,USD 284.24
+P00635,"Skoog, Miss. Mabel",FEMALE.,9.0,3rd,0,3,2,  347088 ,27.9000,,s,skoog@gmail.com,1910-02-21,$379.60
+P00291,"Barber, Miss. Ellen ""Nellie""",F,26.0,First,1,0,0,19877,78.8500,,S,barber@mail.com,10/12/1912,930.83
+P00339,"Dahl, Mr. Karl Edwart",M,45.0,3,1,0.0,0,7598,8.0500,,S,dahl@gmail.com,"Nov 12, 1910",$79.72
+P00358,"Funk, Miss. Annie Clemmer",f,38.0,Second,0,0,0,237671,13.0000,,s,funk@mail.com,12/23/1910,USD 473.56
+P00293,"Levy, Mr. Rene Jacques",MALE,,2nd,0,0,0,SC/Paris 2163,,D,C,levy@mail.com,06/05/1911,175.63
+P00228,"Lovell, Mr. John Hall (""Henry"")",Male,20.5,3,0,0,0,A/5 21173,7.2500,,,lovell@outlook.com,02-Mar-1912,$120.79
+P00592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Female,52.0,1st,1,1,0,36947,78.2667,D20,Cherbourg ,stephenson@mail.com,14-Nov-1910,"2,111.21"
+P00426,"Wiseman, Mr. Phillippe",MALE,,3,0,0.0,0,A/4. 34244,7.2500,,s,wiseman@gmail.com,17/02/1912,188.54 USD
+P00789,"Dean, Master. Bertram Vere",M,1.0,3rd,1,1,2,C.A. 2315,20.5750,,Southampton,dean@outlook.com,18-Jul-1911,$511.88
+P00523,"Lahoud, Mr. Sarkis",Male,,Third,0,0,0,2624,7.2250,,C,lahoud@gmail.com,05/17/1912,USD 275.91
+P100050,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,Third,0,1,0,349237,17.8000,,S,arnoldfranchi@mail.com,1912-01-27,$293.08
+P00353,"Elias, Mr. Tannous",male,15.0,3,0,1,1,2695,7.2292,,Cherbourg ,elias@yahoo.com,"Jun 21, 1911",$70.62
+P00494,"Artagaveytia, Mr. Ramon",M,71.0,1st,0,0,0,PC 17609,49.5042,,,,28-Feb-1911,"1,914.76 USD"
+P00061,"Sirayanian, Mr. Orsen",m,,Third,0,0,0,2669,7.2292,,Cherbourg ,sirayanian@mail.com,30-Nov-1910,USD 115.30
+P00599,"Boulos, Mr. Hanna",M,,3,No,0,0,  2664 ,7.2250,,Cherbourg ,boulos@outlook.com,"Jul 11, 1911",167.75
+P00723,"Gillespie, Mr. William Henry",m,,Second,0,0,0,  12233 ,13.0000,,s,gillespie@mail.com,"Jan 29, 1912",USD 261.38
+P00427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female ,28.0,2,1,1,0,2003,26.0000,,Southampton,clarke@mail.com,10/09/1911,USD 230.07
+P00469,"Scanlan, Mr. James",Male,,3rd,0,0,0,36209,7.725,,Queenstown,scanlan@gmail.com,02/05/1911,USD 102.19
+P00067,"Nye, Mrs. (Elizabeth Ramell)",F,29.0,Second,1,0,0,C.A. 29395,10.5000,F33,Southampton,nye@mail.com,26/11/1911,257.93 USD
+P00333,"Graham, Mr. George Edward",M,38.0,First,0,0,1,PC 17582,153.4625,,S,graham@yahoo.com,18-Dec-1911,"$4,401.50"
+P00376,"Meyer, Mrs. Edgar Joseph (Leila Saks)",F,,First,1,1,0,PC 17604,82.1708,,c,meyer@gmail.com,02-Mar-1910,"USD 1,105.27"
+P00382,"Nakid, Miss. Maria (""Mary"")",female ,1.0,Third,1,0,2,2653,15.7417,,C,nakid@mail.com,1912-10-17,USD 326.18
+P00558,"Robbins, Mr. Victor", male ,,1,0,0,0,  PC 17757 ,227.5250,,c,robbins@mail.com,03/20/1912,"$6,377.90"
+P00261,"Smith, Mr. Thomas",M,,Third,0,0,0,384461,7.7500,,q,,1911-07-07,280.01
+P00236,"Harknett, Miss. Alice Phoebe",female,,Third,0,0,0,  W./C. 6609 ,7.5500,,S,harknett@outlook.com,"Jul 24, 1912",n/a
+P00219,"Bazzani, Miss. Albina",female,32.0,1st,1,0.0,0,11813,76.2917,D15,Cherbourg ,bazzani@yahoo.com,"Feb 18, 1910","1,080.51 USD"
+P00383,"Tikkanen, Mr. Juho",male,32.0,Third,0,0,0,STON/O 2. 3101293,7.925,,S,tikkanen@mail.com,10-Jan-1912,$211.69
+P00440,"Kvillner, Mr. Johan Henrik Johannesson",MALE,31.0,Second,0,0,0,  C.A. 18723 ,10.5000,,s,kvillner@yahoo.com,08-May-1911,$344.37
+P00763,"Barah, Mr. Hanna Assi", male ,20.0,Third,Yes,0.0,0,  2663 ,7.2292,,c,barah@mail.com,15/10/1911,89.07
+P00306,"Allison, Master. Hudson Trevor",m,,1st,Yes,1,2,113781,151.5500,C22 C26,Southampton,allison@gmail.com,21-Feb-1912,"$2,283.18"
+P00138,"Futrelle, Mr. Jacques Heath",Male,37.0,1,0,1,0,113803,53.1000,,S,futrelle@gmail.com,11-Sep-1911,"1,679.68 USD"
+P00539,"Risien, Mr. Samuel Beard",Male,,3rd,0,0,0,364498,14.5000,,s,risien@outlook.com,12/05/1912,322.98
+P00077,"Staneff, Mr. Ivan",m,,3rd,0,0,0,349208,7.8958,,,staneff@yahoo.com,14-Dec-1910,USD 104.50
+P00794,"Hoyt, Mr. William Fisher",Male,,1,0,0,0,PC 17600,30.6958,,Cherbourg ,hoyt@mail.com,28-Jan-1911,361.32
+P00437,"Ford, Miss. Doolina Margaret ""Daisy""",FEMALE,21.0,3,0,2,2,W./C. 6608,34.375,,s,,1910-04-03,896.59
+P00267,"Panula, Mr. Ernesti Arvid", male ,16.0,3rd,0,4,1,3101295,39.6875,,Southampton,panula@yahoo.com,"Jul 20, 1912",318.16 USD
+P00216,"Newell, Miss. Madeleine",F,31.0,1st,1,1,0,35273,113.2750,D36,C,newell@yahoo.com,09/25/1910,
+P00335,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",FEMALE,,1st,1,1,0,PC 17611,133.6500,,s,frauenthal@yahoo.com,27/11/1912,"4,876.68 USD"
+P00524,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",FEMALE.,44.0,1,1,0.0,1,111361,57.9792,B18,Cherbourg ,hippach@mail.com,"Oct 03, 1911",
+P00508,"Bradley, Mr. George (""George Arthur Brayton"")",m,,First,1,0,0,  111427 ,26.5500,,Southampton,bradley@gmail.com,1910-01-28,USD 694.50
+P00210,"Blank, Mr. Henry",male,40.0,First,1,0,0,112277,31.0000,A31,C,blank@mail.com,10-Jun-1911,$255.45
+P00445,"Johannesen-Bratthammer, Mr. Bernt",Male,,Third,1,0,0,65306,8.1125,,s,,"Dec 29, 1912",287.02 USD
+P00750,"Connaghton, Mr. Michael",male,31.0,3rd,0,0,0,335097,7.7500,,,connaghton@gmail.com,03/01/1912,249.13
+P00663,"Colley, Mr. Edward Pomeroy",MALE,47.0,1st,No,0.0,0,  5727 ,25.5875,E58,s,colley@gmail.com,11/09/1911,507.06
+P00199,"Madigan, Miss. Margaret ""Maggie""",f,,Third,Yes,0,0,370370,7.7500,,Q,madigan@yahoo.com,05-Jun-1910,
+P00839,"Chip, Mr. Chang",MALE,32.0,3,1,0,0,  1601 ,56.4958,,Southampton,,25/04/1910,"1,168.67 USD"
+P00300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",f,180.0,First,1,0,1,PC 17558,247.5208,B58 B60,C,baxter@gmail.com,03/31/1911,"USD 5,534.40"
+P00598,"Johnson, Mr. Alfred",MALE,49.0,3,0,0,0,  LINE ,0.0000,,Southampton,johnson@mail.com,02/05/1910,0.00 USD
+P00686,"Laroche, Mr. Joseph Philippe Lemercier",MALE,25.0,2,0,1,2,SC/Paris 2123,41.5792,,c,laroche@mail.com,08/24/1911,"1,387.75"
+P00844,"Lemberopolous, Mr. Peter L",Male,34.5,3rd,0,0,0,  2683 ,6.4375,,C,lemberopolous@gmail.com,08/01/1912,230.02 USD
+P00498,"Shellard, Mr. Frederick William",male,,Third,0,0,0,  C.A. 6212 ,15.1,,Southampton,shellard@yahoo.com,02-Sep-1912,557.12 USD
+P00317,"Kantor, Mrs. Sinai (Miriam Sternin)",FEMALE.,24.0,Second,1,1,0,  244367 ,26.0000,,Southampton,kantor@outlook.com,29-Feb-1912,USD 612.51
+P00295,"Mineff, Mr. Ivan",Male,24.0,3rd,0,0,0,  349233 ,7.8958,,s,mineff@outlook.com,12/03/1910,271.14
+P00623,"Nakid, Mr. Sahid",Male,20.0,Third,1,1.0,1,  2653 ,15.7417,,C,nakid@gmail.com,29/12/1910,502.36
+P00003,"Heikkinen, Miss. Laina",FEMALE,26.0,3,1,0,0,STON/O2. 3101282,7.9250,,S,heikkinen@outlook.com,09/12/1912,88.49
+P00097,"Goldschmidt, Mr. George B",M,71.0,First,0,0,0,PC 17754,34.6542,A5,C,goldschmidt@gmail.com,13-Dec-1910,$332.80
+P00468,"Smart, Mr. John Montgomery",M,56.0,First,0,0.0,0,  113792 ,26.5500,,s,smart@outlook.com,23/04/1910,798.73
+P00121,"Hickman, Mr. Stanley George", male ,21.0,2nd,0,2,0,S.O.C. 14879,73.5,,Southampton,hickman@yahoo.com,1912-05-25,"1,998.48 USD"
+P00466,"Goncalves, Mr. Manuel Estanslas",MALE,38.0,3,0,0,0,SOTON/O.Q. 3101306,7.0500,,Southampton,goncalves@mail.com,12/01/1911,173.82
+P00549,"Goldsmith, Mr. Frank John",male,33.0,Third,0,1.0,1,  363291 ,20.5250,,Southampton,goldsmith@outlook.com,1912-11-12,806.02 USD
+P00079,"Caldwell, Master. Alden Gates", male ,0.83,2,1,0.0,2,  248738 ,29.0000,,Southampton,caldwell@outlook.com,1910-02-09,
+P00240,"Hunt, Mr. George Henry",male,33.0,Second,0,0,0,SCO/W 1585,12.2750,,Southampton,hunt@outlook.com,"Mar 22, 1911",490.77
+P00211,"Ali, Mr. Ahmed",MALE,24.0,Third,0,0,0,  SOTON/O.Q. 3101311 ,7.0500,,Southampton,ali@yahoo.com,"May 29, 1911",$132.23
+P00653,"Kalvik, Mr. Johannes Halvorsen",MALE,21.0,3,0,0.0,0,8475,8.4333,,Southampton,kalvik@gmail.com,1911-09-16,115.06 USD
+P00413,"Minahan, Miss. Daisy E",f,33.0,1,1,1,0,19928,90.0000,C78,Q,minahan@yahoo.com,1912-09-07,"USD 1,461.38"
+P00591,"Rintamaki, Mr. Matti",Male,35.0,3rd,0,0,0,STON/O 2. 3101273,7.125,,s,rintamaki@mail.com,01/02/1910,$72.24
+P00514,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",f,54.0,First,1,1,0,PC 17603,59.4,,C,rothschild@mail.com,"Jul 14, 1910",835.14
+P00810,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female ,33.0,1,1,1,0,113806,53.1000,E8,Southampton,chambers@mail.com,18/10/1910,"$1,984.43"
+P00066,"Moubarek, Master. Gerios",m,,Third,1,1,1,2661,15.2458,,Cherbourg ,,15/03/1911,$501.21
+P00320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",F,40.0,1st,1,1.0,1,16966,134.5,E34,C,spedden@mail.com,"Nov 14, 1911","USD 4,338.05"
+P00287,"de Mulder, Mr. Theodore",m,30.0,3,1,0,0,345774,9.5000,,s,demulder@gmail.com,29/07/1910,187.84 USD
+P00612,"Jardin, Mr. Jose Neto",MALE,,Third,No,0,0,SOTON/O.Q. 3101305,7.0500,,s,jardin@yahoo.com,09/08/1910,USD 140.08
+P00329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",F,31.0,Third,1,1,1,363291,20.5250,,Southampton,goldsmith@gmail.com,04/27/1911,USD 207.60
+P00745,"Stranden, Mr. Juho",m,31.0,Third,Yes,0,0,STON/O 2. 3101288,7.925,,Southampton,stranden@mail.com,08/11/1911,9999999.0
+P00430,"Pickard, Mr. Berk (Berk Trembisky)",Male,32.0,3,1,0,0,  SOTON/O.Q. 392078 ,,E10,S,pickard@outlook.com,1910-05-06,2750000.0
+P00315,"Hart, Mr. Benjamin",Male,43.0,2nd,0,1,1,  F.C.C. 13529 ,26.2500,,S,hart@gmail.com,"Sep 16, 1912",USD 251.55
+P00050,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,Third,0,1,0,349237,17.8000,,S,arnoldfranchi@mail.com,1912-01-27,$293.08
+P00668,"Rommetvedt, Mr. Knud Paust", male ,,3rd,0,0,0,  312993 ,7.7750,,s,rommetvedt@mail.com,25-Dec-1912,USD 222.18
+P00169,"Baumann, Mr. John D",MALE,,First,0,0,0,PC 17318,25.9250,,S,baumann@yahoo.com,07/12/1910,
+P00823,"Reuchlin, Jonkheer. John George",Male,38.0,1st,0,0,0,19972,0.0000,,Southampton,reuchlin@gmail.com,14/03/1912,0.00 USD
+P00856,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,3rd,1,0.0,1,  392091 ,9.3500,,Southampton,aks@mail.com,17-Dec-1912,297.40 USD
+P100047,"Lennon, Mr. Denis",M,,Third,0,1,0,  370371 ,15.5000,,q,lennon@yahoo.com,06/12/1910,$183.85
+P00573,"Flynn, Mr. John Irwin (""Irving"")", male ,,First,1,0,0,PC 17474,26.3875,E25,S,flynn@yahoo.com,1910-02-25,481.93
+P00715,"Greenberg, Mr. Samuel",m,52.0,Second,0,0,0,  250647 ,13.0000,,S,greenberg@mail.com,"Sep 01, 1912",218.90
+P00034,"Wheadon, Mr. Edward H",M,66.0,2nd,0,0,0,C.A. 24579,10.5,,s,,1910-09-29,$139.54
+P00032,"Spencer, Mrs. William Augustus (Marie Eugenie)",FEMALE,,1st,1,1,0,PC 17569,146.5208,B78,c,spencer@gmail.com,04/05/1911,NULL
+P00685,"Brown, Mr. Thomas William Solomon", male ,60.0,2,0,1,1,29750,39.0000,,Southampton,,15/12/1910,593.02
+P00418,"Silven, Miss. Lyyli Karoliina",female,18.0,2nd,1,0,2,  250652 ,13.0000,,S,silven@gmail.com,31-Mar-1911,125.87 USD
+P00526,"Farrell, Mr. James", male ,40.5,3rd,0,0,0,  367232 ,7.7500,,Queenstown,farrell@yahoo.com,11/27/1911,USD 197.33
+P00248,"Hamalainen, Mrs. William (Anna)",F,24.0,2nd,1,0,2,250649,14.5000,,s,hamalainen@yahoo.com,25/03/1912,$139.86
+P00110,"Moran, Miss. Bertha",female,,3rd,1,1,0,371110,24.1500,,Queenstown,moran@outlook.com,06/04/1912,241.16 USD
+P00078,"Moutal, Mr. Rahamin Haim", male ,,3,No,0,0,374746,8.05,,Southampton,moutal@gmail.com,"Oct 04, 1912",$207.22
+P00347,"Smith, Miss. Marion Elsie",Female,40.0,2nd,1,0,0,31418,13.0000,,s,smith@mail.com,"May 16, 1910",279.86 USD
+P00214,"Givard, Mr. Hans Kristensen", male ,30.0,Second,0,0,0,  250646 ,13.0,,Southampton,givard@yahoo.com,02-Dec-1910,161.54 USD
+P00083,"McDermott, Miss. Brigdet Delia",f,,3,1,0,0,330932,7.7875,,Queenstown,mcdermott@gmail.com,1911-06-04,$290.78
+P00299,"Saalfeld, Mr. Adolphe",Male,,1,1,0.0,0,19988,30.5000,,Southampton,saalfeld@yahoo.com,01/09/1910,USD 881.85
+P00332,"Partner, Mr. Austen", male ,45.5,1st,0,0,0,  113043 ,28.5000,C124,s,partner@yahoo.com,11/18/1912,"1,043.79 USD"
+P00433,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,2,1,1,0,SC/AH 3085,26.0000,,s,louch@mail.com,28-Aug-1912,862.49 USD
+P00868,"Roebling, Mr. Washington Augustus II",male,31.0,First,0,0,0,PC 17590,50.4958,A24,Southampton,roebling@mail.com,"Sep 18, 1911","$1,862.92"
+P00706,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",M,,2,No,0,0,  250655 ,26.0000,,s,morley@outlook.com,1911-12-23,367.68
+P00533,"Elias, Mr. Joseph Jr",M,17.0,3,0,1,1,2690,7.2292,,Cherbourg ,,09/01/1912,147.21
+P00600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Male,49.0,First,1,1.0,0,PC 17485,56.9292,A20,C,duffgordon@outlook.com,10/28/1910,$565.34
+P00006,"Moran, Mr. James",Male,,3,0,0,0,330877,8.4583,,Q,moran@mail.com,07/12/1911,142.94 USD
+P00055,"Ostby, Mr. Engelhart Cornelius",MALE,-1.0,1st,0,0,1,  113509 ,61.9792,B30,Cherbourg ,ostby@yahoo.com,"May 11, 1910",982.26 USD
+P00266,"Reeves, Mr. David",male,36.0,Second,0,0,0,  C.A. 17248 ,10.5000,,s,reeves@outlook.com,12-May-1910,101.74 USD
+P00479,"Karlsson, Mr. Nils August",m,22.0,3rd,0,0,0,  350060 ,7.5208,,Southampton,karlsson@outlook.com,11/26/1911,USD 142.99
+P00334,"Vander Planke, Mr. Leo Edmondus",male,16.0,3,0,2.0,0,  345764 ,18.0000,,S,vanderplanke@mail.com,1911-04-02,USD 243.05
+P00787,"Sjoblom, Miss. Anna Sofia",f,18.0,3,Yes,0.0,0,  3101265 ,7.4958,,Southampton,sjoblom@gmail.com,05-Apr-1911,$165.80
+P00098,"Greenfield, Mr. William Bertram",MALE,23.0,1st,1,0,1,PC 17759,63.3583,D10 D12,C,greenfield@outlook.com,27-Sep-1910,"USD 1,201.08"
+P00212,"Cameron, Miss. Clear Annie",Female,35.0,2nd,1,0,0,  F.C.C. 13528 ,21.0,,S,cameron@outlook.com,03-Oct-1912,703.93 USD
+P00746,"Crosby, Capt. Edward Gifford",M,70.0,First,0,1,1,WE/P 5735,71.0000,B22,s,crosby@yahoo.com,07/01/1910,"$1,484.42"
+P00585,"Paulner, Mr. Uscher", male ,,3rd,0,0,0,  3411 ,8.7125,,C,paulner@yahoo.com,1910-11-27,USD 211.38
+P00878,"Petroff, Mr. Nedelio",MALE,19.0,3,0,0,0,349212,7.8958,,s,petroff@outlook.com,16/03/1910,$96.66
+P00452,"Hagland, Mr. Ingvald Olai Olsen",male,,3rd,0,1.0,0,65303,19.9667,,S,hagland@mail.com,11-May-1910,$467.55
+P00795,"Dantcheff, Mr. Ristiu",m,180.0,3rd,0,0,0,349203,7.8958,,s,dantcheff@yahoo.com,24/07/1911,USD 123.39
+P00026,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",FEMALE.,38.0,3,Yes,1,5,347077,31.3875,,s,asplund@outlook.com,08/18/1911,USD 323.24
+P00085,"Ilett, Miss. Bertha",FEMALE.,17.0,2nd,1,0,0,  SO/C 14885 ,10.5000,,Southampton,ilett@outlook.com,"Sep 05, 1910",USD 288.33
+P00011,"Sandstrom, Miss. Marguerite Rut",FEMALE.,4.0,3rd,1,1,1,  PP 9549 ,16.7000,G6,S,sandstrom@outlook.com,"Feb 16, 1910",USD 272.24
+P00345,"Fox, Mr. Stanley Hubert",Male,36.0,Second,0,0,0,229236,13.0000,,s,fox@mail.com,"Jan 15, 1911",USD 145.25
+P00255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",f,41.0,3,0,0,2,370129,20.2125,,s,rosblom@outlook.com,13/06/1911,369.68
+P00399,"Pain, Dr. Alfred",M,23.0,Second,0,0,0,244278,10.5000,,S,pain@yahoo.com,11/12/1911,274.83 USD
+P00245,"Attalah, Mr. Sleiman",M,30.0,3,0,0.0,0,2694,7.225,,C,attalah@outlook.com,03/05/1910,131.40
+P00622,"Kimball, Mr. Edwin Nelson Jr",M,42.0,Unknown,1,1,0,11753,52.5542,D19,S,kimball@yahoo.com,03/25/1912,"1,474.59"
+P00119,"Baxter, Mr. Quigg Edmond",Male,24.0,First,0,0,1,PC 17558,247.5208,B58 B60,,baxter@gmail.com,24-Jul-1911,"USD 5,632.38"
+P00301,"Kelly, Miss. Anna Katherine ""Annie Kate""",f,,Third,1,0,0,9234,7.7500,,q,kelly@yahoo.com,01/11/1910,159.44
+P00327,"Nysveen, Mr. Johan Hansen",M,61.0,Third,0,0,0,  345364 ,6.2375,,s,nysveen@gmail.com,1912-03-12,$162.49
+P00030,"Todoroff, Mr. Lalio",M,,3rd,0,0,0,349216,7.8958,,s,todoroff@yahoo.com,1912-08-13,87.67 USD
+P00056,"Woolner, Mr. Hugh",male,,1,1,0.0,0,19947,35.5000,C52,S,woolner@gmail.com,01/12/1912,"1,090.84 USD"
+P00431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",M,28.0,1,1,0,0,  110564 ,26.55,C52,S,bjornstromsteffansson@gmail.com,10/28/1910,USD 608.11
+P00391,"Carter, Mr. William Ernest",M,36.0,First,1,1,2,113760,120.0000,B96 B98,Southampton,carter@outlook.com,"Mar 20, 1912","2,529.29 USD"
+P100046,"Rogers, Mr. William John",m,,Third,0,0,0,S.C./A.4. 23567,8.0500,,Southampton,rogers@mail.com,"Jun 22, 1910",306.94
+P100051,"Panula, Master. Juha Niilo",m,7.0,3,0,4,1,3101295,39.6875,,s,panula@mail.com,19/03/1911,"USD 1,392.53"
+P00197,"Mernagh, Mr. Robert",Male,,Third,0,0,0,  368703 ,7.7500,,Queenstown,mernagh@yahoo.com,20/12/1912,USD 251.12
+P00405,"Oreskovic, Miss. Marija",f,20.0,3rd,0,0,0,  315096 ,8.6625,,Southampton,oreskovic@yahoo.com,1911-07-18,174.25
+P00082,"Sheerlinck, Mr. Jan Baptist",M,29.0,3,1,0,0,345779,9.5000,,S,sheerlinck@yahoo.com,07/06/1911,$112.16
+P00465,"Maisner, Mr. Simon",m,,Third,0,0.0,0,A/S 2816,8.0500,,s,maisner@gmail.com,29/06/1911,$70.57
+P00690,"Madill, Miss. Georgette Alexandra",FEMALE,15.0,First,1,0,1,24160,211.3375,B5,s,madill@mail.com,11/21/1910,"7,708.91 USD"
+P00569,"Doharr, Mr. Tannous",m,,3,0,0,0,2686,7.2292,,c,doharr@outlook.com,1911-07-20,$145.35
+P00282,"Olsson, Mr. Nils Johan Goransson",MALE,28.0,3rd,0,0,0,  347464 ,7.8542,,S,olsson@yahoo.com,05/03/1911,127.54
+P00803,"Carter, Master. William Thornton II",male,11.0,First,1,1,2,113760,120.0000,B96 B98,S,carter@outlook.com,09-Mar-1911,"3,788.25"
+P00205,"Cohen, Mr. Gurshon ""Gus""",m,18.0,Third,1,0,0,A/5 3540,8.0500,,s,cohen@yahoo.com,29-Mar-1910,170.01 USD
+P00555,"Ohman, Miss. Velin",Female,22.0,Third,Yes,0,0,  347085 ,7.7750,,S,ohman@mail.com,1910-02-09,$203.66
+P00659,"Eitemiller, Mr. George Floyd",m,23.0,2,0,0,0,29751,13.0000,,S,eitemiller@gmail.com,06/01/1910,217.49 USD
+P00297,"Hanna, Mr. Mansour",M,23.5,3,0,0,0,2693,7.2292,,C,hanna@mail.com,1911-10-18,USD 286.94
+P00858,"Daly, Mr. Peter Denis ", male ,51.0,First,1,0.0,0,  113055 ,,E17,S,daly@gmail.com,1912-05-31,$616.92
+P00548,"Padro y Manent, Mr. Julian",MALE,,2nd,1,0,0,SC/PARIS 2146,13.8625,,c,padroymanent@outlook.com,16-Dec-1910,$526.19
+P00369,"Jermyn, Miss. Annie",f,,3,1,0,0,14313,7.7500,,Queenstown,jermyn@gmail.com,05/28/1912,309.18 USD
+P00873,"Carlsson, Mr. Frans Olof",M,33.0,First,0,0,0,695,5.0000,B51 B53 B55,S,carlsson@gmail.com,21-Oct-1911,$54.40
+P00829,"McCormack, Mr. Thomas Joseph",male,,3rd,1,0,0,  367228 ,7.7500,,Queenstown,,21/07/1911,267.74 USD
+P00732,"Hassan, Mr. Houssein G N", male ,11.0,3rd,0,0,0,  2699 ,18.7875,,Cherbourg ,hassan@yahoo.com,08-Oct-1912,637.24 USD
+P00882,"Markun, Mr. Johann",MALE,33.0,Third,0,0,0,  349257 ,7.8958,,Southampton,markun@mail.com,02-Feb-1911,222.58
+P00060,"Goodwin, Master. William Frederick",MALE,11.0,3,0,5,2,  CA 2144 ,46.9000,,Southampton,goodwin@outlook.com,"Apr 13, 1910","1,171.90 USD"
+P00324,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Female,22.0,Second,1,1,1,248738,29.0000,,S,caldwell@mail.com,03/23/1910,USD 483.21
+P00862,"Giles, Mr. Frederick Edward", male ,21.0,2nd,0,1,0,  28134 ,11.5000,,s,,20/11/1911,418.81 USD
+P00381,"Bidois, Miss. Rosalie",female,42.0,First,1,0,0,  PC 17757 ,227.5250,,c,,"Apr 30, 1910","USD 4,592.24"
+P00260,"Parrish, Mrs. (Lutie Davis)",Female,50.0,2nd,1,0,1,230433,26.0,,S,parrish@outlook.com,1911-02-10,$327.73
+P00491,"Hagland, Mr. Konrad Mathias Reiersen",male,,3,No,1,0,  65304 ,19.9667,,Southampton,hagland@mail.com,11/08/1910,182.67 USD
+P00303,"Johnson, Mr. William Cahoone Jr",M,19.0,Third,0,0,0,  LINE ,0.0000,,S,johnson@gmail.com,"Feb 09, 1912",USD 0.00
+P00008,"Palsson, Master. Gosta Leonard", male ,2.0,3rd,0,3,1,349909,21.075,,s,palsson@outlook.com,1910-03-18,$293.88
+P00863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Female,48.0,1st,1,0,0,17466,25.9292,D17,S,swift@gmail.com,09-Mar-1911,880.97 USD
+P00156,"Williams, Mr. Charles Duane",Male,51.0,1st,0,0,1,  PC 17597 ,61.3792,,C,williams@outlook.com,20-Sep-1910,$879.56
+P00363,"Barbara, Mrs. (Catherine David)",F,45.0,3rd,No,0,1,2691,14.4542,,C,barbara@gmail.com,"May 19, 1912",$402.21
+P00869,"van Melkebeke, Mr. Philemon", male ,,3,0,0,0,345777,9.5000,,s,vanmelkebeke@yahoo.com,29/09/1911,USD 356.26
+P00102,"Petroff, Mr. Pastcho (""Pentcho"")",MALE,,3,0,0,0,349215,7.8958,,S,petroff@gmail.com,04/08/1910,USD 263.69
+P00200,"Yrois, Miss. Henriette (""Mrs Harbeck"")",f,24.0,2nd,0,0,0,  248747 ,13.0000,,S,,05/07/1911,USD 203.93
+P00417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",F,,2,1,1,1,  28220 ,32.5000,,Southampton,drew@mail.com,"Sep 18, 1910",$955.71
+P00360,"Mockler, Miss. Helen Mary ""Ellie""",FEMALE,,3,1,0.0,0,330980,7.8792,,Queenstown,mockler@outlook.com,09/22/1910,88.20
+P00312,"Ryerson, Miss. Emily Borie",f,-1.0,1st,1,2,2,PC 17608,262.3750,B57 B59 B63 B66,c,ryerson@outlook.com,1912-12-14,"9,055.48 USD"
+P00581,"Christy, Miss. Julie Rachel",female,,Second,1,1.0,1,  237789 ,30.0000,,S,christy@gmail.com,04-Feb-1912,420.39 USD
+P00708,"Calderhead, Mr. Edward Pennington",M,42.0,1st,1,0,0,PC 17476,26.2875,E24,S,calderhead@outlook.com,"Jul 14, 1912",$893.34
+P00758,"Bailey, Mr. Percy Andrew",MALE,18.0,2,0,0,0,29108,11.5000,,s,bailey@yahoo.com,"Dec 05, 1912",426.00
+P00805,"Hedman, Mr. Oskar Arvid", male ,,3rd,1,0,0,347089,6.9750,,S,hedman@outlook.com,18-Jan-1912,USD 172.55
+P00397,"Olsson, Miss. Elina",FEMALE.,31.0,3rd,0,0,0,350407,7.8542,,Southampton,olsson@gmail.com,09/14/1910,$145.59
+P00003,"Heikkinen, Miss. Laina",FEMALE,26.0,3,1,0.0,0,STON/O2. 3101282,7.9250,,S,heikkinen@outlook.com,09/12/1912,88.49
+P00530,"Hocking, Mr. Richard George",MALE,23.0,2nd,0,2,1,29104,11.5000,,S,hocking@mail.com,06/11/1912,$351.38
+P00519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female ,36.0,2,1,1.0,0,  226875 ,26.0000,,Southampton,angle@yahoo.com,07/11/1910,USD 796.93
+P00352,"Williams-Lambert, Mr. Fletcher Fellows",male,,1,0,0,0,113510,35.0000,C128,s,williamslambert@gmail.com,20/11/1912,$684.05
+P00276,"Andrews, Miss. Kornelia Theodosia",FEMALE.,63.0,First,1,1,0,  13502 ,77.9583,D7,,andrews@yahoo.com,"Jan 25, 1910",
+P00159,"Smiljanic, Mr. Mile",m,,3,0,0,0,315037,8.6625,,s,smiljanic@outlook.com,05/12/1910,$137.68
+P00529,"Salonen, Mr. Johan Werner",MALE,39.0,Third,0,0,0,  3101296 ,7.9250,,s,salonen@mail.com,06-Jun-1911,309.85 USD
+P00854,"Lines, Miss. Mary Conover",Female,16.0,1,1,0,1,PC 17592,39.4000,D28,S,lines@gmail.com,19/08/1910,"$1,210.39"
+P00576,"Patchett, Mr. George",M,19.0,3,0,0.0,0,358585,14.5000,,S,patchett@yahoo.com,"Nov 27, 1911",$317.73
+P00343,"Collander, Mr. Erik Gustaf",m,28.0,Second,0,0,0,248740,13.0000,,S,collander@outlook.com,01/04/1912,USD 386.68
+P00767,"Brewe, Dr. Arthur Jackson",Male,,1st,0,0.0,0,112379,39.6000,,Cherbourg ,brewe@outlook.com,14/08/1912,"USD 1,389.70"
+P00855,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",f,44.0,Second,0,1.0,0,244252,26.0000,,s,,12/08/1912,736.79
+P00457,"Millet, Mr. Francis Davis",male,65.0,1st,0,0,0,  13509 ,26.55,E38,s,millet@gmail.com,02/07/1912,526.74
+P00534,"Peter, Mrs. Catherine (Catherine Rizk)",Female,,3rd,1,0,2,2668,22.3583,,Cherbourg ,peter@yahoo.com,07/10/1910,USD 437.58
+P00616,"Herman, Miss. Alice",F,24.0,2,1,1,2,220845,65.0000,,Southampton,herman@outlook.com,1912-09-28,"USD 2,052.07"
+P00368,"Moussa, Mrs. (Mantoura Boulos)",female,,3,1,0,0,  2626 ,7.2292,,Cherbourg ,moussa@yahoo.com,08/15/1911,179.53
+P00371,"Harder, Mr. George Achilles",Male,25.0,1st,1,1.0,0,11765,55.4417,E50,c,harder@yahoo.com,"Oct 09, 1912","USD 1,155.43"
+P00487,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",FEMALE,,1st,1,1.0,0,19943,90.0,C93,s,hoyt@yahoo.com,04/03/1912,"3,229.66"
+P00666,"Hickman, Mr. Lewis",male,32.0,2nd,0,2.0,0,  S.O.C. 14879 ,73.5000,,Southampton,hickman@outlook.com,08/09/1912,"2,775.37"
+P00670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Female,,First,1,1,0,19996,52.0000,C126,S,taylor@gmail.com,"Nov 15, 1910","2,078.05"
+P00213,"Perkin, Mr. John Henry",M,22.0,Third,No,0,0,  A/5 21174 ,7.2500,,S,perkin@mail.com,14-Jun-1910,252.69 USD
+P00080,"Dowdell, Miss. Elizabeth",F,30.0,Third,1,0,0,  364516 ,12.4750,,S,dowdell@outlook.com,24/11/1910,200.87
+P00149,"Navratil, Mr. Michel (""Louis M Hoffman"")",m,36.5,2nd,0,0.0,2,230080,26.0,F2,Southampton,navratil@mail.com,"Jun 24, 1912",312.67
+P00501,"Calic, Mr. Petar",m,17.0,3rd,0,0,0,315086,8.6625,,S,calic@gmail.com,03-Aug-1911,301.45 USD
+P00711,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,1,1,0,0,PC 17482,49.5042,C90,C,mayne@outlook.com,03/19/1912,$617.90
+P00632,"Lundahl, Mr. Johan Svensson",MALE,51.0,3,0,0,0,  347743 ,7.0542,,Southampton,lundahl@yahoo.com,29/07/1910,$255.72
+P00395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,Third,1,0,2,PP 9549,16.7,G6,Southampton,sandstrom@outlook.com,23-Feb-1910,USD 632.08
+P00595,"Chapman, Mr. John Henry",Male,37.0,Second,0,1,0,SC/AH 29037,26.0,,Southampton,,02/08/1912,$250.29
+P00134,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",FEMALE,29.0,Second,1,1,0,228414,26.0000,,s,weisz@outlook.com,1912-06-18,USD 757.12
+P00813,"Slemen, Mr. Richard James",Male,35.0,2nd,0,0.0,0,28206,10.5,,s,slemen@outlook.com,08/07/1910,USD 298.44
+P00735,"Troupiansky, Mr. Moses Aaron",male,23.0,2nd,0,0,0,  233639 ,13.0000,,S,troupiansky@gmail.com,12/23/1912,414.78
+P00361,"Skoog, Mr. Wilhelm",M,40.0,3,0,1,4,  347088 ,27.9000,,S,skoog@mail.com,1911-03-27,319.09
+P00875,"Abelson, Mrs. Samuel (Hannah Wizosky)",FEMALE,28.0,Second,1,1,0,P/PP 3381,24.0000,,c,abelson@outlook.com,21-Oct-1912,$246.76
+P00713,"Taylor, Mr. Elmer Zebley",male,180.0,First,1,1,0,  19996 ,52.0000,C126,S,taylor@outlook.com,14-Dec-1910,"1,771.28"
+P00478,"Braund, Mr. Lewis Richard",M,29.0,3rd,0,1,0,  3460 ,7.0458,,Southampton,braund@gmail.com,20/11/1912,98.86 USD
+P00410,"Lefebre, Miss. Ida",Female,,3rd,0,3,1,4133,25.4667,,Southampton,lefebre@gmail.com,11/04/1912,USD 378.57
+P00449,"Baclini, Miss. Marie Catherine",f,5.0,3,1,2,1,  2666 ,19.2583,,Cherbourg ,baclini@outlook.com,"Mar 23, 1911",$384.84
+P00838,"Sirota, Mr. Maurice",male,,Third,0,0,0,392092,8.0500,,s,sirota@gmail.com,02-May-1911,USD 72.36
+P00307,"Fleming, Miss. Margaret",female,,1,1,0,0,17421,110.8833,,Cherbourg ,fleming@yahoo.com,1912-12-11,
+P00173,"Johnson, Miss. Eleanor Ileen",FEMALE,1.0,3,1,1,1,347742,11.1333,,S,johnson@mail.com,12-Feb-1912,311.90
+P00874,"Vander Cruyssen, Mr. Victor", male ,47.0,3rd,0,0,0,  345765 ,9.0000,,S,vandercruyssen@gmail.com,23-Sep-1911,USD 106.59
+P00328,"Ball, Mrs. (Ada E Hall)",FEMALE.,36.0,2,1,0,0,  28551 ,13.0,,s,ball@gmail.com,05/06/1912,385.49 USD
+P00488,"Kent, Mr. Edward Austin",MALE,58.0,1,0,0,0,11771,29.7,,Cherbourg ,kent@outlook.com,05/07/1911,840.38 USD
+P00825,"Panula, Master. Urho Abraham",MALE,2.0,Third,0,4,1,  3101295 ,39.6875,,S,panula@outlook.com,19/08/1912,"USD 1,295.65"
+P00091,"Christmann, Mr. Emil",m,29.0,3,0,0,0,  343276 ,8.0500,,Southampton,christmann@yahoo.com,02/08/1912,USD 275.20
+P00859,"Baclini, Mrs. Solomon (Latifa Qurban)",female ,24.0,3rd,1,0,3,2666,19.2583,,c,baclini@outlook.com,27/02/1912,USD 431.10
+P00182,"Pernot, Mr. Rene", male ,,Second,0,0,0,SC/PARIS 2131,15.05,,Cherbourg ,pernot@gmail.com,08/04/1912,334.20
+P00224,"Nenkoff, Mr. Christo",male,,Third,0,0,0,349234,7.8958,,s,nenkoff@gmail.com,1910-08-01,310.99 USD
+P00818,"Mallet, Mr. Albert",male,31.0,Second,0,1,1,S.C./PARIS 2079,37.0042,,C,mallet@gmail.com,09/24/1910,"$1,332.79"
+P00070,"Kink, Mr. Vincenz",m,26.0,3rd,0,2,0,315151,8.6625,,Southampton,kink@yahoo.com,18-Jun-1910,$218.04
+P00292,"Bishop, Mrs. Dickinson H (Helen Walton)",f,19.0,1,1,1,0,11967,91.0792,B49,Cherbourg ,bishop@yahoo.com,"Jan 27, 1912",979.23 USD
+P00132,"Coelho, Mr. Domingos Fernandeo",M,20.0,Third,0,0,0,SOTON/O.Q. 3101307,7.0500,,S,coelho@outlook.com,1912-08-09,280.15
+P00007,"McCarthy, Mr. Timothy J",m,54.0,First,0,0,0,  17463 ,51.8625,E46,s,mccarthy@gmail.com,03/01/1910,750.29
+P00495,"Stanley, Mr. Edward Roland",Male,21.0,3rd,0,0,0,  A/4 45380 ,8.0500,,s,stanley@yahoo.com,"Sep 15, 1910",74.81 USD
+P00136,"Richard, Mr. Emile",m,23.0,Second,0,0,0,  SC/PARIS 2133 ,15.0458,,Cherbourg ,richard@yahoo.com,"Mar 27, 1910",
+P00165,"Panula, Master. Eino Viljami",MALE,1.0,3,No,4,1,3101295,39.6875,,Southampton,panula@yahoo.com,26/12/1912,
+P00029,"O'Dwyer, Miss. Ellen ""Nellie""",FEMALE.,,Third,1,0.0,0,330959,7.8792,,Q,odwyer@outlook.com,28/11/1911,USD 202.44
+P00515,"Coleff, Mr. Satio",Male,24.0,Third,0,0,0,349209,7.4958,,Southampton,,"Jun 20, 1910",USD 128.58
+P00194,"Navratil, Master. Michel M",M,,Second,1,1,1,230080,26.0000,F2,S,navratil@yahoo.com,08/08/1910,"1,021.87"
+P00322,"Danoff, Mr. Yoto",MALE,27.0,Third,0,0,0,349219,7.8958,,s,danoff@gmail.com,20-May-1911,$204.97
+P00586,"Taussig, Miss. Ruth",FEMALE,18.0,1,1,0,2,110413,79.6500,E68,s,taussig@mail.com,1911-06-22,"$1,750.18"
+P00170,"Ling, Mr. Lee", male ,28.0,3,0,0,0,1601,56.4958,,s,ling@gmail.com,1912-04-23,"USD 2,174.72"
+P00603,"Harrington, Mr. Charles H",MALE,,1st,0,0,0,113796,42.4000,,Southampton,harrington@outlook.com,1910-12-31,"1,399.89"
+P00141,"Boulos, Mrs. Joseph (Sultana)",FEMALE.,,3rd,0,0,2,  2678 ,15.2458,,C,boulos@mail.com,09-Jul-1910,USD 473.12
+P00174,"Sivola, Mr. Antti Wilhelm",M,21.0,3rd,0,0.0,0,STON/O 2. 3101280,7.9250,,Southampton,sivola@outlook.com,"Apr 04, 1912",144.68 USD
+P00007,"McCarthy, Mr. Timothy J",m,54.0,First,0,0.0,0,  17463 ,51.8625,E46,s,mccarthy@gmail.com,03/01/1910,750.29
+P00590,"Murdlin, Mr. Joseph", male ,,3rd,No,0,0,A./5. 3235,8.05,,Southampton,,1910-06-15,USD 173.05
+P00389,"Sadlier, Mr. Matthew",m,,Third,0,0.0,0,  367655 ,7.7292,,Q,sadlier@mail.com,08/05/1912,$207.60
+P00074,"Chronopoulos, Mr. Apostolos",MALE,26.0,3rd,0,1.0,0,  2680 ,14.4542,,c,chronopoulos@gmail.com,11/05/1912,556.08
+P00627,"Kirkland, Rev. Charles Leonard",MALE,57.0,Second,0,0,0,  219533 ,,,q,kirkland@yahoo.com,02/23/1910,476.63
+P00815,"Tomlin, Mr. Ernest Portage",male,30.5,3,0,0,0,364499,8.0500,,s,tomlin@mail.com,29/07/1912,USD 318.56
+P00879,"Laleff, Mr. Kristo",m,,3rd,0,0,0,349217,7.8958,,Southampton,laleff@outlook.com,04/08/1910,$272.19
+P00146,"Nicholls, Mr. Joseph Charles", male ,19.0,Second,0,1,1,  C.A. 33112 ,36.7500,,Southampton,nicholls@mail.com,15-Sep-1912,$696.62
+P00235,"Leyson, Mr. Robert William Norman",male,24.0,2nd,0,0,0,C.A. 29566,10.5000,,Southampton,leyson@yahoo.com,"Jul 12, 1912",269.53
+P00221,"Sunderland, Mr. Victor Francis", male ,16.0,Third,1,0,0,SOTON/OQ 392089,8.0500,,s,sunderland@gmail.com,12/09/1910,$173.31
+P00836,"Compton, Miss. Sara Rebecca",f,39.0,1st,1,1,1,  PC 17756 ,83.1583,E49,Cherbourg ,compton@mail.com,1912-11-05,"1,592.05"
+P00406,"Gale, Mr. Shadrach",M,34.0,2nd,0,1,0,28664,21.0000,,S,,10/15/1910,231.60 USD
+P00133,"Robins, Mrs. Alexander A (Grace Charity Laury)",FEMALE,47.0,Third,0,1,0,  A/5. 3337 ,14.5000,,S,robins@gmail.com,10/07/1912,
+P00540,"Frolicher, Miss. Hedwig Margaritha",female,22.0,1,1,0,2,  13568 ,49.5,B39,,frolicher@gmail.com,30-May-1911,"$1,870.20"
+P00607,"Karaic, Mr. Milan",MALE,30.0,3rd,0,0.0,0,  349246 ,7.8958,,s,karaic@yahoo.com,"May 04, 1912",USD 222.61
+P00186,"Rood, Mr. Hugh Roscoe", male ,,First,No,0.0,0,113767,50.0000,A32,Southampton,rood@yahoo.com,"Feb 19, 1912","1,271.28"
+P00042,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,Second,0,1,0,11668,21.0000,,S,turpin@mail.com,09-Oct-1910,USD 440.06
+P00560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Female,36.0,3,1,1,0,345572,17.4000,,s,demessemaeker@mail.com,"Nov 18, 1910",584.96 USD
+P00109,"Rekic, Mr. Tido",M,38.0,3,0,0.0,0,  349249 ,7.8958,,S,rekic@yahoo.com,16/07/1911,134.14 USD
+P00797,"Leader, Dr. Alice (Farnham)",female,49.0,First,1,0,0,17465,25.9292,D17,s,,23/03/1911,USD 626.68
+P00057,"Rugg, Miss. Emily",FEMALE.,21.0,2nd,Yes,0.0,0,  C.A. 31026 ,10.5000,,s,rugg@outlook.com,27-May-1910,$370.05
+P00644,"Foo, Mr. Choong", male ,,Third,1,0,0,  1601 ,56.4958,,Southampton,foo@yahoo.com,06/13/1912,578.39
+P00362,"del Carlo, Mr. Sebastiano",M,29.0,Second,0,1,0,  SC/PARIS 2167 ,27.7208,,Cherbourg ,delcarlo@mail.com,"Mar 23, 1910",USD 324.07
+P00579,"Caram, Mrs. Joseph (Maria Elias)",Female,,3,0,1,0,2689,14.4583,,C,caram@mail.com,"Mar 08, 1910",USD 193.80
+P00025,"Palsson, Miss. Torborg Danira",f,8.0,3,0,3,1,  349909 ,21.0750,,s,palsson@mail.com,18/05/1911,811.30 USD
+P00366,"Adahl, Mr. Mauritz Nils Martin",m,30.0,Third,0,0,0,  C 7076 ,7.2500,,s,adahl@outlook.com,01/09/1910,232.99
+P00448,"Seward, Mr. Frederic Kimber", male ,34.0,First,1,0,0,113794,26.5500,,s,seward@mail.com,28-Apr-1912,958.47
+P00454,"Goldenberg, Mr. Samuel L",male,49.0,First,1,1,0,17453,89.1042,C92,Cherbourg ,goldenberg@gmail.com,1910-07-24,"3,513.26 USD"
+P00052,"Nosworthy, Mr. Richard Cater",MALE,21.0,Third,0,0,0,A/4. 39886,7.8000,,S,nosworthy@gmail.com,09/27/1912,107.20
+P00425,"Rosblom, Mr. Viktor Richard",MALE,18.0,Third,0,1,1,370129,20.2125,,Southampton,rosblom@yahoo.com,24-Nov-1910,USD 601.79
+P00860,"Razi, Mr. Raihed",MALE,,Third,0,0,0,2629,7.2292,,c,razi@mail.com,"Oct 16, 1912",$205.99
+P00582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Female,39.0,First,1,1,1,17421,110.8833,C68,Cherbourg ,thayer@mail.com,07/05/1911,"USD 1,267.84"
+P00265,"Henry, Miss. Delia",f,,Third,0,0,0,  382649 ,7.7500,,Q,henry@mail.com,1911-10-05,78.74 USD
+P00712,"Klaber, Mr. Herman",m,,1st,0,0,0,113028,26.5500,C124,Southampton,klaber@outlook.com,06/23/1912,$788.18
+P00626,"Sutton, Mr. Frederick", male ,61.0,1st,0,0,0,  36963 ,32.3208,D50,S,,13-Jun-1911,$373.08
+P00845,"Culumovic, Mr. Jeso",Male,17.0,3rd,0,0,0,  315090 ,8.6625,,Southampton,culumovic@gmail.com,05/23/1912,276.11 USD
+P00847,"Sage, Mr. Douglas Bullen",male,,Third,0,8,2,CA. 2343,69.5500,,Southampton,sage@gmail.com,1910-04-20,"1,036.96"
+P00019,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Female,31.0,3,0,1,0,345763,18.0000,,S,vanderplanke@mail.com,11/04/1910,USD 313.79
+P00657,"Radeff, Mr. Alexander",male,,3,0,0,0,349223,7.8958,,Southampton,,1912-07-19,$253.12
+P00800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",FEMALE.,30.0,Third,0,1,1,345773,24.15,,s,vanimpe@yahoo.com,25-Apr-1912,N/A
+P00527,"Ridsdale, Miss. Lucy",female ,50.0,2nd,1,0,0,W./C. 14258,10.5000,,Southampton,ridsdale@mail.com,"Apr 26, 1911",USD 266.61
+P00084,"Carrau, Mr. Francisco M",M,28.0,1st,0,0,0,  113059 ,47.1000,,Southampton,carrau@mail.com,11/06/1910,$861.41
+P00062,"Icard, Miss. Amelie",female ,38.0,First,1,0.0,0,113572,,B28, ,icard@outlook.com,11/05/1911,"USD 1,266.68"
+P00273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Female,41.0,Second,1,0,1,250644,19.5000,,Southampton,mellinger@gmail.com,08/05/1911,USD 260.83
+P00286,"Stankovic, Mr. Ivan",Male,33.0,3,0,0,0,349239,8.6625,,C,stankovic@mail.com,"Dec 13, 1910",USD 198.11
+P00830,"Stone, Mrs. George Nelson (Martha Evelyn)",female,,1st,1,0,0,  113572 ,80.0000,B28,nan,stone@gmail.com,1910-04-08,$702.59
+P00483,"Rouse, Mr. Richard Henry",MALE,50.0,3,0,0,0,A/5 3594,8.0500,,s,rouse@yahoo.com,"Apr 06, 1911",$272.79
+P00013,"Saundercock, Mr. William Henry",M,20.0,Third,0,0,0,  A/5. 2151 ,8.0500,,Southampton,saundercock@outlook.com,08/26/1912,188.43 USD
+P00183,"Asplund, Master. Clarence Gustaf Hugo",MALE,9.0,3rd,0,4,2,347077,31.3875,,s,asplund@yahoo.com,07/29/1911,"USD 1,191.16"
+P00597,"Leitch, Miss. Jessie Wills",FEMALE,,2nd,1,0,0,248727,33.0000,,S,leitch@outlook.com,02-Jan-1910,USD 759.27
+P00850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female ,999.0,First,1,1,0,  17453 ,89.1042,C92,C,goldenberg@outlook.com,"Apr 17, 1911","1,413.41"
+P00224,"Nenkoff, Mr. Christo",male,,Third,0,0,0,349234,7.8958,,s,nenkoff@gmail.com,1910-08-01,310.99 USD
+P00537,"Butt, Major. Archibald Willingham",male,45.0,First,0,0,0,113050,26.55,B38,s,,1912-09-15,USD 278.19
+P00683,"Olsvigen, Mr. Thor Anderson",Male,20.0,3rd,0,0,0,6563,9.2250,,s,olsvigen@mail.com,09/06/1912,320.77 USD
+P00409,"Birkeland, Mr. Hans Martin Monsen",male,21.0,Third,0,0,0,  312992 ,7.7750,,Southampton,birkeland@mail.com,02/02/1910,159.01
+P00421,"Gheorgheff, Mr. Stanio", male ,,Third,0,0,0,  349254 ,7.8958,,c,gheorgheff@mail.com,1911-01-17,
+P00535,"Cacic, Miss. Marija",female ,30.0,3,0,0,0,315084,8.6625,,Southampton,cacic@outlook.com,11-Jun-1912,177.83
+P00559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",FEMALE.,39.0,1st,1,1,1,110413,79.6500,E67,Southampton,taussig@mail.com,"Apr 23, 1910","1,151.72"
+P00177,"Lefebre, Master. Henry Forbes",Male,,3,0,3,1,  4133 ,25.4667,,S,lefebre@outlook.com,12/03/1911,USD 762.31
+P00688,"Dakic, Mr. Branko",MALE,19.0,3,0,0,0,349228,10.1708,,s,dakic@outlook.com,05/04/1910,405.15
+P00463,"Gee, Mr. Arthur H",Male,47.0,First,0,0,0,111320,38.5000,E63,S,gee@outlook.com,1912-09-29,682.28 USD
+P00434,"Kallio, Mr. Nikolai Erland", male ,17.0,3,No,0,0,STON/O 2. 3101274,7.1250,,s,kallio@gmail.com,08/06/1912,$132.40
+P00164,"Calic, Mr. Jovo",M,17.0,3,0,0,0,  315093 ,8.6625,,s,calic@yahoo.com,25-Mar-1910,-
+P00249,"Beckwith, Mr. Richard Leonard",m,37.0,First,1,1,1,11751,52.5542,D35,Southampton,beckwith@mail.com,14-Aug-1911,"USD 1,551.00"
+P00583,"Downton, Mr. William James",MALE,,2,0,0,0,28403,26.0,,s,downton@gmail.com,15-Aug-1910,$622.04
+P00809,"Meyer, Mr. August",Male,39.0,2nd,0,0.0,0,248723,13.0000,,s,meyer@yahoo.com,1912-11-18,$404.28
+P00075,"Bing, Mr. Lee",male,32.0,3,1,0,0,1601,56.4958,,s,bing@outlook.com,07-Oct-1911,"1,323.41"
+P00114,"Jussila, Miss. Katriina",female ,20.0,3rd,0,1.0,0,4136,9.8250,,S,jussila@yahoo.com,"May 21, 1910",USD 277.39
+P00522,"Vovk, Mr. Janko",M,22.0,3,0,0,0,  349252 ,7.8958,,s,vovk@gmail.com,"Oct 02, 1910",$275.95
+P00513,"McGough, Mr. James Robert", male ,36.0,First,1,0,0,PC 17473,26.2875,E25,s,mcgough@mail.com,20/12/1910,USD 471.62
+P00105,"Gustafsson, Mr. Anders Vilhelm",MALE,37.0,Third,0,2,0,3101276,7.9250,,s,gustafsson@mail.com,17/11/1911,USD 174.47
+P00115,"Attalah, Miss. Malake",F,17.0,3rd,0,0,0,2627,14.4583,,C,attalah@outlook.com,05/10/1912,297.46 USD
+P00412,"Hart, Mr. Henry",m,,3rd,0,0,0,  394140 ,6.8583,,q,hart@gmail.com,02/06/1912,$220.68
+P00093,"Chaffee, Mr. Herbert Fuller",M,46.0,First,0,1,0,W.E.P. 5734,61.1750,E31,Southampton,chaffee@mail.com,"Dec 11, 1911","1,407.04"
+P00517,"Lemore, Mrs. (Amelia Milley)",FEMALE.,999.0,Second,1,0,0,C.A. 34260,10.5000,F33,s,lemore@mail.com,"Aug 15, 1912",115.68 USD
+P00090,"Celotti, Mr. Francesco",M,-1.0,Third,No,0.0,0,343275,8.0500,,s,celotti@mail.com,"Oct 08, 1911",319.06 USD
+P00337,"Pears, Mr. Thomas Clinton",M,29.0,1,0,1,0,113776,66.6000,C2,Southampton,pears@mail.com,14/12/1912,"USD 1,547.45"
+P100041,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",FEMALE.,40.0,3rd,No,1,0,7546,9.4750,,s,ahlin@gmail.com,06/02/1912,$188.36
+P00842,"Mudd, Mr. Thomas Charles", male ,16.0,2nd,0,0,0,S.O./P.P. 3,10.5000,,S,mudd@outlook.com,05-Feb-1912,USD 335.90
+P00853,"Boulos, Miss. Nourelain",F,9.0,3rd,0,1,1,  2678 ,15.2458,,Cherbourg ,boulos@mail.com,26-Jan-1910,589.59
+P00828,"Mallet, Master. Andre",m,1.0,2nd,1,0,2,  S.C./PARIS 2079 ,37.0042,,Cherbourg ,,29-Mar-1911,"$1,075.76"
+P00546,"Nicholson, Mr. Arthur Ernest",Male,64.0,1,0,0,0,693,26.0000,,S,nicholson@gmail.com,04/13/1911,389.96 USD
+P00880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",F,56.0,1st,1,0.0,1,11767,83.1583,C50,c,potter@outlook.com,01/06/1911,"2,209.32 USD"
+P00095,"Coxon, Mr. Daniel",MALE,59.0,3rd,0,0,0,364500,7.2500,,Southampton,coxon@mail.com,16-Dec-1911,$271.59
+P00012,"Bonnell, Miss. Elizabeth",f,58.0,1st,1,0,0,  113783 ,26.5500,C103,Southampton,bonnell@mail.com,28/08/1910,
+P00450,"Peuchen, Major. Arthur Godfrey",MALE,52.0,1,1,0,0,113786,30.5000,C104,S,peuchen@yahoo.com,"Aug 08, 1911",$342.68
+P00044,"Laroche, Miss. Simonne Marie Anne Andree",f,,2nd,1,1,2,SC/Paris 2123,41.5792,,C,laroche@yahoo.com,30-Apr-1911,"1,360.28"
+P00043,"Kraeff, Mr. Theodor",Male,,Third,0,0,0,349253,7.8958,,c,kraeff@outlook.com,1911-12-12,USD 255.20
+P00330,"Hippach, Miss. Jean Gertrude",Female,,First,1,0,1,111361,57.9792,B18,Cherbourg ,,13/12/1911,$465.81
+P00168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",FEMALE.,45.0,3,No,1,4,347088,27.9000,,,skoog@gmail.com,10/04/1911,707.17 USD
+P00801,"Ponesell, Mr. Martin",M,34.0,2nd,0,0.0,0,250647,13.0000,,s,ponesell@gmail.com,"Sep 01, 1912",$483.87
+P00550,"Davies, Master. John Morgan Jr", male ,8.0,2,1,1,1,C.A. 33112,36.7500,,Southampton,davies@outlook.com,05/03/1912,USD 571.96
+P00693,"Lam, Mr. Ali",Male,,3,1,0,0,  1601 ,56.4958,,Southampton,lam@mail.com,"Mar 30, 1911",$936.63
+P00101,"Petranec, Miss. Matilda",F,28.0,3,0,0,0,  349245 ,7.8958,,S,petranec@mail.com,25/08/1911,USD 252.88
+P00179,"Hale, Mr. Reginald", male ,30.0,2,0,0,0,  250653 ,13.0000,,S,hale@mail.com,1910-01-12,USD 270.43
+P00596,"Van Impe, Mr. Jean Baptiste",male,36.0,3,0,1.0,1,  345773 ,24.1500,,s,vanimpe@mail.com,28-Jun-1910,USD 951.62
+P00891,"Dooley, Mr. Patrick",M,32.0,Third,No,0,0,370376,7.7500,,q,,1911-01-07,$259.55
+P00606,"Lindell, Mr. Edvard Bengtsson",m,36.0,3,0,1,0,  349910 ,15.5500,,s,lindell@outlook.com,27/08/1911,USD 550.46
+P00178,"Isham, Miss. Ann Elizabeth",FEMALE,50.0,First,0,0,0,  PC 17595 ,28.7125,C49,C,isham@gmail.com,01/01/1911,251.04 USD
+P00639,"Panula, Mrs. Juha (Maria Emilia Ojala)",FEMALE,,3,0,0,5,  3101295 ,39.6875,,Southampton,panula@mail.com,1912-10-03,664.76
+P00621,"Yasbeck, Mr. Antoni",male,27.0,3rd,0,1,0,  2659 ,14.4542,,c,yasbeck@yahoo.com,"Sep 07, 1910",207.49 USD
+P00729,"Bryhl, Mr. Kurt Arnold Gottfrid",MALE,25.0,2,0,1,0,  236853 ,26.0000,,Southampton,bryhl@yahoo.com,21/12/1912,240.15 USD
+P00716,"Soholt, Mr. Peter Andreas Lauritz Andersen", male ,19.0,3,0,0,0,  348124 ,7.6500,,s,soholt@mail.com,06/11/1910,297.31
+P00384,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",FEMALE,35.0,1,1,1,0,113789,52.0,,Southampton,holverson@gmail.com,04/15/1912,629.08 USD
+P00258,"Cherry, Miss. Gladys",female,-1.0,First,1,0,0,110152,86.5000,B77,Southampton,cherry@gmail.com,"Jan 25, 1912","2,051.80 USD"
+P00458,"Kenyon, Mrs. Frederick R (Marion)",female,,1,1,1,0,17464,51.8625,D21,,kenyon@outlook.com,"Mar 15, 1912","USD 1,107.98"
+P00336,"Denkoff, Mr. Mitto", male ,,Third,0,0,0,349225,7.8958,,S,denkoff@mail.com,28/04/1910,USD 181.91
+P00694,"Saad, Mr. Khalil",male,25.0,3,No,0,0,2672,7.225,,c,saad@mail.com,"Nov 28, 1911",197.98 USD
+P00016,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,Second,1,0,0,248706,16.0000,,,hewlett@mail.com,27/03/1911,2750000.0
+P00004,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Female,35.0,1,1,1.0,0,  113803 ,,C123,S,futrelle@yahoo.com,03/31/1912,"1,705.15 USD"
+P00429,"Flynn, Mr. James",male,,Third,0,0,0,  364851 ,7.7500,,Q,flynn@gmail.com,1911-03-11,USD 273.33
+P00257,"Thorne, Mrs. Gertrude Maybelle",female,,1,1,0,0,PC 17585,79.2000,,Cherbourg ,thorne@outlook.com,"Apr 21, 1912","2,664.64"
+P00704,"Gallagher, Mr. Martin", male ,25.0,Third,0,0,0,36864,7.7417,,Q,gallagher@gmail.com,08/02/1912,268.57
+P00496,"Yousseff, Mr. Gerious",M,,Third,0,0,0,2627,14.4583,,C,yousseff@yahoo.com,"Sep 06, 1911",
+P00441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female ,45.0,2nd,1,1,1,F.C.C. 13529,,,s,,25-Feb-1912,627.14 USD
+P00394,"Newell, Miss. Marjorie",female ,23.0,First,1,1,0,  35273 ,113.2750,D36,C,newell@outlook.com,02/23/1911,"4,265.55 USD"
+P00223,"Green, Mr. George Henry",Male,51.0,3rd,0,0,0,21440,8.0500,,s,green@outlook.com,"Nov 16, 1910",$304.72
+P00180,"Leonard, Mr. Lionel",MALE,36.0,Third,0,0,0,LINE,0.0000,,S,leonard@outlook.com,"Jan 10, 1912",$0.00
+P00486,"Lefebre, Miss. Jeannie",F,,Third,0,3,1,4133,25.4667,,Southampton,lefebre@gmail.com,19-Nov-1912,USD 734.80
+P00618,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",FEMALE,26.0,3,0,1,0,  A/5. 3336 ,16.1000,,S,lobb@yahoo.com,03-Aug-1912,USD 239.82
+P00325,"Sage, Mr. George John Jr",male,,3,0,8,2,CA. 2343,69.5500,,S,sage@mail.com,05/05/1910,"1,717.98"
+P00543,"Andersson, Miss. Sigrid Elisabeth",female,11.0,Third,0,4,2,  347082 ,31.2750,,Southampton,andersson@gmail.com,08-Sep-1911,$407.85
+P00010,"Nasser, Mrs. Nicholas (Adele Achem)",FEMALE,14.0,Second,1,1.0,0,237736,30.0708,,c,nasser@gmail.com,01/05/1910,691.31
+P00250,"Carter, Rev. Ernest Courtenay",MALE,54.0,2nd,0,1,0,  244252 ,26.0000,,,carter@gmail.com,22/08/1912,501.98 USD
+P00023,"McGowan, Miss. Anna ""Annie""",F,-1.0,Third,1,0,0,330923,8.0292,,q,mcgowan@gmail.com,"Dec 09, 1912",USD 317.20
+P00357,"Bowerman, Miss. Elsie Edith",FEMALE.,22.0,First,1,0.0,1,113505,55.0,E33,S,bowerman@gmail.com,25/05/1911,$801.49
+P00222,"Bracken, Mr. James H",M,27.0,Second,0,0,0,  220367 ,13.0000,,s,bracken@yahoo.com,30-Jul-1910,$361.78
+P00614,"Horgan, Mr. John",m,,3,0,0,0,370377,7.75,,Q,horgan@yahoo.com,17/10/1911,263.41 USD
+P00788,"Rice, Master. George Hugh",M,8.0,3rd,0,4,1,382652,29.1250,,Queenstown,rice@outlook.com,10/09/1912,"USD 1,050.06"
+P00242,"Murphy, Miss. Katherine ""Kate""",female ,,3,1,1,0,  367230 ,15.5000,,Q,murphy@outlook.com,19/05/1912,171.22
+P00744,"McNamee, Mr. Neal",m,24.0,Third,0,1,0,376566,16.1000,,s,mcnamee@yahoo.com,"Mar 31, 1911",NULL
+P00341,"Navratil, Master. Edmond Roger", male ,2.0,Second,Yes,1,1,  230080 ,26.0000,F2,S,navratil@outlook.com,14/03/1912,695.36 USD
+P00432,"Thorneycroft, Mrs. Percival (Florence Kate White)",FEMALE,,Third,1,1,0,  376564 ,16.1000,,Southampton,thorneycroft@outlook.com,1911-08-25,USD 131.62
+P00808,"Pettersson, Miss. Ellen Natalia",Female,18.0,3rd,0,0,0,347087,7.7750,,s,pettersson@gmail.com,1911-01-29,301.20
+P00531,"Quick, Miss. Phyllis May",FEMALE.,2.0,2,1,1,1,  26360 ,26.0000,,S,quick@outlook.com,25-Dec-1912,USD 609.80
+P00204,"Youseff, Mr. Gerious",m,45.5,3,0,0,0,  2628 ,7.2250,,c,youseff@outlook.com,26/12/1910,USD 193.27
+P00238,"Collyer, Miss. Marjorie ""Lottie""",f,8.0,2nd,1,0,2,  C.A. 31921 ,26.2500,,Southampton,collyer@yahoo.com,09/02/1911,$758.26
+P00094,"Dean, Mr. Bertram Frank", male ,26.0,3,0,1,2,  C.A. 2315 ,20.5750,,s,dean@yahoo.com,"Oct 05, 1911",265.25
+P00507,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,2nd,1,0,2,26360,26.0000,,s,quick@outlook.com,17/12/1911,969.90 USD
+P00757,"Carlsson, Mr. August Sigfrid",M,28.0,3rd,0,0,0,350042,7.7958,,S,carlsson@outlook.com,1911-12-28,260.96
+P00634,"Parr, Mr. William Henry Marsh",male,-1.0,1st,0,0,0,  112052 ,0.0000,,S,parr@yahoo.com,23-Oct-1911,0.00 USD
+P00285,"Smith, Mr. Richard William",m,,1,0,0.0,0,113056,26.0000,A19,s,smith@yahoo.com,07/01/1911,832.22 USD
+P00185,"Kink-Heilmann, Miss. Luise Gretchen",FEMALE.,,3,Yes,0,2,  315153 ,22.0250,,Southampton,kinkheilmann@yahoo.com,29-Jun-1910,$403.30
+P00738,"Lesurer, Mr. Gustave J",M,35.0,1,Yes,0,0,PC 17755,512.3292,B101,c,lesurer@yahoo.com,1911-03-02,"$7,303.70"
+P00435,"Silvey, Mr. William Baird",m,50.0,First,0,1,0,  13507 ,55.9000,E44,s,silvey@yahoo.com,25-Jul-1910,"USD 2,019.13"
+P00502,"Canavan, Miss. Mary",FEMALE,21.0,Third,0,0,0,364846,7.7500,,Q,canavan@outlook.com,1912-12-13,91.14
+P00154,"van Billiard, Mr. Austin Blyler",Male,,Third,0,0,2,A/5. 851,14.5000,,Southampton,vanbilliard@yahoo.com,"Feb 16, 1912",125.17
+P00076,"Moen, Mr. Sigurd Hansen",M,25.0,3,0,0,0,348123,7.6500,F G73,S,moen@yahoo.com,10/21/1911,$294.54
+P00451,"West, Mr. Edwy Arthur",Male,36.0,Second,0,1,2,C.A. 34651,27.7500,,s,west@mail.com,1910-05-30,942.14
+P00674,"Wilhelms, Mr. Charles",male,31.0,2nd,1,0,0,244270,13.0000,,Southampton,wilhelms@gmail.com,02/09/1911,$433.24
+P00588,"Frolicher-Stehli, Mr. Maxmillian",M,60.0,1st,1,1.0,1,  13567 ,79.2000,B41,c,frolicherstehli@gmail.com,1910-09-10,"1,866.03 USD"
+P00278,"Parkes, Mr. Francis ""Frank""",MALE,,2nd,0,0,0,  239853 ,0.0000,,Southampton,parkes@mail.com,12/29/1912,
+P00069,"Andersson, Miss. Erna Alexandra",female,17.0,3rd,1,4,2,  3101281 ,7.9250,,Southampton,andersson@gmail.com,27-Mar-1911,$197.74
+P00447,"Mellinger, Miss. Madeleine Violet",FEMALE,13.0,Second,1,0,1,  250644 ,19.5000,,s,mellinger@yahoo.com,"Nov 21, 1910",526.83 USD
+P00577,"Garside, Miss. Ethel",female ,,2,1,0,0,243880,13.0000,,Southampton,garside@mail.com,02/26/1911,199.12
+P00189,"Bourke, Mr. John", male ,40.0,3,0,1.0,1,  364849 ,15.5000,,Q,bourke@gmail.com,"Jul 04, 1912",$289.72
+P00272,"Tornquist, Mr. William Henry",m,25.0,Third,1,0,0,LINE,0.0000,,S,tornquist@gmail.com,17/07/1912,$0.00
+P00679,"Goodwin, Mrs. Frederick (Augusta Tyler)",female ,43.0,Third,0,1,6,CA 2144,46.9000,,S,goodwin@outlook.com,"Dec 14, 1912","1,117.07"
+P00568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",FEMALE.,29.0,3rd,0,0.0,4,  349909 ,21.075,,Southampton,,16/10/1910,USD 806.38
+P00237,"Hold, Mr. Stephen", male ,44.0,Second,0,1,0,26707,26.0000,,S,hold@outlook.com,30-Nov-1911,USD 778.89
+P00089,"Fortune, Miss. Mabel Helen",FEMALE,23.0,1st,1,3,2,19950,263.0000,C23 C25 C27,s,fortune@mail.com,"Sep 12, 1911","$3,679.80"
+P00778,"Emanuel, Miss. Virginia Ethel",FEMALE,5.0,3,1,0,0,364516,12.4750,,S,emanuel@gmail.com,"Aug 07, 1911",$119.97
+P00118,"Turpin, Mr. William John Robert",male,29.0,2,0,1,0,11668,21.0000,,s,turpin@gmail.com,14-Mar-1912,655.99 USD
+P00126,"Nicola-Yarred, Master. Elias",Male,12.0,3rd,Yes,1,0,  2651 ,11.2417,,C,nicolayarred@outlook.com,"Feb 25, 1911",$333.87
+P00751,"Wells, Miss. Joan",female ,4.0,Second,1,1.0,1,29103,23.0,,s,wells@mail.com,25-Feb-1910,USD 255.97
+P00290,"Connolly, Miss. Kate",FEMALE,22.0,Third,1,0,0,370373,7.7500,,Queenstown,connolly@yahoo.com,1911-10-28,USD 248.37
+P00239,"Pengelly, Mr. Frederick William",m,19.0,2nd,0,0,0,  28665 ,10.5000,,Southampton,pengelly@yahoo.com,"Dec 12, 1911",USD 417.33
+P00001,"Braund, Mr. Owen Harris",m,22.0,Third,0,1,0,  A/5 21171 ,,,S,braund@gmail.com,17-Feb-1912,279.54 USD
+P100043,"Kraeff, Mr. Theodor",Male,,Third,0,0,0,349253,7.8958,,c,kraeff@outlook.com,1911-12-12,USD 255.20
+P00737,"Ford, Mrs. Edward (Margaret Ann Watson)",Female,48.0,3,0,1,3,W./C. 6608,34.375,,Southampton,ford@outlook.com,10/03/1911,482.72 USD
+P00798,"Osman, Mrs. Mara",female ,31.0,3rd,1,0,0,349244,8.6833,,Southampton,osman@yahoo.com,10/25/1912,231.36 USD
+P00396,"Johansson, Mr. Erik",Male,22.0,Third,0,0,0,350052,7.7958,,Southampton,johansson@mail.com,21-Sep-1912,160.03 USD
+P00544,"Beane, Mr. Edward", male ,,2,1,1,0,2908,26.0,,Southampton,beane@gmail.com,16-Dec-1910,379.24
+P00127,"McMahon, Mr. Martin",MALE,-1.0,3rd,0,0,0,370372,7.7500,,Queenstown,mcmahon@gmail.com,26/06/1911,271.81 USD
+P00279,"Rice, Master. Eric",M,7.0,Third,0,4,1,382652,29.1250,,Q,rice@gmail.com,01-Oct-1912,USD 319.45
+P00709,"Cleaver, Miss. Alice",FEMALE.,,First,1,0,0,113781,151.5500,,Southampton,cleaver@yahoo.com,15-Feb-1912,"USD 2,496.15"
+P00117,"Connors, Mr. Patrick",m,70.5,Third,0,0,0,370369,7.7500,,Q,,06/07/1911,$141.15
+P00474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",f,23.0,2,1,0,0,  SC/AH Basle 541 ,13.7917,D,C,jerwan@yahoo.com,31/08/1911,USD 314.11
+P00229,"Fahlstrom, Mr. Arne Jonas",Male,18.0,2,0,0.0,0,236171,13.0000,,S,fahlstrom@outlook.com,1911-06-25,472.10 USD
+P00636,"Davis, Miss. Mary",Female,28.0,2nd,1,0,0,237668,13.0000,,Southampton,davis@outlook.com,16/12/1910,$252.80
+P00671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Female,40.0,2,1,1,1,29750,39.0,,Southampton,brown@mail.com,06-Oct-1910,"1,077.67 USD"
+P00058,"Novel, Mr. Mansouer",Male,28.5,3,No,0,0,2697,7.2292,,C,novel@gmail.com,03/11/1912,260.15 USD
+P00528,"Farthing, Mr. John",male,,First,0,0,0,PC 17483,221.7792,C95,S,farthing@gmail.com,31-Jul-1912,"8,153.82 USD"
+P00275,"Healy, Miss. Hanora ""Nora""",FEMALE.,,3rd,1,0.0,0,370375,7.7500,,q,healy@yahoo.com,1910-04-25,275.48
+P00319,"Wick, Miss. Mary Natalie",f,31.0,First,1,0,2,36928,164.8667,C7,Southampton,wick@mail.com,1912-11-20,"3,527.65 USD"
+P00619,"Becker, Miss. Marion Louise",female,4.0,Second,1,2,1,  230136 ,39.0000,,Southampton,becker@gmail.com,1912-01-19,"1,242.01"
+P00145,"Andrew, Mr. Edgardo Samuel",MALE,18.0,Second,0,0,0,231945,11.5000,,Southampton,andrew@mail.com,24/03/1912,USD 330.12
+P00650,"Stanley, Miss. Amy Zillah Elsie",f,23.0,3rd,Yes,0,0,  CA. 2314 ,7.5500,,S,stanley@mail.com,05-Jun-1911,258.65 USD
+P00571,"Harris, Mr. George", male ,62.0,2,1,0.0,0,S.W./PP 752,10.5000,,S,harris@mail.com,12/09/1910,265.60 USD
+P00834,"Augustsson, Mr. Albert",Male,23.0,3rd,0,0.0,0,347468,7.8542,,S,augustsson@gmail.com,1911-08-08,187.40 USD
+P00658,"Bourke, Mrs. John (Catherine)",F,32.0,3,0,1,1,  364849 ,15.5000,,Queenstown,bourke@outlook.com,1911-06-25,279.67 USD
+P00370,"Aubart, Mme. Leontine Pauline",female ,24.0,1,1,0,0,  PC 17477 ,69.3000,B35,c,aubart@mail.com,1910-10-19,USD 652.36
+P00269,"Graham, Mrs. William Thompson (Edith Junkins)",female ,58.0,1st,1,0,1,  PC 17582 ,153.4625,C125,S,graham@outlook.com,08-Jan-1911,"5,031.72"
+P00637,"Leinonen, Mr. Antti Gustaf",m,32.0,3,0,0,0,STON/O 2. 3101292,7.9250,,s,leinonen@gmail.com,01/06/1910,$184.72
+P00308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,First,1,1.0,0,PC 17758,,C65,C,penascoycastellana@outlook.com,"May 29, 1912","USD 1,878.60"
+P00424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,Third,0,1,1,347080,14.4000,,Southampton,danbom@outlook.com,15-Sep-1912,USD 132.96
+P00311,"Hays, Miss. Margaret Bechstein",f,24.0,First,1,0,0,11767,83.1583,C54,C,hays@outlook.com,07/06/1911,"2,131.27 USD"
+P00355,"Yousif, Mr. Wazli",male,,3,0,0,0,2647,,,Cherbourg ,yousif@mail.com,1912-12-15,USD 119.02
+P00047,"Lennon, Mr. Denis",M,,Third,0,1,0,  370371 ,15.5000,,q,lennon@yahoo.com,06/12/1910,$183.85
+P00350,"Dimic, Mr. Jovan",M,42.0,3rd,0,0,0,315088,8.6625,,Southampton,dimic@gmail.com,11-Jul-1911,USD 307.77
+P00372,"Wiklund, Mr. Jakob Alfred", male ,18.0,3rd,0,1,0,  3101267 ,6.4958,,S,wiklund@outlook.com,"May 02, 1911",119.30
+P00480,"Hirvonen, Miss. Hildur E",female,2.0,3,1,0,1,3101298,12.2875,,s,,22-Aug-1912,136.37
+P00589,"Gilinski, Mr. Eliezer", male ,22.0,3,0,0,0,  14973 ,8.0500,,s,gilinski@mail.com,04/02/1911,$187.52
+P00262,"Asplund, Master. Edvin Rojj Felix", male ,3.0,3rd,1,4,2,347077,31.3875,,Southampton,asplund@gmail.com,04/17/1911,
+P00196,"Lurette, Miss. Elise",F,58.0,1st,1,0,0,PC 17569,146.5208,B80,c,lurette@gmail.com,05/27/1912,"4,757.44 USD"
+P100052,"Nosworthy, Mr. Richard Cater",MALE,21.0,Third,0,0,0,A/4. 39886,7.8000,,S,nosworthy@gmail.com,09/27/1912,107.20
+P00765,"Eklund, Mr. Hans Linus",male,16.0,3rd,0,0.0,0,  347074 ,7.7750,,s,eklund@yahoo.com,09/11/1910,USD 162.23
+P00790,"Guggenheim, Mr. Benjamin",MALE,46.0,1,0,0,0,PC 17593,79.2000,B82 B84,c,guggenheim@gmail.com,10/29/1912,"2,521.15 USD"
+P00264,"Harrison, Mr. William",M,40.0,First,0,0,0,112059,0.0000,,s,harrison@mail.com,1910-11-30,USD 0.00
+P00444,"Reynaldo, Ms. Encarnacion",f,28.0,2,1,0,0,230434,13.0000,,Southampton,reynaldo@yahoo.com,1911-08-08,$504.85
+P00731,"Allen, Miss. Elisabeth Walton",FEMALE.,29.0,First,1,0,0,  24160 ,211.3375,,s,allen@outlook.com,1910-01-05,"5,200.02"
+P00305,"Williams, Mr. Howard Hugh ""Harry""",Male,,Third,0,0.0,0,  A/5 2466 ,8.0500,,Southampton,williams@outlook.com,"Nov 25, 1911",$113.94
+P00342,"Fortune, Miss. Alice Elizabeth",female ,24.0,First,1,3,2,  19950 ,263.0000,C23 C25 C27,s,fortune@yahoo.com,"Nov 28, 1912","$3,749.21"
+P00885,"Sutehall, Mr. Henry Jr",M,25.0,3rd,0,0,0,SOTON/OQ 392076,7.0500,,s,sutehall@mail.com,05/24/1910,174.19
+P00150,"Byles, Rev. Thomas Roussel Davids",Male,-1.0,2,0,0,0,  244310 ,13.0000,,S,byles@gmail.com,"Feb 13, 1912",USD 142.16
+P00125,"White, Mr. Percival Wayland", male ,54.0,1,0,0,1,35281,77.2875,D26,S,white@mail.com,"Jul 05, 1912",
+P00722,"Jensen, Mr. Svend Lauritz",m,17.0,3rd,0,1,0,350048,7.0542,,S,jensen@mail.com,04/01/1912,230.67
+P00051,"Panula, Master. Juha Niilo",m,7.0,3,0,4,1,3101295,39.6875,,s,panula@mail.com,19/03/1911,"USD 1,392.53"
+P00354,"Arnold-Franchi, Mr. Josef", male ,25.0,3,0,1,0,349237,17.8000,,s,arnoldfranchi@yahoo.com,"Aug 16, 1912",USD 345.96
+P00848,"Markoff, Mr. Marin",M,35.0,3rd,0,0.0,0,349213,7.8958,,C,markoff@gmail.com,04/01/1910,197.41 USD
+P00143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Female,24.0,3rd,1,1,0,STON/O2. 3101279,15.8500,,S,hakkarainen@yahoo.com,1910-12-10,$586.87
+P00471,"Keefe, Mr. Arthur",MALE,,Third,0,0,0,323592,7.25,,S,keefe@outlook.com,"Mar 15, 1910",145.40 USD
+P00400,"Trout, Mrs. William H (Jessie L)",FEMALE,28.0,2nd,1,0,0,  240929 ,,,S,trout@yahoo.com,13/09/1910,USD 288.14
+P00755,"Herman, Mrs. Samuel (Jane Laver)",female ,48.0,Second,Yes,1,2,220845,65.0000,,S,herman@outlook.com,19-Nov-1910,"1,484.76 USD"
+P00321,"Dennis, Mr. Samuel",male,22.0,3rd,0,0,0,  A/5 21172 ,7.25,,S,dennis@yahoo.com,1912-05-06,$249.77
+P00020,"Masselmani, Mrs. Fatima",FEMALE,,3rd,1,0,0,2649,7.2250,,Cherbourg ,masselmani@yahoo.com,23-Apr-1912,234.62
+P00754,"Jonkoff, Mr. Lalio",MALE,23.0,Third,0,0,0,349204,7.8958,,s,jonkoff@mail.com,05/25/1910,$110.00
+P00771,"Lievens, Mr. Rene Aime", male ,24.0,3rd,0,0,0,  345781 ,9.5000,,s,,1911-10-31,270.33 USD
+P00742,"Cavendish, Mr. Tyrell William",m,36.0,1st,0,1,0,19877,78.85,,Southampton,cavendish@mail.com,10-Apr-1910,"2,251.33"
+P00408,"Richards, Master. William Rowe", male ,3.0,Second,1,1,1,  29106 ,18.75,,,richards@gmail.com,05-Aug-1911,USD 583.87
+P00538,"LeRoy, Miss. Bertha",FEMALE.,30.0,1,1,0,0,  PC 17761 ,106.4250,,Cherbourg ,leroy@gmail.com,10/20/1910,"3,507.32 USD"
+P00570,"Jonsson, Mr. Carl",M,32.0,Third,1,0,0,  350417 ,7.8542,,Southampton,jonsson@outlook.com,1912-05-15,USD 256.56
+P00039,"Vander Planke, Miss. Augusta Maria",Female,18.0,3,0,2.0,0,345764,18.0000,,S,vanderplanke@yahoo.com,"Sep 25, 1911",USD 567.43
+P00176,"Klasen, Mr. Klas Albin",m,18.0,3rd,0,1,1,350404,7.8542,,S,klasen@yahoo.com,10/10/1912,USD 163.29
+P00246,"Minahan, Dr. William Edward",M,44.0,1st,0,2,0,  19928 ,90.0000,C78,Queenstown,minahan@gmail.com,"Mar 04, 1912","2,048.28 USD"
+P00761,"Garfirth, Mr. John", male ,,3,0,0,0,358585,14.5000,,S,garfirth@gmail.com,01/20/1910,243.20
+P100044,"Laroche, Miss. Simonne Marie Anne Andree",f,,2nd,Yes,1,2,SC/Paris 2123,41.5792,,C,laroche@yahoo.com,30-Apr-1911,"1,360.28"
+P00756,"Hamalainen, Master. Viljo",male,0.67,Second,1,1,1,  250649 ,14.5,,S,hamalainen@yahoo.com,12-Jan-1911,250.30
+P00785,"Ali, Mr. William",m,25.0,3rd,0,0,0,  SOTON/O.Q. 3101312 ,7.0500,,Southampton,,12/12/1912,$268.13
+P00155,"Olsen, Mr. Ole Martin",m,,3,No,0,0,Fa 265302,7.3125,,s,olsen@yahoo.com,18/06/1910,$134.91
+P00288,"Naidenoff, Mr. Penko",male,-1.0,3,0,0,0,349206,7.8958,,s,naidenoff@outlook.com,"Oct 11, 1910",118.55 USD
+P00553,"O'Brien, Mr. Timothy",male,,3rd,0,0,0,  330979 ,7.8292,,Queenstown,obrien@mail.com,1911-04-20,78.50 USD
+P00018,"Williams, Mr. Charles Eugene",m,,2nd,1,0,0,244373,13.0000,,s,williams@gmail.com,"Feb 11, 1911",209.01
+P00128,"Madsen, Mr. Fridtjof Arne",M,24.0,Third,1,0,0,C 17369,7.1417,,S,madsen@mail.com,15/02/1910,66.33
+P00323,"Slayter, Miss. Hilda Mary",female,30.0,2,1,0,0,  234818 ,12.3500,,Queenstown,slayter@outlook.com,1912-08-07,USD 251.10
+P00256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",FEMALE.,29.0,3rd,1,0.0,2,2650,15.2458,,C,touma@gmail.com,05-Aug-1911,$487.29
+P00605,"Homer, Mr. Harry (""Mr E Haven"")",M,35.0,First,Yes,0,0,  111426 ,26.5500,,c,homer@mail.com,1911-04-18,754.39
+P00883,"Dahlberg, Miss. Gerda Ulrika",FEMALE,22.0,3,0,0.0,0,7552,10.5167,,s,dahlberg@yahoo.com,1911-03-08,381.02
+P00191,"Pinsky, Mrs. (Rosa)",female,32.0,2,1,0,0,  234604 ,13.0000,,s,pinsky@outlook.com,19/12/1912,USD 483.67
+P00116,"Pekoniemi, Mr. Edvard",m,21.0,3rd,No,0,0,  STON/O 2. 3101294 ,7.9250,,Southampton,pekoniemi@outlook.com,1912-07-19,$297.18
+P00681,"Peters, Miss. Katie",FEMALE,,Third,0,0,0,330935,8.1375,,Q,peters@outlook.com,1911-01-31,213.05
+P00181,"Sage, Miss. Constance Gladys",Female,,3rd,0,8,2,  CA. 2343 ,69.5500,,Southampton,sage@mail.com,1910-08-17,"1,914.52 USD"
+P00302,"McCoy, Mr. Bernard",m,,Third,1,2,0,367226,23.25,,q,,07/06/1910,837.06
+P00696,"Chapman, Mr. Charles Henry",male,52.0,2,0,0,0,  248731 ,13.5000,,S,,"Jun 20, 1912",256.88
+P00654,"O'Leary, Miss. Hanora ""Norah""",FEMALE,,Third,1,0,0,  330919 ,7.8292,,Q,oleary@mail.com,1910-09-10,USD 179.75
+P00665,"Lindqvist, Mr. Eino William",MALE,20.0,3,1,1,0,STON/O 2. 3101285,7.925,,S,lindqvist@outlook.com,"Jun 28, 1910",USD 256.94
+P00629,"Bostandyeff, Mr. Guentcho",m,26.0,3rd,0,0.0,0,  349224 ,7.8958,,s,bostandyeff@outlook.com,"May 20, 1911",113.11 USD
+P00660,"Newell, Mr. Arthur Webster",M,58.0,1,0,0,2,  35273 ,113.2750,D48,C,newell@yahoo.com,11/04/1910,"1,380.65"
+P00518,"Ryan, Mr. Patrick",Male,,Third,0,0.0,0,371110,24.15,,Queenstown,ryan@gmail.com,1910-01-02,863.45 USD
+P00795,"Dantcheff, Mr. Ristiu",m,180.0,3rd,0,0,0,349203,7.8958,,s,dantcheff@yahoo.com,24/07/1911,USD 123.39
+P00046,"Rogers, Mr. William John",m,,Third,No,0,0,S.C./A.4. 23567,8.05,,Southampton,rogers@mail.com,"Jun 22, 1910",306.94
+P00831,"Yasbeck, Mrs. Antoni (Selini Alexander)",F,15.0,3,1,1,0,2659,14.4542,,c,yasbeck@gmail.com,23/03/1912,$217.46
+P00158,"Corn, Mr. Harry",M,30.0,3,0,0,0,SOTON/OQ 392090,8.0500,,Southampton,corn@outlook.com,02/01/1912,286.10
+P00736,"Williams, Mr. Leslie",male,28.5,3rd,0,0,0,  54636 ,16.1000,,Southampton,williams@outlook.com,1911-09-25,320.22 USD
+P00172,"Rice, Master. Arthur",Male,4.0,3,0,4,1,  382652 ,29.1250,,Q,rice@gmail.com,07-Jun-1910,
+P00017,"Rice, Master. Eugene", male ,2.0,3,0,4,1,382652,29.1250,,Queenstown,rice@outlook.com,09-Jul-1910,336.17
+P00512,"Webber, Mr. James",male,,3rd,0,0,0,SOTON/OQ 3101316,8.0500,,S,webber@outlook.com,"Nov 25, 1910",$313.95
+P00049,"Samaan, Mr. Youssef",M,,Third,0,2.0,0,2662,21.6792,,Cherbourg ,samaan@outlook.com,"Jul 11, 1911",243.08 USD
+P00889,"Johnston, Miss. Catherine Helen ""Carrie""",F,,Third,No,1,2,W./C. 6607,23.45,,s,johnston@gmail.com,20/01/1912,538.53
+P00681,"Peters, Miss. Katie",FEMALE,,Third,0,0,0,330935,8.1375,,Q,peters@outlook.com,1911-01-31,213.05
+P00516,"Walker, Mr. William Anderson",m,47.0,1st,0,0,0,36967,34.0208,D46,Southampton,walker@gmail.com,15/01/1911,"1,322.05"
+P00630,"O'Connell, Mr. Patrick D",male,,3rd,0,0,0,  334912 ,7.7333,,q,oconnell@yahoo.com,"Aug 04, 1912",USD 133.96
+P00481,"Goodwin, Master. Harold Victor",MALE,9.0,Third,0,5,2,CA 2144,46.9000,,s,goodwin@yahoo.com,11-Jan-1911,"$1,796.94"
+P00284,"Dorking, Mr. Edward Arthur",MALE,19.0,3rd,1,0,0,A/5. 10482,8.0500,,s,dorking@yahoo.com,1910-01-10,$194.28
+P00602,"Slabenoff, Mr. Petco",m,,Third,0,0,0,  349214 ,7.8958,,Southampton,slabenoff@mail.com,02-Feb-1910,226.94 USD
+P00226,"Berglund, Mr. Karl Ivar Sven",Male,22.0,Third,0,0,0,  PP 4348 ,9.3500,,S,berglund@yahoo.com,12/26/1912,$116.09
+P00027,"Emir, Mr. Farred Chehab",male,,3,0,0,0,  2631 ,7.2250,,C,emir@yahoo.com,05/08/1912,USD 89.66
+P00718,"Troutt, Miss. Edwina Celia ""Winnie""",FEMALE.,27.0,Second,1,0,0,  34218 ,10.5000,E101,Southampton,troutt@yahoo.com,"Sep 16, 1910",228.47 USD
+P00438,"Richards, Mrs. Sidney (Emily Hocking)",female ,24.0,2nd,1,2,3,29106,18.7500,,S,,"Jan 10, 1912",312.21
+P00870,"Johnson, Master. Harold Theodor",male,4.0,Third,1,1.0,1,347742,11.1333,,Southampton,johnson@gmail.com,26/02/1911,207.40
+P00365,"O'Brien, Mr. Thomas",M,,3,0,1,0,370365,15.5,,Queenstown,obrien@gmail.com,"Apr 03, 1910",$546.78
+P00230,"Lefebre, Miss. Mathilde",f,,3,0,3,1,4133,25.4667,,s,lefebre@gmail.com,1910-01-16,744.40 USD
+P00038,"Cann, Mr. Ernest Charles",M,21.0,3rd,0,0,0,  A./5. 2152 ,8.0500,,Southampton,cann@mail.com,1911-04-04,214.90
+P00884,"Banfield, Mr. Frederick James",Male,,2nd,No,0,0,  C.A./SOTON 34068 ,10.5000,,s,banfield@gmail.com,21-Apr-1912,298.53
+P00375,"Palsson, Miss. Stina Viola",female ,3.0,Third,0,3,1,349909,21.0750,,s,palsson@mail.com,"Feb 10, 1910",712.30
+P00470,"Baclini, Miss. Helene Barbara",Female,0.75,Third,1,2,1,2666,19.2583,,C,,04/01/1910,-
+P00886,"Rice, Mrs. William (Margaret Norton)",FEMALE.,39.0,3,0,0,5,382652,29.1250,,Q,,30-Dec-1910,897.28
+P00779,"Kilgannon, Mr. Thomas J",MALE,,3,0,0,0,  36865 ,7.7375,,Q,kilgannon@yahoo.com,05-Mar-1912,USD 276.67
+P00667,"Butler, Mr. Reginald Fenton",male,25.0,Second,0,0,0,  234686 ,13.0000,,s,butler@outlook.com,"Apr 26, 1912",USD 311.14
+P00195,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,1,1,0,0,PC 17610,27.7208,,C,brown@mail.com,"Jul 07, 1912",$882.62
+P00781,"Ayoub, Miss. Banoura",FEMALE,13.0,Third,1,0,0,2687,7.2292,,Cherbourg ,ayoub@mail.com,13/09/1911,201.01
+P00791,"Keane, Mr. Andrew ""Andy""",MALE,,3rd,0,0,0,12460,7.7500,,Q,,"Jan 14, 1910",$265.49
+P00504,"Laitinen, Miss. Kristina Sofia",FEMALE,37.0,3,0,0,0,  4135 ,9.5875,,Southampton,laitinen@mail.com,08/25/1910,USD 332.79
+P00888,"Graham, Miss. Margaret Edith",Female,19.0,First,1,0,0,112053,30.0,B42,s,graham@gmail.com,12/04/1910,USD 572.22
+P00762,"Nirva, Mr. Iisakki Antino Aijo",MALE,,3rd,0,0,0,SOTON/O2 3101272,7.1250,,Southampton,nirva@outlook.com,26/02/1910,115.08 USD
+P00580,"Jussila, Mr. Eiriik",MALE,32.0,3rd,1,0,0,STON/O 2. 3101286,7.9250,,S,jussila@gmail.com,10-Sep-1912,300.94 USD
+P00887,"Montvila, Rev. Juozas", male ,27.0,2nd,0,0,0,  211536 ,13.0000,,s,montvila@gmail.com,"Jun 28, 1910",290.12
+P00163,"Bengtsson, Mr. John Viktor",male,26.0,Third,0,0,0,347068,7.775,,s,bengtsson@yahoo.com,15/11/1912,USD 96.70
+P00645,"Baclini, Miss. Eugenie",Female,0.75,3rd,1,2,1,2666,19.2583,,C,baclini@mail.com,1910-02-04,USD 450.57
+P00153,"Meo, Mr. Alfonzo",MALE,55.5,Third,0,0,0,A.5. 11206,8.0500,,s,meo@mail.com,"Feb 12, 1911",235.17
+P00871,"Balkic, Mr. Cerin",M,26.0,3,0,0,0,  349248 ,7.8958,,s,balkic@yahoo.com,25-Mar-1911,105.90
+P00766,"Hogeboom, Mrs. John C (Anna Andrews)",FEMALE.,51.0,1,1,1,0,  13502 ,77.9583,D11,S,hogeboom@mail.com,1912-07-16,"1,184.19"
+P00698,"Mullens, Miss. Katherine ""Katie""",Female,,3,1,0,0,35852,7.7333,,Q,mullens@outlook.com,01-Aug-1912,135.19 USD
+P00112,"Zabour, Miss. Hileni",F,14.5,Third,0,1,0,2665,14.4542,,Cherbourg ,zabour@mail.com,"Sep 04, 1911",$175.31
+P00227,"Mellors, Mr. William John",male,19.0,2nd,1,0,0,SW/PP 751,10.5000,,S,mellors@mail.com,05-Oct-1911,$349.69
+P00631,"Barkworth, Mr. Algernon Henry Wilson",M,80.0,First,1,0,0,  27042 ,30.0000,A23,s,barkworth@outlook.com,"Feb 19, 1912",748.22 USD
+P00104,"Johansson, Mr. Gustaf Joel",Male,33.0,Third,0,0,0,7540,8.6542,,Southampton,johansson@gmail.com,03-Aug-1911,USD 325.06
+P00422,"Charters, Mr. David",MALE,21.0,3,0,0,0,A/5. 13032,7.7333,,q,charters@outlook.com,"May 03, 1912",USD 205.14
+P00420,"Van Impe, Miss. Catharina",f,-1.0,Third,0,0,2,  345773 ,24.1500,,S,vanimpe@outlook.com,28/07/1911,496.51
+P00587,"Jarvis, Mr. John Denzil",Male,47.0,Second,0,0,0,237565,15.0000,,S,jarvis@outlook.com,08-Mar-1911,$597.51
+P00120,"Andersson, Miss. Ellis Anna Maria",F,2.0,3rd,0,4.0,2,347082,31.2750,,Southampton,andersson@gmail.com,22/10/1910,910.68 USD
+P00054,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",FEMALE,,2,1,1,0,2926,26.0,,S,faunthorpe@yahoo.com,22-May-1910,$582.28
+P00152,"Pears, Mrs. Thomas (Edith Wearne)",FEMALE,22.0,1st,1,1,0,  113776 ,66.6000,C2,S,pears@yahoo.com,1911-03-31,"USD 1,929.84"
+P00404,"Hakkarainen, Mr. Pekka Pietari",Male,28.0,3rd,0,1.0,0,  STON/O2. 3101279 ,15.8500,,S,hakkarainen@mail.com,08-Nov-1912,302.15 USD
+P00865,"Gill, Mr. John William",m,,2nd,No,0,0,233866,13.0,,S,gill@mail.com,16/12/1910,USD 344.70
+P00208,"Albimona, Mr. Nassef Cassem",Male,26.0,3rd,1,0,0,  2699 ,18.7875,,C,albimona@mail.com,02/15/1910,2750000.0
+P00786,"Harmer, Mr. Abraham (David Lishin)",MALE,25.0,3rd,No,0,0,  374887 ,7.2500,,s,harmer@outlook.com,14/06/1910,226.98
+P00740,"Nankoff, Mr. Minko",male,,3,No,0.0,0,  349218 ,7.8958,,s,nankoff@mail.com,"Sep 20, 1911",$184.30
+P00009,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",f,,3rd,1,0,2,  347742 ,11.1333,,s,johnson@gmail.com,06-Nov-1911,USD 275.04
+P00741,"Hawksford, Mr. Walter James",m,,1st,1,0,0,  16988 ,30.0000,D45,s,,09/09/1912,"1,067.34 USD"
+P00037,"Mamee, Mr. Hanna",MALE,,Third,1,0.0,0,  2677 ,7.2292,,C,mamee@mail.com,11/26/1910,USD 254.92
+P00453,"Foreman, Mr. Benjamin Laventall",Male,30.0,1,0,0,0,  113051 ,27.75,C111,Cherbourg ,foreman@yahoo.com,"Sep 22, 1911",723.18 USD
+P00254,"Lobb, Mr. William Arthur",m,30.0,3rd,0,1.0,0,A/5. 3336,16.1000,,Southampton,lobb@yahoo.com,"Dec 29, 1910",343.47
+P00304,"Keane, Miss. Nora A",female ,,Second,1,0,0,226593,12.3500,E101,q,keane@mail.com,"Jul 30, 1911",USD 443.75
+P00705,"Hansen, Mr. Henrik Juul",male,26.0,3rd,0,1.0,0,350025,7.8542,,Southampton,hansen@gmail.com,01/07/1910,234.08 USD
+P00572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",FEMALE.,53.0,1st,1,2,0,11769,51.4792,C101,S,,22/02/1910,$712.98
+P00624,"Hansen, Mr. Henry Damsgaard",Male,21.0,Third,0,0,0,  350029 ,7.8542,,Southampton,hansen@yahoo.com,1910-09-28,287.70
+P00652,"Doling, Miss. Elsie",FEMALE.,18.0,2,1,0.0,1,231919,23.0000,,Southampton,doling@outlook.com,04/08/1910,
+P00661,"Frauenthal, Dr. Henry William",m,,1st,1,2,0,  PC 17611 ,133.6500,,S,frauenthal@gmail.com,07/23/1912,
+P00263,"Taussig, Mr. Emil",MALE,52.0,1st,0,1,1,110413,79.6500,,Southampton,taussig@yahoo.com,09/22/1912,"$1,028.51"
+P00611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",FEMALE,39.0,3rd,0,1,5,  347082 ,31.2750,,Southampton,andersson@mail.com,1910-10-13,"$1,211.56"
+P00298,"Allison, Miss. Helen Loraine",f,2.0,First,0,1,2,  113781 ,151.5500,C22 C26,Southampton,allison@yahoo.com,13-Sep-1911,"1,877.82"
+P00415,"Sundman, Mr. Johan Julian",M,44.0,Third,1,0,0,STON/O 2. 3101269,7.9250,,Southampton,sundman@gmail.com,06/01/1912,298.62 USD
+P00151,"Bateman, Rev. Robert James",m,51.0,2nd,0,0.0,0,S.O.P. 1166,12.5250,,s,bateman@mail.com,"Jul 26, 1912",367.73
+P00724,"Hodges, Mr. Henry Price",m,50.0,Second,0,0,0,  250643 ,13.0000,,S,hodges@gmail.com,"Mar 07, 1910",451.41
+P00641,"Jensen, Mr. Hans Peder",Male,20.0,3rd,0,0,0,350050,7.8542,,S,jensen@outlook.com,1910-01-11,94.82
+P00812,"Lester, Mr. James",M,39.0,Third,0,0,0,  A/4 48871 ,24.1500,,s,lester@mail.com,1912-01-17,USD 465.26
+P00551,"Thayer, Mr. John Borland Jr",Male,17.0,1st,1,0.0,2,17421,110.8833,C70,Cherbourg ,thayer@mail.com,1911-07-16,"USD 1,061.35"
+P00863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Female,48.0,1st,1,0,0,17466,25.9292,D17,S,swift@gmail.com,09-Mar-1911,880.97 USD
+P00489,"Somerton, Mr. Francis William",m,30.0,3rd,0,0,0,A.5. 18509,8.05,,Southampton,somerton@mail.com,16/08/1911,USD 174.92
+P00148,"Ford, Miss. Robina Maggie ""Ruby""",FEMALE.,9.0,3rd,0,2,2,  W./C. 6608 ,34.3750,,S,ford@gmail.com,04/24/1911,USD 759.06
+P00147,"Andersson, Mr. August Edvard (""Wennerstrom"")",MALE,27.0,3rd,Yes,0.0,0,350043,7.7958,,Southampton,andersson@gmail.com,01/17/1910,$164.19
+P00624,"Hansen, Mr. Henry Damsgaard",Male,21.0,Third,0,0,0,  350029 ,7.8542,,Southampton,hansen@yahoo.com,1910-09-28,287.70
+P00851,"Andersson, Master. Sigvard Harald Elias",MALE,,3,0,4,2,347082,31.2750,,Southampton,andersson@mail.com,1912-03-25,$481.13
+P00678,"Turja, Miss. Anna Sofia",Female,-1.0,3rd,Yes,0,0,4138,9.8417,,s,turja@gmail.com,22-Sep-1912,USD 229.02
+P00349,"Coutts, Master. William Loch ""William""",Male,3.0,Third,1,1,1,C.A. 37671,15.9,,Southampton,coutts@gmail.com,02/14/1910,195.73 USD
+P00464,"Milling, Mr. Jacob Christian",MALE,48.0,2nd,0,0,0,  234360 ,13.0000,,Southampton,milling@yahoo.com,29-Aug-1910,467.72 USD
+P00326,"Young, Miss. Marie Grice",female ,,1,1,0,0,  PC 17760 ,135.6333,C32,Cherbourg ,,"Jul 10, 1911","2,451.16"
+P00187,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",f,,3rd,1,1,0,  370365 ,15.5000,,Q,obrien@gmail.com,01/07/1910,366.95
+P00124,"Webber, Miss. Susan",FEMALE.,32.5,2nd,1,0,0,27267,13.0000,E101,S,webber@yahoo.com,1911-07-23,$246.57
+P00780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Female,,1st,1,0,1,24160,211.3375,B3,s,robert@mail.com,15-Apr-1912,
+P00609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",F,22.0,2,1,1,2,SC/Paris 2123,41.5792,,c,,1912-07-10,"1,214.15"
+P00144,"Burke, Mr. Jeremiah",m,,3,0,0,0,365222,6.7500,,Queenstown,burke@yahoo.com,1910-03-14,144.57
+P00877,"Gustafsson, Mr. Alfred Ossian",Male,20.0,Third,0,0,0,  7534 ,9.8458,,,gustafsson@outlook.com,05/28/1911,102.10 USD
+P00198,"Olsen, Mr. Karl Siegwart Andreas",M,42.0,3rd,0,0,1,  4579 ,8.4042,,S,olsen@gmail.com,"Dec 14, 1911",196.49
+P00610,"Shutes, Miss. Elizabeth W",FEMALE,40.0,1st,1,0,0,PC 17582,153.4625,C125,s,,04-Aug-1911,"4,527.04"
+P00280,"Abbott, Mrs. Stanton (Rosa Hunt)",FEMALE,35.0,3,1,1,1,C.A. 2673,20.2500,,Southampton,,1911-11-20,417.62
+P00294,"Haas, Miss. Aloisia",female,24.0,3,0,0,0,349236,8.8500,,Southampton,haas@yahoo.com,04/06/1911,$120.46
+P00401,"Niskanen, Mr. Juha",Male,39.0,3rd,1,0,0,STON/O 2. 3101289,7.925,,Southampton,niskanen@mail.com,"Jul 28, 1912",$230.46
+P00123,"Nasser, Mr. Nicholas",male,32.5,2,0,1,0,237736,30.0708,,C,nasser@outlook.com,1910-12-11,"$1,154.78"
+P00184,"Becker, Master. Richard F", male ,1.0,2,1,2,1,230136,,F4,s,becker@outlook.com,27/05/1911,
+P00203,"Johanson, Mr. Jakob Alfred",m,34.0,3,0,0,0,3101264,6.4958,,s,johanson@yahoo.com,06-Mar-1911,USD 105.56
+P00439,"Fortune, Mr. Mark",male,,1st,0,1,4,19950,263.0000,C23 C25 C27,S,fortune@gmail.com,"Jan 10, 1911","3,455.51"
+P00247,"Lindahl, Miss. Agda Thorilda Viktoria",Female,25.0,3rd,0,0,0,  347071 ,7.7750,,S,lindahl@mail.com,06-Feb-1911,167.88 USD
+P00416,"Meek, Mrs. Thomas (Annie Louise Rowley)",Female,,3,No,0,0,343095,8.0500,,S,meek@outlook.com,"Oct 06, 1910",$218.29
+P00817,"Heininen, Miss. Wendla Maria",FEMALE.,,3,No,0,0,  STON/O2. 3101290 ,7.9250,,s,heininen@gmail.com,1912-09-26,$167.98
+P00811,"Alexander, Mr. William",Male,26.0,3rd,0,0,0,3474,7.8875,,Southampton,alexander@gmail.com,15-Jul-1910,311.51
+P00130,"Ekstrom, Mr. Johan",Male,45.0,3rd,0,0,0,347061,6.9750,,s,ekstrom@outlook.com,03/03/1910,USD 255.00
+P00638,"Collyer, Mr. Harvey",m,,2nd,0,1,1,  C.A. 31921 ,26.2500,,S,collyer@yahoo.com,1910-01-23,$333.84
+P00403,"Jussila, Miss. Mari Aina",female ,21.0,3rd,0,1,0,4137,9.8250,,s,jussila@yahoo.com,05/01/1910,179.43 USD
+P00814,"Andersson, Miss. Ebba Iris Alfrida",Female,6.0,3rd,0,4,2,347082,31.2750,,Southampton,andersson@yahoo.com,"Oct 04, 1912",724.51
+P00707,"Kelly, Mrs. Florence ""Fannie""",female ,45.0,2nd,1,0,0,  223596 ,13.5000,,S,kelly@gmail.com,03/05/1912,183.80 USD
+P00835,"Allum, Mr. Owen George",male,18.0,Third,0,0,0,2223,8.3000,,S,allum@mail.com,05/07/1912,USD 81.06
+P00220,"Harris, Mr. Walter",m,30.0,2nd,0,0,0,  W/C 14208 ,10.5000,,Southampton,harris@mail.com,24/11/1911,135.73 USD
+P00642,"Sagesser, Mlle. Emma",female ,24.0,1st,1,0,0,PC 17477,69.3000,B35,c,sagesser@mail.com,18/10/1912,"USD 1,774.61"
+P00837,"Pasic, Mr. Jakob",MALE,,Third,0,0,0,  315097 ,8.6625,,Southampton,pasic@mail.com,"Sep 17, 1911",309.11
+P00689,"Fischer, Mr. Eberhard Thelander", male ,18.0,3rd,0,0,0,350036,7.7958,,s,fischer@yahoo.com,"Oct 20, 1911",USD 280.13
+P00840,"Marechal, Mr. Pierre", male ,,1st,1,0,0,11774,29.7000,,,marechal@mail.com,"May 02, 1912","USD 1,135.87"
+P00625,"Bowen, Mr. David John ""Dai""",male,21.0,3rd,0,0,0,54636,16.1000,,s,bowen@outlook.com,10/15/1912,$269.24
+P00768,"Mangan, Miss. Mary",Female,30.5,Third,0,0,0,  364850 ,7.7500,,Queenstown,mangan@yahoo.com,07/07/1912,USD 161.00
+P00697,"Kelly, Mr. James",Male,44.0,3,0,0,0,  363592 ,8.0500,,s,kelly@outlook.com,1910-03-27,$207.88
+P00387,"Goodwin, Master. Sidney Leonard",MALE,1.0,3,0,5,2,  CA 2144 ,46.9000,,S,goodwin@gmail.com,27/04/1912,530.21 USD
+P00890,"Behr, Mr. Karl Howell",m,26.0,1st,1,0,0,111369,30.0000,C148,C,behr@yahoo.com,21/02/1910,402.93
+P00510,"Lang, Mr. Fang", male ,26.0,Third,1,0.0,0,  1601 ,56.4958,,Southampton,lang@gmail.com,24/07/1912,"1,256.50 USD"
+P00268,"Persson, Mr. Ernst Ulrik",Male,25.0,3,1,1,0,347083,7.775,,Southampton,persson@yahoo.com,25/02/1911,170.76
+P00752,"Moor, Master. Meier",Male,,Third,1,0,1,392096,12.4750,E121,Southampton,moor@gmail.com,05/05/1911,$286.72
+P00442,"Hampe, Mr. Leon", male ,20.0,3rd,0,0,0,345769,9.5000,,Southampton,hampe@yahoo.com,"Apr 11, 1911",239.09 USD
+P00497,"Eustis, Miss. Elizabeth Mussey",Female,54.0,1,Yes,1.0,0,36947,78.2667,D20,C,eustis@gmail.com,12/23/1910,"1,381.91"
+P00113,"Barton, Mr. David John",MALE,22.0,3rd,0,0,0,324669,8.0500,,Southampton,barton@outlook.com,08/28/1912,103.64 USD
+P00692,"Karun, Miss. Manca",FEMALE,4.0,3,1,0,1,349256,13.4167,,c,karun@mail.com,1911-07-19,$279.78
+P00233,"Sjostedt, Mr. Ernst Adolf",m,59.0,2nd,No,0,0,237442,13.5000,,S,sjostedt@gmail.com,"Sep 24, 1910",$184.19
+P00796,"Otter, Mr. Richard", male ,39.0,Second,0,0,0,28213,13.0000,,S,otter@yahoo.com,14/04/1911,313.20
+P00608,"Daniel, Mr. Robert Williams",Male,-1.0,1,1,0,0,113804,30.5,,s,daniel@outlook.com,27/05/1911,$583.33
+P00672,"Davidson, Mr. Thornton",male,31.0,First,0,1.0,0,  F.C. 12750 ,52.0000,B71,S,davidson@outlook.com,30-Sep-1910,"USD 1,896.59"
+P00374,"Ringhini, Mr. Sante",MALE,-1.0,1st,0,0.0,0,PC 17760,135.6333,,Cherbourg ,ringhini@yahoo.com,09/19/1910,"3,588.80 USD"
+P00004,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Female,35.0,1,1,1.0,0,  113803 ,,C123,S,futrelle@yahoo.com,03/31/1912,"1,705.15 USD"
+P00833,"Saad, Mr. Amin",Male,,Third,0,0,0,  2671 ,7.2292,,Cherbourg ,saad@yahoo.com,1912-03-11,USD 188.20
+P00234,"Asplund, Miss. Lillian Gertrud",female,5.0,3rd,1,4,2,347077,31.3875,,S,asplund@mail.com,09-Jul-1912,$676.46
+P00721,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,2nd,1,0,1,  248727 ,33.0000,,S,harper@gmail.com,07-Jun-1910,"1,083.24"
+P00677,"Sawyer, Mr. Frederick Charles",MALE,24.5,3rd,0,0,0,  342826 ,8.0500,,s,sawyer@outlook.com,"Oct 23, 1911",68.47
+P00318,"Moraweck, Dr. Ernest",Male,-1.0,2,0,0,0,29011,14.0000,,S,moraweck@outlook.com,"Nov 08, 1910",228.56
+P00649,"Willey, Mr. Edward",MALE,,Third,0,0,0,S.O./P.P. 751,7.5500,,s,willey@mail.com,"Nov 11, 1911",168.69
+P00411,"Sdycoff, Mr. Todor",male,,Third,0,0,0,  349222 ,7.8958,,s,sdycoff@gmail.com,"Mar 16, 1911",205.33
+P00821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",FEMALE,52.0,First,Yes,1.0,1,12749,93.5000,B69,S,hays@gmail.com,"May 30, 1911","$1,893.29"
+P00710,"Moubarek, Master. Halim Gonios (""William George"")",Male,,Third,1,1,1,  2661 ,15.2458,,c,moubarek@yahoo.com,"Nov 27, 1910",567.53
+P00359,"McGovern, Miss. Mary",F,,Third,1,0,0,  330931 ,7.8792,,q,,06-Dec-1912,297.43
+P00259,"Ward, Miss. Anna",F,35.0,1,1,0,0,PC 17755,512.3292,,c,ward@gmail.com,1912-07-21,"$18,739.46"
+P00628,"Longley, Miss. Gretchen Fiske",FEMALE,21.0,1,1,0,0,13502,77.9583,D9,S,longley@yahoo.com,26/06/1911,"1,008.90 USD"
+P00633,"Stahelin-Maeglin, Dr. Max",M,32.0,1,1,0,0,13214,30.5000,B50,C,stahelinmaeglin@yahoo.com,14/06/1910,USD 986.29
+P00283,"de Pelsmaeker, Mr. Alfons",m,16.0,Third,0,0,0,  345778 ,9.5,,s,depelsmaeker@outlook.com,1910-07-14,304.71
+P00377,"Landergren, Miss. Aurora Adelia",F,22.0,Third,1,0,0,  C 7077 ,7.25,,S,landergren@outlook.com,02/13/1911,USD 285.04
+P00385,"Plotcharsky, Mr. Vasil", male ,,Third,0,0,0,349227,7.8958,,Southampton,plotcharsky@gmail.com,21/02/1912,USD 144.29
+P00225,"Hoyt, Mr. Frederick Maxfield", male ,38.0,First,1,1,0,  19943 ,90.0000,C93,S,hoyt@outlook.com,21/06/1911,USD 920.57
+P00035,"Meyer, Mr. Edgar Joseph",Male,28.0,First,0,1.0,0,PC 17604,82.1708,,,meyer@mail.com,01-Nov-1912,"1,323.29"
+P00747,"Abbott, Mr. Rossmore Edward",M,16.0,3,0,1,1,C.A. 2673,20.25,,s,abbott@outlook.com,11/12/1911,760.33
+P00473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",f,33.0,2nd,1,1,2,C.A. 34651,27.7500,,,west@yahoo.com,1910-08-10,257.60 USD
+P00348,"Davison, Mrs. Thomas Henry (Mary E Finck)",FEMALE.,,3,Yes,1,0,  386525 ,16.1000,,S,davison@mail.com,"Nov 23, 1910",219.55 USD
+P00506,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1st,0,1,0,  PC 17758 ,108.9000,C65,c,penascoycastellana@yahoo.com,10-Nov-1911,"2,735.21 USD"
+P00640,"Thorneycroft, Mr. Percival",male,,3,No,1,0,376564,16.1000,,s,thorneycroft@mail.com,"Apr 09, 1910",287.65 USD
+P00018,"Williams, Mr. Charles Eugene",m,,2nd,1,0,0,244373,13.0,,s,williams@gmail.com,"Feb 11, 1911",209.01
+P00849,"Harper, Rev. John",MALE,28.0,Second,0,0,1,  248727 ,33.0,,s,harper@mail.com,1910-08-12,"1,086.91"
+P00827,"Lam, Mr. Len",Male,,Third,0,0,0,  1601 ,56.4958,,Southampton,lam@outlook.com,20-Feb-1911,"$1,548.19"
+P00620,"Gavey, Mr. Lawrence", male ,26.0,Second,No,0,0,  31028 ,10.5000,,S,gavey@gmail.com,01/01/1911,
+P00782,"Dick, Mrs. Albert Adrian (Vera Gillespie)",F,17.0,1,1,1.0,0,  17474 ,57.0,B20,s,dick@outlook.com,21-Oct-1910,"1,842.18 USD"
+P00646,"Harper, Mr. Henry Sleeper",M,48.0,First,1,1,0,PC 17572,76.7292,D33,c,harper@yahoo.com,"Jun 18, 1910","2,534.42 USD"
+P00775,"Hocking, Mrs. Elizabeth (Eliza Needs)",female ,54.0,Second,1,1,3,29105,,,S,hocking@mail.com,"Mar 10, 1911",810.33
+P00557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female ,48.0,1st,1,1.0,0,11755,39.6000,A16,C,duffgordon@outlook.com,"Nov 16, 1912",997.56
+P00876,"Najib, Miss. Adele Kiamie ""Jane""",FEMALE,15.0,Third,1,0,0,2667,7.2250,,c,najib@outlook.com,07/07/1911,286.65
+P00578,"Silvey, Mrs. William Baird (Alice Munger)",FEMALE.,39.0,First,1,1,0,13507,55.9000,E44,s,silvey@outlook.com,01/05/1912,"$1,738.55"
+P00086,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female ,33.0,3,1,3.0,0,  3101278 ,15.8500,,s,backstrom@outlook.com,15-Apr-1910,USD 362.66
+P00243,"Coleridge, Mr. Reginald Charles",male,29.0,2,0,0,0,  W./C. 14263 ,10.5000,,S,coleridge@gmail.com,04/15/1912,USD 328.56
+P00699,"Thayer, Mr. John Borland",Male,49.0,1st,0,1,1,  17421 ,110.8833,C68,Cherbourg ,thayer@gmail.com,02/02/1910,"$1,489.56"
+P00160,"Sage, Master. Thomas Henry", male ,,Third,0,8,2,CA. 2343,69.55,,s,sage@mail.com,1911-07-11,"2,042.77 USD"
+P00525,"Kassem, Mr. Fared", male ,,Third,0,0,0,2700,7.2292,,c,kassem@yahoo.com,1912-05-08,241.93 USD
+P00036,"Holverson, Mr. Alexander Oskar",M,42.0,1,0,1,0,  113789 ,52.0000,,,holverson@gmail.com,"Aug 16, 1911",682.76
+P00541,"Crosby, Miss. Harriet R",female,36.0,1st,1,0,2,  WE/P 5735 ,71.0000,B22,S,crosby@outlook.com,22-Jul-1910,"$1,958.97"
+P00171,"Van der hoef, Mr. Wyckoff",Male,61.0,1st,0,0,0,111240,33.5000,B19,s,vanderhoef@gmail.com,23/01/1912,$921.98
+P00655,"Hegarty, Miss. Hanora ""Nora""",F,18.0,3,0,0,0,365226,6.7500,,Q,hegarty@outlook.com,1911-10-09,138.68 USD
+P00784,"Johnston, Mr. Andrew G",male,,3,0,1.0,2,W./C. 6607,23.45,,Southampton,,"Feb 25, 1912",773.54 USD
+P00843,"Serepeca, Miss. Augusta",Female,30.0,First,1,0,0,113798,31.0000,,c,serepeca@mail.com,05-Aug-1912,503.55
+P00864,"Sage, Miss. Dorothy Edith ""Dolly""",F,,Third,0,8,2,CA. 2343,69.5500,,Southampton,sage@mail.com,18/11/1911,"1,334.39 USD"
+P00734,"Berriman, Mr. William John",m,23.0,2,No,0.0,0,  28425 ,13.0,,Southampton,berriman@mail.com,08/29/1911,268.42
+P00096,"Shorney, Mr. Charles Joseph",MALE,,3rd,0,0,0,  374910 ,8.05,,S,shorney@yahoo.com,11/07/1911,
+P00564,"Simmons, Mr. John",male,,Third,0,0,0,SOTON/OQ 392082,8.0500,,Southampton,simmons@gmail.com,"Sep 19, 1911",154.02
+P00241,"Zabour, Miss. Thamine",female,,Third,0,1,0,  2665 ,14.4542,,Cherbourg ,zabour@gmail.com,01/04/1912,$354.51
+P00743,"Ryerson, Miss. Susan Parker ""Suzette""",female ,21.0,1st,1,2,2,PC 17608,262.3750,B57 B59 B63 B66,Cherbourg ,ryerson@outlook.com,08/22/1912,"$7,895.61"
+P00575,"Rush, Mr. Alfred George John", male ,16.0,Third,0,0,0,A/4. 20589,8.0500,,S,rush@gmail.com,"May 03, 1910",$237.73
+P00691,"Dick, Mr. Albert Adrian",MALE,31.0,1,1,1,0,17474,57.0000,B20,Southampton,dick@mail.com,25-Aug-1910,"$1,029.37"
+P00461,"Anderson, Mr. Harry",MALE,48.0,First,1,0.0,0,19952,,E12,S,,06/03/1911,$924.12
+P00554,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,Third,1,0,0,2620,7.2250,,Cherbourg ,leeni@yahoo.com,02-Jun-1910,102.91 USD
+P00802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female ,31.0,2,1,1,1,C.A. 31921,26.2500,,S,collyer@yahoo.com,1911-12-21,$417.25
+P00207,"Backstrom, Mr. Karl Alfred",MALE,32.0,3,0,1,0,3101278,15.8500,,s,backstrom@mail.com,1912-04-07,540.70 USD
+P00393,"Gustafsson, Mr. Johan Birger",M,28.0,Third,0,2.0,0,  3101277 ,7.9250,,S,gustafsson@yahoo.com,26-May-1912,$223.97
+P00398,"McKane, Mr. Peter David", male ,46.0,2,0,0,0,28403,26.0000,,S,,04/22/1910,583.27 USD
+P00852,"Svensson, Mr. Johan",MALE,74.0,Third,0,0,0,347060,7.7750,,s,svensson@mail.com,05/15/1911,68.96
+P00218,"Jacobsohn, Mr. Sidney Samuel",Male,42.0,2,0,1,0,  243847 ,27.0000,,S,jacobsohn@gmail.com,10/27/1912,"1,078.80"
+P00005,"Allen, Mr. William Henry",m,35.0,3rd,0,0,0,373450,,,s,allen@yahoo.com,1911-11-01,$291.35
+P00643,"Skoog, Miss. Margit Elizabeth",FEMALE.,-1.0,Third,No,3.0,2,  347088 ,27.9000,,S,skoog@mail.com,"Jul 26, 1910",852.65 USD
+P00820,"Skoog, Master. Karl Thorsten",M,10.0,3,0,3,2,347088,27.9,,s,skoog@mail.com,11/01/1911,926.54 USD
+P00613,"Murphy, Miss. Margaret Jane",FEMALE,,Third,1,1,0,367230,15.5000,,Q,murphy@mail.com,1910-12-20,334.84 USD
+P00739,"Ivanoff, Mr. Kanio",male,,3rd,0,0,0,349201,7.8958,,S,ivanoff@outlook.com,"May 19, 1910",USD 166.77
+P00547,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,2nd,1,1,0,2908,26.0000,,S,beane@yahoo.com,1911-12-16,637.11
+P00726,"Oreskovic, Mr. Luka",Male,20.0,3,0,0,0,315094,8.6625,,Southampton,oreskovic@gmail.com,05/19/1912,$70.49
+P00684,"Goodwin, Mr. Charles Edward",Male,14.0,Third,0,5,2,CA 2144,46.9000,,S,goodwin@mail.com,1910-06-12,$538.27
+P00099,"Doling, Mrs. John T (Ada Julia Bone)",FEMALE.,34.0,2,1,0,1,231919,23.0000,,s,doling@outlook.com,12-May-1912,768.72 USD
+P00728,"Mannion, Miss. Margareth",FEMALE.,,Third,1,0,0,  36866 ,7.7375,,q,mannion@gmail.com,05/13/1910,308.03 USD
+P00574,"Kelly, Miss. Mary",Female,,3rd,1,0,0,14312,7.7500,,Queenstown,kelly@gmail.com,21-Jul-1912,USD 223.99
+P00407,"Widegren, Mr. Carl/Charles Peter",MALE,51.0,Third,0,0,0,347064,7.7500,,Southampton,widegren@yahoo.com,12-Jan-1912,$103.18
+P00503,"O'Sullivan, Miss. Bridget Mary",female ,,3,0,0,0,330909,,,q,osullivan@mail.com,1912-03-23,$75.64
+P00048,"O'Driscoll, Miss. Bridget",f,,3,1,0,0,14311,7.7500,,Queenstown,odriscoll@mail.com,21-May-1911,USD 284.24
+P00033,"Glynn, Miss. Mary Agatha",FEMALE,,Third,1,0.0,0,  335677 ,7.75,,Q,glynn@gmail.com,08-Jun-1910,196.51
+P00201,"Vande Walle, Mr. Nestor Cyriel",MALE,28.0,3,0,0.0,0,345770,9.5000,,S,vandewalle@yahoo.com,06/05/1911,$272.03
+P00135,"Sobey, Mr. Samuel James Hayden",Male,25.0,2,0,0,0,C.A. 29178,13.0000,,S,sobey@mail.com,02/03/1910,229.83 USD
+P00028,"Fortune, Mr. Charles Alexander",Male,19.0,First,0,3,2,19950,263.0,C23 C25 C27,Southampton,fortune@mail.com,10/06/1910,"4,666.39"
+P00804,"Thomas, Master. Assad Alexander",male,0.42,3,1,0,1,2625,8.5167,,Cherbourg ,thomas@mail.com,25-Jun-1910,252.90
+P00231,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",FEMALE.,35.0,1st,1,1.0,0,36973,83.4750,C83,Southampton,harris@yahoo.com,03/04/1910,966.56 USD
+P00490,"Coutts, Master. Eden Leslie ""Neville""",m,9.0,3rd,Yes,1,1,C.A. 37671,15.9000,,S,coutts@outlook.com,09/12/1912,USD 346.53
+P00773,"Mack, Mrs. (Mary)",female ,57.0,2,0,0,0,S.O./P.P. 3,10.5000,E77,Southampton,mack@gmail.com,30-Aug-1911,$154.87
+P00379,"Betros, Mr. Tannous", male ,,3,0,0,0,2648,4.0125,,C,betros@yahoo.com,23/02/1910,USD 95.49
+P00289,"Hosono, Mr. Masabumi",male,42.0,2nd,1,0,0,237798,13.0000,,S,hosono@outlook.com,28/01/1910,190.69 USD
+P00419,"Matthews, Mr. William John",m,30.0,2nd,0,0,0,  28228 ,13.0,,s,matthews@yahoo.com,07/22/1912,USD 497.34
+P00675,"Watson, Mr. Ennis Hastings",m,,2,0,0,0,239856,0.0000,,s,watson@outlook.com,1911-05-13,0.00 USD
+P00392,"Jansson, Mr. Carl Olof", male ,21.0,Third,1,0,0,350034,7.7958,,Southampton,jansson@gmail.com,1911-03-07,170.02 USD
+P00593,"Elsbury, Mr. William James",m,47.0,Third,0,0,0,A/5 3902,7.2500,,s,elsbury@gmail.com,"May 03, 1910",110.89 USD
+P00499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",f,25.0,1st,0,1,2,113781,151.5500,C22 C26,S,allison@mail.com,22/09/1912,"$1,431.19"
+P00139,"Osen, Mr. Olaf Elon",Male,16.0,Third,0,0,0,7534,9.2167,,Southampton,osen@yahoo.com,01-Jan-1911,USD 192.63
+P00063,"Harris, Mr. Henry Birkhardt",m,45.0,First,0,1,0,36973,83.4750,,S,harris@yahoo.com,14-Apr-1911,"1,098.54 USD"
+P00472,"Cacic, Mr. Luka",male,38.0,3,0,0,0,315089,8.6625,,s,cacic@mail.com,"Jan 20, 1911",
+P00648,"Simonius-Blumer, Col. Oberst Alfons",m,56.0,First,1,0,0,  13213 ,35.5000,A26,C,,"Feb 13, 1912","1,209.92"
+P00129,"Peter, Miss. Anna",Female,,3,1,1,1,2668,22.3583,F E69,Cherbourg ,peter@outlook.com,07/05/1910,500.56
+P00085,"Ilett, Miss. Bertha",FEMALE.,17.0,2nd,1,0.0,0,  SO/C 14885 ,10.5000,,Southampton,ilett@outlook.com,"Sep 05, 1910",USD 288.33
+P00521,"Perreault, Miss. Anne",F,30.0,First,1,0,0,12749,93.5000,B73,Southampton,perreault@yahoo.com,09/07/1911,"$3,667.89"
+P00065,"Stewart, Mr. Albert A", male ,,First,No,0.0,0,  PC 17605 ,27.7208,,c,stewart@yahoo.com,01-Nov-1911,"$1,009.47"
+P00015,"Vestrom, Miss. Hulda Amanda Adolfina",FEMALE.,14.0,Third,0,0,0,350406,7.8542,,Southampton,vestrom@outlook.com,1912-02-16,226.83 USD
+P00157,"Gilnagh, Miss. Katherine ""Katie""",f,16.0,3rd,Yes,0,0,  35851 ,7.7333,,Q,gilnagh@gmail.com,10/20/1911,254.43
+P00041,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",FEMALE.,40.0,3rd,0,1,0,7546,9.4750,,s,ahlin@gmail.com,06/02/1912,$188.36
+P00493,"Molson, Mr. Harry Markland", male ,,1st,0,0,0,113787,30.5000,C30,s,molson@mail.com,09/09/1912,"USD 1,213.70"
+P00380,"Gustafsson, Mr. Karl Gideon", male ,19.0,3rd,0,0,0,347069,7.7750,,Southampton,gustafsson@yahoo.com,02/09/1911,303.76
+P00188,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",m,45.0,1,1,0,0,111428,26.55,,Southampton,romaine@yahoo.com,03-Apr-1911,-
+P00764,"Carter, Mrs. William Ernest (Lucile Polk)",FEMALE,36.0,First,1,1,2,113760,120.0000,B96 B98,S,carter@mail.com,06/21/1910,"USD 4,584.19"
+P00217,"Honkanen, Miss. Eliina",female,27.0,3,1,0.0,0,STON/O2. 3101283,7.9250,,Southampton,honkanen@gmail.com,20-Sep-1912,162.32
+P00792,"Gaskell, Mr. Alfred",m,250.0,Second,0,0,0,  239865 ,26.0000,,s,gaskell@yahoo.com,08/02/1910,831.46 USD
+P00053,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1st,1,1.0,0,  PC 17572 ,76.7292,D33,c,harper@yahoo.com,04/06/1911,"1,629.28"
+P00338,"Burns, Miss. Elizabeth Margaret",FEMALE.,41.0,First,1,0,0,16966,134.5000,E40,Cherbourg ,burns@yahoo.com,18/06/1910,"$5,102.57"
+P00749,"Marvin, Mr. Daniel Warner",MALE,19.0,1st,0,1,0,  113773 ,53.1,D30,Southampton,marvin@yahoo.com,27/10/1910,"1,664.90 USD"
+P00720,"Johnson, Mr. Malkolm Joackim",MALE,33.0,3rd,0,0,0,347062,,,S,johnson@outlook.com,04/30/1912,USD 125.16
+P00725,"Chambers, Mr. Norman Campbell",m,27.0,First,1,1,0,113806,,E8,s,chambers@mail.com,1910-07-09,786.86
+P00296,"Lewy, Mr. Ervin G",MALE,,1st,No,0,0,  PC 17612 ,27.7208,,C,lewy@outlook.com,06/05/1910,USD 575.27
+P00702,"Silverthorne, Mr. Spencer Victor", male ,35.0,1,1,0.0,0,  PC 17475 ,26.2875,E24,Southampton,silverthorne@outlook.com,24-Feb-1911,"$1,008.85"
+P00252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,Third,0,1,1,347054,10.4625,G6,s,strom@yahoo.com,16-Oct-1912,$362.29
+P00727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,Second,1,3,0,31027,21.0,,Southampton,renouf@outlook.com,07/10/1911,551.82 USD
+P00462,"Morley, Mr. William",male,34.0,Third,No,0.0,0,  364506 ,8.05,,S,,06/27/1911,137.66
+P00456,"Jalsevac, Mr. Ivan",m,29.0,3rd,1,0,0,  349240 ,7.8958,,Cherbourg ,jalsevac@outlook.com,25-Jul-1912,170.54
+P100049,"Samaan, Mr. Youssef",M,,Third,0,2,0,2662,21.6792,,Cherbourg ,samaan@outlook.com,"Jul 11, 1911",243.08 USD
+P00816,"Fry, Mr. Richard", male ,,1st,No,0,0,112058,0.0,B102,S,fry@mail.com,12/12/1912,0.00
+P00270,"Bissette, Miss. Amelia",f,35.0,1st,1,0,0,PC 17760,135.6333,C99,S,bissette@outlook.com,01/10/1911,"$1,236.27"
+P00202,"Sage, Mr. Frederick",MALE,,3rd,0,8,2,CA. 2343,69.5500,,S,sage@mail.com,"Jul 12, 1912","1,200.31"
+P00162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",FEMALE.,40.0,2nd,1,0,0,C.A. 33595,15.7500,,S,watt@outlook.com,04-Jul-1911,264.68
+P00556,"Wright, Mr. George",male,62.0,1st,0,0,0,113807,26.5500,,Southampton,wright@outlook.com,1912-10-24,987.62 USD
+P00730,"Ilmakangas, Miss. Pieta Sofia",female,25.0,3rd,0,1,0,STON/O2. 3101271,7.9250,,Southampton,ilmakangas@outlook.com,18/10/1910,116.15
+P00402,"Adams, Mr. John", male ,26.0,3,No,0,0,  341826 ,8.0500,,Southampton,adams@mail.com,05/01/1911,207.21
+P00703,"Barbara, Miss. Saiide",FEMALE,18.0,3rd,No,0.0,1,2691,14.4542,,C,barbara@gmail.com,1910-01-21,301.98 USD
+P00477,"Renouf, Mr. Peter Henry",Male,34.0,2nd,0,1,0,31027,21.0000,,Southampton,renouf@mail.com,12/05/1911,261.83 USD
+P00822,"Lulic, Mr. Nikola",m,27.0,3rd,1,0,0,  315098 ,8.6625,,S,lulic@outlook.com,08/21/1912,$340.95
+P00772,"Jensen, Mr. Niels Peder",MALE,48.0,3rd,0,0,0,350047,7.8542,,S,jensen@mail.com,1910-07-22,259.60
+P00106,"Mionoff, Mr. Stoytcho",Male,28.0,Third,0,0,0,  349207 ,7.8958,,s,,07/31/1911,224.62 USD
+P00566,"Davies, Mr. Alfred J",MALE,24.0,3rd,0,2,0,  A/4 48871 ,24.1500,,Southampton,davies@gmail.com,14/12/1912,$367.80
+P00390,"Lehmann, Miss. Bertha",F,17.0,Second,1,0,0,SC 1748,12.0,,Cherbourg ,lehmann@gmail.com,1912-03-21,233.73
+P00002,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Female,38.0,1st,1,1,0,  PC 17599 ,71.2833,C85,c,cumings@mail.com,27-Jul-1911,
+P00881,"Shelley, Mrs. William (Imanita Parrish Hall)",female ,25.0,Second,1,0,1,  230433 ,26.0000,,S,shelley@gmail.com,18/02/1911,852.32
+P00562,"Sivic, Mr. Husein",M,40.0,3,No,0,0,349251,7.8958,,S,sivic@gmail.com,"Feb 26, 1910",281.50 USD
+P00081,"Waelens, Mr. Achille", male ,-1.0,3,0,0,0,  345767 ,9.0000,,s,waelens@mail.com,04/04/1911,80.66 USD
+P00206,"Strom, Miss. Telma Matilda",FEMALE,2.0,3rd,0,0,1,  347054 ,10.4625,G6,Southampton,strom@yahoo.com,03-Jul-1912,156.97 USD
+P00035,"Meyer, Mr. Edgar Joseph",Male,28.0,First,0,1,0,PC 17604,82.1708,,,meyer@mail.com,01-Nov-1912,"1,323.29"
+P00776,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",M,18.0,3rd,0,0,0,347078,7.7500,,S,myhrman@mail.com,04/03/1912,
+P00509,"Olsen, Mr. Henry Margido", male ,28.0,3,0,0,0,C 4001,22.5250,,S,olsen@yahoo.com,1910-11-24,466.53
+P00428,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female ,19.0,2nd,1,0,0,  250655 ,26.0000,,s,phillips@mail.com,1911-05-07,$826.56
+P00455,"Peduzzi, Mr. Joseph",Male,,Third,0,0,0,  A/5 2817 ,8.0500,,s,peduzzi@outlook.com,28/12/1912,USD 220.82
+P00367,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",f,60.0,First,1,1,0,110813,75.2500,,Cherbourg ,warren@yahoo.com,1911-09-01,"2,576.10"
+P00092,"Andreasson, Mr. Paul Edvin",MALE,20.0,Third,0,0,0,347466,7.8542,,s,andreasson@mail.com,1911-08-23,USD 249.23
+P00340,"Blackwell, Mr. Stephen Weart",male,45.0,First,0,0,0,113784,35.5000,T,s,blackwell@mail.com,18/06/1912,528.44
+P00565,"Meanwell, Miss. (Marion Ogden)",F,,3rd,0,0.0,0,SOTON/O.Q. 392087,8.0500,,s,meanwell@mail.com,1910-03-13,$87.73
+P00346,"Brown, Miss. Amelia ""Mildred""",FEMALE.,24.0,Second,1,0,0,248733,13.0000,F33,s,brown@yahoo.com,01/06/1910,$190.11
+P00777,"Tobin, Mr. Roger",male,,3,0,0,0,  383121 ,7.7500,F38,q,tobin@yahoo.com,12/01/1912,118.46
+P00242,"Murphy, Miss. Katherine ""Kate""",female ,,3,1,1,0,  367230 ,15.5000,,Q,murphy@outlook.com,19/05/1912,171.22
+P00014,"Andersson, Mr. Anders Johan", male ,39.0,3,0,1.0,5,347082,31.2750,,Southampton,andersson@mail.com,"May 18, 1911","1,210.30 USD"
+P00316,"Nilsson, Miss. Helmina Josefina",female,26.0,3rd,Yes,0,0,347470,7.8542,,S,nilsson@outlook.com,07/19/1911,214.03 USD
+P00601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female ,24.0,Second,1,2,1,243847,27.0,,Southampton,jacobsohn@outlook.com,21/06/1911,926.39
+P00388,"Buss, Miss. Kate",Female,36.0,2nd,1,0,0,27849,13.0000,,S,buss@mail.com,1910-01-09,$464.32
+P00274,"Natsch, Mr. Charles H",M,37.0,1st,0,0,1,  PC 17596 ,29.7000,C118,C,natsch@mail.com,21-Jul-1911,USD 377.18
+P00167,"Chibnall, Mrs. (Edith Martha Bowerman)",female ,,First,1,0,1,113505,55.0,E33,Southampton,,1912-04-25,$796.44
+P00841,"Alhomaki, Mr. Ilmari Rudolf",Male,20.0,3rd,0,0,0,  SOTON/O2 3101287 ,7.9250,,Southampton,alhomaki@yahoo.com,1912-09-16,76.30
+P100045,"Devaney, Miss. Margaret Delia",f,19.0,3,1,0,0,330958,7.8792,,q,devaney@gmail.com,26/10/1912,$115.18
+P00647,"Cor, Mr. Liudevit",male,19.0,3rd,0,0,0,349231,7.8958,,s,cor@yahoo.com,1910-05-02,252.16 USD
+P00819,"Holm, Mr. John Fredrik Alexander",MALE,43.0,3,0,0,0,C 7075,6.4500,,s,holm@outlook.com,21/08/1910,USD 110.23
+P00485,"Bishop, Mr. Dickinson H",MALE,25.0,1,1,1,0,  11967 ,91.0792,B49,c,bishop@yahoo.com,16/11/1912,
+P00149,"Navratil, Mr. Michel (""Louis M Hoffman"")",m,36.5,2nd,0,0,2,230080,26.0000,F2,Southampton,navratil@mail.com,"Jun 24, 1912",312.67
+P00505,"Maioni, Miss. Roberta",female ,16.0,1,1,0,0,  110152 ,86.5000,B79,Southampton,maioni@yahoo.com,"Oct 09, 1911","$1,123.14"
+P00832,"Richards, Master. George Sibley",M,0.83,2nd,Yes,1,1,29106,18.75,,S,richards@gmail.com,"Dec 16, 1911",577.15
+P00244,"Maenpaa, Mr. Matti Alexanteri",male,22.0,Third,0,0,0,STON/O 2. 3101275,7.1250,,S,maenpaa@outlook.com,"Nov 04, 1911",$279.68
+P00567,"Stoytcheff, Mr. Ilia",male,19.0,3rd,0,0,0,349205,7.8958,,s,stoytcheff@gmail.com,14-May-1911,173.79 USD
+P00563,"Norman, Mr. Robert Douglas",male,28.0,2,No,0,0,  218629 ,13.5000,,s,norman@yahoo.com,27/09/1910,517.90 USD
+P00687,"Panula, Mr. Jaako Arnold",MALE,14.0,3,0,4,1,3101295,39.6875,,S,panula@yahoo.com,25/05/1912,"$1,394.25"
+P00190,"Turcin, Mr. Stjepan",Male,36.0,Third,0,0,0,  349247 ,7.8958,,S,turcin@yahoo.com,04/10/1912,$124.87
+P00783,"Long, Mr. Milton Clyde",male,,1st,0,0,0,  113501 ,30.0,D6,Southampton,long@gmail.com,"Apr 10, 1912",363.16
+P00700,"Humblen, Mr. Adolf Mathias Nicolai Olsen",m,42.0,3rd,0,0,0,  348121 ,7.6500,F G63,Southampton,humblen@gmail.com,1912-03-16,USD 108.98
+P00476,"Clifford, Mr. George Quincy",MALE,,1,0,0,0,  110465 ,52.0000,A14,S,clifford@mail.com,11/27/1910,
+P00682,"Hassab, Mr. Hammad",Male,27.0,1,1,0,0,  PC 17572 ,76.7292,D49,c,hassab@gmail.com,03/14/1912,"$1,969.58"
+P00511,"Daly, Mr. Eugene Patrick",Male,29.0,3,1,0,0,  382651 ,7.7500,,Q,,1910-09-22,USD 77.65
+P00059,"West, Miss. Constance Mirium",FEMALE,5.0,2,1,1,2,C.A. 34651,27.7500,,Southampton,west@outlook.com,01/11/1910,523.32 USD
+P00475,"Strandberg, Miss. Ida Sofia",FEMALE,22.0,3rd,0,0,0,7553,9.8375,,S,strandberg@outlook.com,1910-01-20,243.10
+P00561,"Morrow, Mr. Thomas Rowan",m,,3rd,No,0,0,  372622 ,7.7500,,Queenstown,morrow@outlook.com,14-Feb-1910,USD 215.21
+P00857,"Wick, Mrs. George Dennick (Mary Hitchcock)",female ,45.0,1,1,1,1,  36928 ,,,Southampton,,"Feb 17, 1911","USD 4,123.58"
+P00748,"Sinkkonen, Miss. Anna",female ,30.0,Second,1,0.0,0,250648,13.0000,,Southampton,sinkkonen@yahoo.com,"Jul 19, 1910",$206.28
+P00253,"Stead, Mr. William Thomas",MALE,62.0,1,0,0,0,  113514 ,26.5500,C87,s,stead@gmail.com,"Jul 13, 1912",910.12 USD
+P00022,"Beesley, Mr. Lawrence",Male,34.0,2,1,0,0,248698,13.0000,D56,Southampton,beesley@yahoo.com,17/02/1911,479.08 USD
+P00314,"Hendekovic, Mr. Ignjac",Male,28.0,3,0,0,0,  349243 ,7.8958,,S,hendekovic@yahoo.com,14-Dec-1911,$69.88
+P00460,"O'Connor, Mr. Maurice",Male,,3rd,0,0,0,  371060 ,7.7500,,Queenstown,oconnor@gmail.com,1910-03-08,$259.10
+P00161,"Cribb, Mr. John Hatfield",male,44.0,Third,0,0,1,371362,16.1,,s,cribb@mail.com,02/04/1911,195.45
+P00277,"Lindblom, Miss. Augusta Charlotta",FEMALE.,45.0,3,No,0,0,347073,7.75,,Southampton,lindblom@yahoo.com,03/13/1911,$195.66
+P00192,"Carbines, Mr. William",Male,19.0,2,0,0,0,28424,,,Southampton,carbines@outlook.com,11/15/1912,488.33
+P00386,"Davies, Mr. Charles Henry",Male,18.0,2,No,0,0,S.O.C. 14879,73.5000,,Southampton,davies@gmail.com,"Dec 21, 1911","USD 1,042.43"
+P00806,"Johansson, Mr. Karl Johan",M,31.0,3,0,0,0,  347063 ,7.7750,,Southampton,johansson@mail.com,"May 29, 1911",109.11
+P00414,"Cunningham, Mr. Alfred Fleming", male ,,2nd,0,0.0,0,  239853 ,0.0,,Southampton,cunningham@gmail.com,10/31/1911,USD 0.00
+P00492,"Windelov, Mr. Einar",MALE,21.0,Third,No,0,0,SOTON/OQ 3101317,7.25,,s,windelov@mail.com,1911-01-15,182.03
+P00344,"Sedgwick, Mr. Charles Frederick Waddington", male ,25.0,2,0,0,0,  244361 ,13.0,,s,sedgwick@outlook.com,29/11/1911,$193.06
+P00770,"Gronnestad, Mr. Daniel Danielsen", male ,32.0,Third,0,0,0,8471,8.3625,,s,gronnestad@yahoo.com,10-Nov-1911,USD 110.24
+P00309,"Abelson, Mr. Samuel", male ,30.0,2nd,0,1,0,P/PP 3381,24.0000,,C,abelson@yahoo.com,11/11/1911,756.27
+P00662,"Badt, Mr. Mohamed",Male,40.0,Third,0,0,0,  2623 ,7.2250,,C,badt@outlook.com,1911-08-07,$127.85
+P00131,"Drazenoic, Mr. Jozef",MALE,33.0,Third,0,0,0,349241,7.8958,,c,drazenoic@outlook.com,1910-03-20,$252.57
+P00664,"Coleff, Mr. Peju",M,36.0,Third,0,0,0,  349210 ,7.4958,,Southampton,coleff@gmail.com,17/05/1911,116.57 USD
+P00872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",FEMALE.,47.0,1st,1,1,1,11751,,D35,s,beckwith@gmail.com,12/01/1910,776.58
+P00100,"Kantor, Mr. Sinai", male ,34.0,2,0,1,0,244367,26.0000,,Southampton,kantor@gmail.com,"Jan 11, 1911",USD 726.09
+P00373,"Beavan, Mr. William Thomas",M,19.0,Third,0,0,0,  323951 ,8.0500,,s,beavan@yahoo.com,19-Jun-1912,308.77
+P00088,"Slocovski, Mr. Selman Francis",male,,3rd,0,0,0,SOTON/OQ 392086,8.0500,,Southampton,slocovski@yahoo.com,01/20/1911,201.41
+P00459,"Toomey, Miss. Ellen",F,-1.0,Second,1,0,0,F.C.C. 13531,10.5000,,s,toomey@mail.com,10/14/1911,$123.78
+P00331,"McCoy, Miss. Agnes",f,,3,1,2,0,  367226 ,23.2500,,q,mccoy@outlook.com,"Aug 29, 1911",343.93 USD
+P00215,"Kiernan, Mr. Philip", male ,,Third,0,1,0,  367229 ,7.7500,,q,kiernan@outlook.com,18-Jul-1910,254.04
+P00467,"Campbell, Mr. William",M,,Second,0,0,0,239853,0.0000,,Southampton,campbell@gmail.com,"May 28, 1910",0.00 USD
+P00122,"Moore, Mr. Leonard Charles",male,,3,0,0.0,0,A4. 54510,8.05,,S,moore@outlook.com,27-Sep-1910,USD 186.19
+P00615,"Brocklebank, Mr. William Alfred",MALE,35.0,3rd,0,0,0,  364512 ,8.0500,,Southampton,brocklebank@outlook.com,09/23/1910,$194.68
+P00021,"Fynney, Mr. Joseph J",m,35.0,2nd,0,0,0,239865,26.0000,,S,fynney@outlook.com,1910-07-20,937.42 USD
+P00701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",f,18.0,1,1,1,0,PC 17757,227.5250,C62 C64,Cherbourg ,,"Jan 15, 1911","$2,242.09"
+P00072,"Goodwin, Miss. Lillian Amy",F,16.0,Third,0,5,2,  CA 2144 ,46.9000,,S,goodwin@gmail.com,08-Jul-1912,572.94 USD
+P00107,"Salkjelsvik, Miss. Anna Kristine",Female,21.0,Third,1,0,0,343120,7.6500,,s,salkjelsvik@mail.com,01/30/1911,$61.77
+P00271,"Cairns, Mr. Alexander",male,,1,0,0,0,  113798 ,31.0000,,s,cairns@yahoo.com,1911-07-01,$895.04
+P00861,"Hansen, Mr. Claus Peter",Male,41.0,3,0,2,0,350026,14.1083,,s,hansen@mail.com,29-Aug-1912,203.85 USD
+P00436,"Carter, Miss. Lucile Polk",F,14.0,1,1,1.0,2,113760,120.0000,B96 B98,Southampton,carter@gmail.com,01/14/1912,"$2,392.55"
+P00103,"White, Mr. Richard Frasar",M,21.0,First,0,0,1,35281,77.2875,,Southampton,white@mail.com,18-Apr-1911,"USD 1,142.51"

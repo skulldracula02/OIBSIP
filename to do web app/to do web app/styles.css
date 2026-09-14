@@ -1,0 +1,42 @@
+:root{
+  /* Dark moss green, dutch white, charcoal grey palette */
+  --bg:#EFDFBB; /* dutch white (soft warm background) */
+  --card: rgba(239,223,187,0.6); /* translucent dutch white for glass */
+  --muted:#9a9f97; /* muted neutral */
+  --accent:#355E3B; /* dark moss green */
+  --accent-2:#23492d; /* deeper moss */
+  --charcoal:#ffffff; /* charcoal grey for text and strong elements */
+  --card-moss:#163826; /* dark moss green card */
+  --on-card:#F3EAD8; /* light text for moss card */
+  --danger:#ef4444;
+}
+*{box-sizing:border-box}
+h1{margin:0 0 16px}
+.container{max-width:900px;margin:0 auto}
+h1{margin:0 0 16px}
+.container{max-width:900px;margin:0 auto}
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;background:var(--bg);margin:0;padding:24px;color:var(--charcoal)}
+h1{margin:0 0 16px}
+h1{margin:0 0 16px}
+h1{margin:0 0 16px}
+.add-task{display:flex;gap:8px;margin-bottom:20px}
+#taskInput{flex:1;padding:10px;border:1px solid #ddd;border-radius:6px}
+.add-task{display:flex;gap:8px;margin-bottom:20px}
+#taskInput{flex:1;padding:10px;border:1px solid #ddd;border-radius:6px}
+#addBtn{padding:10px 14px;border:none;background:var(--accent);color:#fff;border-radius:8px;cursor:pointer;box-shadow:0 6px 18px rgba(53,94,59,0.12)}
+.lists{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.list-card{background:var(--card-moss);padding:14px;border-radius:12px;border:1px solid rgba(0,0,0,0.25);backdrop-filter:blur(6px);box-shadow:0 12px 40px rgba(10,14,12,0.45)}
+.list-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
+.task-list{list-style:none;padding:0;margin:0}
+.task-item{display:flex;align-items:center;justify-content:space-between;padding:10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);margin-bottom:10px;background:rgba(0,0,0,0.06)}
+.task-body{display:flex;gap:12px;align-items:center;flex:1}
+.task-text{font-size:15px;color:var(--on-card)}
+.meta{font-size:12px;color:rgba(243,234,216,0.85)}
+.actions{display:flex;gap:6px}
+.btn{background:transparent;border:1px solid transparent;padding:6px 8px;border-radius:8px;cursor:pointer}
+.btn-edit{border-color:rgba(255,255,255,0.06);background:rgba(255,255,255,0.04);color:var(--on-card)}
+.btn-delete{color:#fff;background:var(--danger);border-color:transparent;box-shadow:0 6px 14px rgba(239,68,68,0.18)}
+.btn-toggle{background:linear-gradient(180deg,var(--accent-2),var(--accent));color:#fff;border-color:transparent}
+.empty-message{color:var(--muted);margin:8px 0 0}
+input.edit-input{font-size:15px;padding:8px;border:1px solid rgba(16,24,40,0.06);border-radius:8px}
+@media (max-width:700px){.lists{grid-template-columns:1fr}}
